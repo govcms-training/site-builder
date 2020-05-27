@@ -2,7 +2,7 @@
 
 First of all, thank you for taking the time to provide feedback and/or contribute to the training manuals! We’re continually working on improving these documents with community input and we appreciate any feedback, whether it's helping to contribute to further documentation or code, grammar issues, or simply a suggestion or improvement.
 
-If you want to read the manual you can do so with the following link: [https://salsa-digital.gitbook.io/govcms-site-builder](https://salsa-digital.gitbook.io/govcms-site-builder/).
+If you want to read the manual you can do so with the following link: [https://salsa-digital.gitbook.io/govcms-site-builder](https://salsa-digital.gitbook.io/govcms-site-builder).
 
 If you want to contribute and make changes to the manuals, this page will guide you through the contribution process, outlining which tools we use and the steps you need to follow to contribute.
 
@@ -11,15 +11,15 @@ If you want to contribute and make changes to the manuals, this page will guide 
 There are a few ways you can provide feedback:
 
 * You can email your feedback to govcms.training@salsadigital.com.au.
-* You can submit an issue via the GitHub issue queue: [https://github.com/govcms-training/site-builder/issues](https://github.com/govcms-training/site-builder/issues).
+* You can submit an issue via the GitHub issue queue: [https://github.com/govcms-training/site-builder/issues](https://github.com/govcms-training/site-builder/issues/new).
 
 ## Overview and basics
 
 * The source code for this manual is hosted on Github and uses a service called Gitbook for publishing its documentation. 
 * The manuals are written using Markdown mark up language.
-* The GovCMS content administration manual is part of the [govcms-training](https://github.com/govcms-training) distribution which also includes the [GovCMS site builder manual](https://github.com/govcms-training/content-admin).
+* The GovCMS8 Site Building manual is part of the [govcms-training](https://github.com/govcms-training) distribution which also includes the [GovCMS content administration manual](https://github.com/govcms-training/content-admin).
 * Both these manuals share a [public Roadmap](https://github.com/orgs/govcms-training/projects/1) which lists out issues and feature requests on a kanban board. 
-* [Click here](https://github.com/govcms-training/content-admin/issues) to view the current issue queue for the GovCMS content administration manual. 
+* [Click here](https://github.com/govcms-training/site-builder/issues) to view the current issue queue for the GovCMS content administration manual. 
 * All contributions must be licensed under [CC BY-SA 3.0 AU](https://creativecommons.org/licenses/by-sa/3.0/au/). 
 
 ## Getting started and prerequisites
@@ -36,7 +36,7 @@ For contributing to the manual, the following is needed to get started:
 
 This repo has two branches:
 
-* `master`: reserved for production only. The `master` branch is synced with the [Gitbook page for this manual](https://salsa-digital.gitbook.io/govcms-content-administration/) and is only editable by maintainers of this repo. 
+* `master`: reserved for production only. The `master` branch is synced with the [Gitbook page for this manual](https://salsa-digital.gitbook.io/govcms-site-builder/) and is only editable by maintainers of this repo. 
   * Any changes merged in to `master` will automatically be reflected on Gitbook. 
 * `develop`: the default branch used for development and content changes. 
 
@@ -61,4 +61,3 @@ Moderators will review and comment on pull requests. We may suggest changes, imp
 ## Community
 
 If you have any other questions about contributing to our documentation, please reach out to govcms.training@salsadigital.com.au or join the online [GovCMS Community Discourse](https://community.govcms.gov.au/).
-
