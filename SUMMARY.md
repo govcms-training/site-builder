@@ -1,7 +1,7 @@
 # Table of contents
 
 * [GovCMS8 Site Building Training Manual](README.md)
-* [Contributing and Feedback Guide](contributing-and-feedback-guide.md)
+* [Contributing and Feedback Guide](CONTRIBUTING.md)
 * [Software and module requirements](software-and-module-requirements.md)
 
 ## UNIT 1: FUNCTIONAL ANALYSIS
@@ -110,4 +110,3 @@
 * [Unit 10 Summary](unit-10-site-performance/unit-10-summary.md)
 * [Glossary of terms](unit-10-site-performance/glossary-of-terms.md)
 * [Appendices](unit-10-site-performance/appendices.md)
-
