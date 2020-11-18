@@ -1,4 +1,4 @@
-# Exercice 1.12: Set custom error messages
+# 1.12: Set custom error messages
 
 
 
@@ -7,14 +7,12 @@ Customising error messages is often overlooked, but it’s easy to tailor this e
 
 Description automatically generated](../.gitbook/assets/26.png)
 
-#### **Exercise 1.13:** Create a friendly error page
+#### **Exercise 1.12:** Create a friendly error page
 
 In this exercise you’ll create a custom error message/page. The page could be a graphic, or a useful message.
 
 1. Create **basic pages** with an appropriate message for each situation \(e.g. [http://example.com/notfound](http://example.com/notfound) and http://example.com/accessdenied\)
-2. Specify the error page ![A screenshot of a social media post
-
-   Description automatically generated](../.gitbook/assets/27%20%282%29.png)
+2. Specify the error page ![A screenshot of a custom 404 page](../.gitbook/assets/27%20%282%29.png)
 3. Go to Configuration → System → Basic site settings
 4. Type in the paths in the bottom section on **Error pages**
 5. Save configuration
