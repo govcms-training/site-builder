@@ -1,4 +1,4 @@
-# 1.1 Overview
+# Overview
 
 This unit focuses on the concepts of GovCMS site-building. At this stage, you’re familiar with the essentials of GovCMS. You may have been working already on a GovCMS site but never built one before. Or you may have learned the basics, but don't know how it fits together. Now you want to know how to put the building blocks together to make new, unique websites or applications.
 

@@ -1,4 +1,4 @@
-# Exercice 1.7: Build the related links menu
+# Exercise 2: Build the related links menu
 
 #### **Exercise 1.7:** Build the related links menu
 

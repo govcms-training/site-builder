@@ -1,4 +1,4 @@
-# Exercice 1.8: Assign the related links menu block to a region
+# Exercise 3: Assign the related links menu block to a region
 
 When you create a new menu, GovCMS automatically creates a menu block for the menu. Now we need to assign this menu block with an area on the website.
 

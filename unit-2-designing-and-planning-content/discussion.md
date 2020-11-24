@@ -2,7 +2,7 @@
 
 Thinking of our sample Government Jobs Portal, what content types do you think we’ll need? Do we need to change any of the existing GovCMS content types to suit our needs?
 
-![](.gitbook/assets/30%20%281%29.png)
+![](../.gitbook/assets/30%20%281%29.png)
 
 #### **Exercise 2.2:** A content type in minutes
 
@@ -28,7 +28,7 @@ In this exercise you’ll create a Job Posting content type. The screenshot belo
 
 | Create job posting form | Individual job posting |
 | :--- | :--- |
-| ![](.gitbook/assets/31%20%282%29.png) | ![](.gitbook/assets/32.png) |
+| ![](../.gitbook/assets/31%20%282%29.png) | ![](../.gitbook/assets/32.png) |
 
 As the name suggests, the _Job Posting_ content type will be used to post jobs on the website. There are three stages involved:
 
@@ -48,7 +48,7 @@ As the name suggests, the _Job Posting_ content type will be used to post jobs o
 * Preview before submitting: Disabled
 * **Explanation or submission guidelines**: Leave this empty. This field lets you put in any specific instructions for the content type.
 
-![](.gitbook/assets/33%20%281%29.png)
+![](../.gitbook/assets/33%20%281%29.png)
 
 1. We want jobs to be published by default, but not automatically promoted to the front page, so under **Publishing options** use these settings:
 
@@ -59,7 +59,7 @@ As the name suggests, the _Job Posting_ content type will be used to post jobs o
 
 1. We don’t want the author’s name or the content publish date displayed, so under **Display settings** deselect the _Display author and date information option_.
 2. We also don’t want job listings being added to the menu navigation, so under the default **Menu settings**, deselect Main menu.
-3. Click _**Save and manage fields**_. This brings you to the Manage Fields admin page - admin/structure/types/manage/job\_posting/fields. Review the default fields that were created for your new content type. ![](.gitbook/assets/34.png) 
+3. Click _**Save and manage fields**_. This brings you to the Manage Fields admin page - admin/structure/types/manage/job\_posting/fields. Review the default fields that were created for your new content type. ![](../.gitbook/assets/34.png) 
 4. **Review your content type**
 
 Go to **Content** → **Add content** and select Job posting. Review the form for your new content type.

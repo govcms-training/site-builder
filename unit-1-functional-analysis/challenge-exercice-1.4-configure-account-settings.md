@@ -1,4 +1,4 @@
-# Challenge exercice 1.4: Configure account settings
+# Exercise 1: Configure account settings
 
 In this exercise, you’ll learn how to access various account settings and change them in GovCMS.
 
