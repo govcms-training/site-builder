@@ -42,6 +42,6 @@ In this exercise we’ll compare content form and display using the default cont
      1. Create a **Standard page** titled “About us” _Use a Lorem Ipsum generator to add placeholder text_. Do not add the page to the menu and keep all other defaults. Publish the page.
      2. Create a **News and Media** article titled “Salary rates in 2019 for Government employees” Again, _Use a Lorem Ipsum generator to add placeholder text_. Do not add the page to the menu and keep all other defaults. Publish the page.
         1. Compare content type
-  2. Go to Admin → Content ![](.gitbook/assets/28.png)
+  2. Go to Admin → Content ![](../.gitbook/assets/28.png)
   3. Compare the editing forms and content display. **News and Media** and **Standard Pages** have different default settings.
 

@@ -12,7 +12,7 @@ Different displays can present the query results as pages with fixed URLs on you
 
 You can also use Views to present related content or implement contextual filters. An example of presenting related content is when you want to display a list of users along with links to the content they have created.
 
-### 6.1 Introduction to Views
+## 6.1 Introduction to Views
 
 As an introduction to Views, your instructor will go through some of its features. Views allows you to create filters using dynamic input and also connect content to other content pieces.
 
@@ -20,7 +20,7 @@ It’s important to remember that you’re _limiting_ a data set by using filter
 
 Recommended reading
 
-https://www.drupal.org/docs/8/core/modules/views
+[https://www.drupal.org/docs/8/core/modules/views](https://www.drupal.org/docs/8/core/modules/views)
 
 Basic interface to create a view:
 
@@ -31,11 +31,11 @@ Basic interface to create a view:
 
 ![A screenshot of basic Views interface](../.gitbook/assets/7%20%282%29.png)
 
-### 6.2 Create lists of content using Views
+## 6.2 Create lists of content using Views
 
 In one of the previous units we created the new content type of Job Posting for our Government Jobs website. However, we didn’t set up a way for the list content to be displayed anywhere on our site. In this exercise we’re going to create a list of job postings on one page and a list of News and Media articles on another page. This will help you learn more about the Views module.
 
-#### **Exercise 6.1:** Build the “Employment News” view
+### **Exercise 6.1:** Build the “Employment News” view
 
 In this exercise we’ll build an Employment news page/listing by creating a new view. The screenshot below shows what the employment news page will look like after we’ve created the new Employment news view.
 
@@ -44,13 +44,10 @@ In this exercise we’ll build an Employment news page/listing by creating a new
 1. Create the view using the wizard
 2. Go to **Structure** → **Views** to see the _Views_ admin page - /admin/structure/views.
 3. Click the **Add view** button at the top of the page to access the view creation wizard. To create the Employment news view, enter the below details:
-
-* **View name**: Employment news
-* Select **Description** and type: “Displays a list of news about Employment on the site.” This allows _Site administrators_ to easily see what the view does.
-
-1. To show _News and Media_ content follow the steps below:
-
-* Show _Content_ _**of type**_ _News and Media_ sorted by _Newest first_. These dropdown selections set up the page with the news and media content displaying, showing the most recent article first.
+4. **View name**: Employment news
+5. Select **Description** and type: “Displays a list of news about Employment on the site.” This allows _Site administrators_ to easily see what the view does.
+6. To show _News and Media_ content follow the steps below:
+7. Show _Content_ _**of type**_ _News and Media_ sorted by _Newest first_. These dropdown selections set up the page with the news and media content displaying, showing the most recent article first.
 
 ![](../.gitbook/assets/9%20%281%29.png)
 
@@ -65,9 +62,8 @@ In this exercise we’ll build an Employment news page/listing by creating a new
 * **Create a menu link** to expand options
 * **Menu**: Main navigation
 * Leave default **Link text** as Employment news
-
-1. Click Save and edit![](../.gitbook/assets/11.png)
-2. **Review your changes**
+* Click Save and edit![](../.gitbook/assets/11.png)
+* **Review your changes**
 
 After saving the view, navigate to the frontend of the site. Check if the _Employment news_ appears in the main navigation at the top. Click it to explore any _Employment news_ that you may have published on your site.
 
@@ -75,7 +71,7 @@ After saving the view, navigate to the frontend of the site. Check if the _Emplo
 
 If you only see one article, create additional employment news articles to see how Views takes care of listing them.
 
-#### **Exercise 6.2:** Create Job Posting View
+### **Exercise 6.2:** Create Job Posting View
 
 Repeat the steps above to create the Job Posting view. You may need to create a few more job postings on your site to see how the list feature works.
 
@@ -83,27 +79,27 @@ Make the View name **Job Postings**, URL **/job-postings** and add a **Jobs** li
 
 You will extend this job listing in a later session.
 
-### 6.3 Views displays – multiple views in one
+## 6.3 Views displays – multiple views in one
 
 Views allows you to reuse existing configuration in a good way. If you create a page listing of your content and need to provide a block of page titles or add an RSS feed \(even create more pages\) – View Displays can be used rather than duplicating views.
 
-![A screenshot of a cell phone
+!\[A screenshot of a cell phone
 
-Description automatically generated](../.gitbook/assets/13%20%281%29.png)
+Description automatically generated\]\(../.gitbook/assets/13%20%281%29.png\)
 
 If you explore the existing GovCMS Block Article View – three Displays exist: Page, Feed and Block.
 
-![A screenshot of a cell phone
+!\[A screenshot of a cell phone
 
-Description automatically generated](../.gitbook/assets/14.png)
+Description automatically generated\]\(../.gitbook/assets/14.png\)
 
 Views displays allows you to easily create a duplicate of any other display and add some customisations and overrides.
 
-### 6.4 Views caching
+## 6.4 Views caching
 
 Views also allow you to speed up your site if you have two views that load similar fields. This is because with Views you can cache both the query and rendered output, which reduces the load on your database. You can learn more about Views caching in Unit 10.
 
-### 6.5 Views attachments
+## 6.5 Views attachments
 
 The Views module includes some pre-built templates, which can be activated and edited to suit your requirements.
 
@@ -123,7 +119,7 @@ In this section we’re going to look at the Views editing interface.
 6. **Header**: Add arbitrary HTML to the top and bottom of your views.
 7. **Pager**: Specify how many items to display or whether or not to show a "previous/next" pager.
 
-#### **Exercise 6.3:** A customised News and Media page
+### **Exercise 6.3:** A customised News and Media page
 
 In this exercise we’ll customise the _Employment news_ View page we created earlier, making it show three items of recent content, then a bulleted list of titles of seven recent News and Media articles. Below is what the layout of the page will look like.
 
@@ -143,69 +139,59 @@ There are four stages in this process:
 10. Locate and click the _Contextual links_ pencil and click **Edit view.**
 11. **Change the number of items to display**
 12. Under Pager \(G in screenshot above\) click "mini" to change the settings.
-
-* Select "Display a specified number of items"
-* Click **Apply**
-* Change Items per page: 3
-* Click **Apply**
+13. Select "Display a specified number of items"
+14. Click **Apply**
+15. Change Items per page: 3
+16. Click **Apply**
 
 Now check your preview to confirm three items are displayed.
 
 1. **Add a new display: an attached list**
 2. Next we'll add a list of seven more recent articles to the bottom of this view. At the top \(A in earlier diagram\), click the **+Add** button and select "Attachment".
 3. You’ll now have more than one display available, with the one you’re editing highlighted. Make sure the correct one is always highlighted when you’re editing views. ![](../.gitbook/assets/20%20%282%29.png)
-4. Next click **Unformatted list** under Format in the left column \(B in the earlier screenshot\). A new window will pop up, giving you the option to select the display you're changing.  ![](../.gitbook/assets/21%20%281%29.png)
+4. Next click **Unformatted list** under Format in the left column \(B in the earlier screenshot\). A new window will pop up, giving you the option to select the display you're changing. ![](../.gitbook/assets/21%20%281%29.png)
+5. Select "This attachment"
+6. Select "HTML list"
+7. Click the Apply \(this display\) button.
+8. The next screen is “Attachment: Style options”. Leave all settings as default and click the **Apply** button.
 
-* Select "This attachment"
-* Select "HTML list"
-* Click the Apply \(this display\) button.
-* The next screen is “Attachment: Style options”. Leave all settings as default and click the **Apply** button.
+   ![](../.gitbook/assets/22.png)
 
-  ![](../.gitbook/assets/22.png)
+9. Under **Format** → **Show,** click **Content** to change the settings. ![](../.gitbook/assets/23%20%281%29.png)
+10. Then click **Apply** on the final screen.
+11. You'll see that Views added a _Title_ field for us. If we needed more fields to be displayed, we could have added them using the **Add** button. Let’s continue with only the Title field for now. ![](../.gitbook/assets/24%20%282%29.png)
+12. Check the Preview pane at the bottom of the page to confirm our display is correct:
 
-1. Under **Format** → **Show,** click **Content** to change the settings.  ![](../.gitbook/assets/23%20%281%29.png)
+    ![](../.gitbook/assets/25%20%281%29.png)
 
-* Then click **Apply** on the final screen.
+13. **Add a header to the attachment**
+14. Under Header \(F in the earlier diagram\) click **Add**.
+15. Make sure you’re editing "This attachment \(override\)".
+16. Search for and select "Text area". Apply changes. ![](../.gitbook/assets/26%20%281%29.png)
+17. Make sure the _Text format_ for the **Content** field is _Rich Text_. Then type in the **Content** field: &lt;p&gt;More articles from our contributors&lt;/p&gt;
+18. Apply the changes.
+19. Check that the preview shows text ‘More articles from our contributors’ above the list.
+20. \_**Change the offset to exclude the first three articles**\_Our Attachment view will be displayed below the first three News and Media articles, so we need to exclude those from our list to avoid displaying duplicate content:
+21. Make sure you're still editing the **Attachment** display \(A in earlier diagram\). Under the Pager settings \(G in earlier diagram\) in the centre column, click "10 items" to change the setting.
+22. Change the “Items to display” to 7 and the "Offset" to 3. Apply the changes.
 
-1. You'll see that Views added a _Title_ field for us. If we needed more fields to be displayed, we could have added them using the **Add** button. Let’s continue with only the Title field for now. ![](../.gitbook/assets/24%20%282%29.png) 
-2. Check the Preview pane at the bottom of the page to confirm our display is correct:
+    ![](../.gitbook/assets/27.png)
 
-   ![](../.gitbook/assets/25%20%281%29.png)
+23. **Change the attachment settings**
+24. Under "Attachment settings" in the centre column click the option "Attach to: Not defined". ![](../.gitbook/assets/28%20%281%29.png)
+25. Select "page". Apply the changes. ![](../.gitbook/assets/29.png)
+26. Click "Attachment position:Before".
+27. Select "After". Apply the changes. ![](../.gitbook/assets/30%20%282%29.png)
+28. **Review your changes**
+29. Click the **Save** button to save your changes.
+30. Return to the _Employment news_ page and review the changes.
+31. You may create more News and Media content to test it. Make sure you publish any new content before reviewing the _Employment news_ page.
 
-3. **Add a header to the attachment**
-4. Under Header \(F in the earlier diagram\) click **Add**.
-5. Make sure you’re editing "This attachment \(override\)".
-
-* Search for and select "Text area". Apply changes. ![](../.gitbook/assets/26%20%281%29.png) 
-* Make sure the _Text format_ for the **Content** field is _Rich Text_. Then type in the **Content** field: &lt;p&gt;More articles from our contributors&lt;/p&gt;
-* Apply the changes.
-
-1. Check that the preview shows text ‘More articles from our contributors’ above the list.
-2. _**Change the offset to exclude the first three articles**_Our Attachment view will be displayed below the first three News and Media articles, so we need to exclude those from our list to avoid displaying duplicate content:
-3. Make sure you're still editing the **Attachment** display \(A in earlier diagram\). Under the Pager settings \(G in earlier diagram\) in the centre column, click "10 items" to change the setting.
-4. Change the “Items to display” to 7 and the "Offset" to 3. Apply the changes.
-
-   ![](../.gitbook/assets/27.png)
-
-5. **Change the attachment settings**
-6. Under "Attachment settings" in the centre column click the option "Attach to: Not defined". ![](../.gitbook/assets/28%20%281%29.png)
-
-* Select "page". Apply the changes. ![](../.gitbook/assets/29.png)
-
-1. Click "Attachment position:Before".
-
-* Select "After". Apply the changes. ![](../.gitbook/assets/30%20%282%29.png)
-
-1. **Review your changes**
-2. Click the **Save** button to save your changes.
-3. Return to the _Employment news_ page and review the changes.
-4. You may create more News and Media content to test it. Make sure you publish any new content before reviewing the _Employment news_ page.
-
-#### **Challenge Exercise 6.4 \(optional\):** Reuse a Views template
+### **Challenge Exercise 6.4 \(optional\):** Reuse a Views template
 
 Duplicate a previously created View and modify its filters to display a full blog article content item and five more most recent blog article titles below it. Use the same techniques as in the previous exercise.
 
-### Related content with Views \(contextual filters\)
+## Related content with Views \(contextual filters\)
 
 In the above exercises, we used filters in Views to limit the data displayed \(e.g. to show certain content types or show content categorised with a specific taxonomy term. For our Jobs website, we want to show related content when we view a job listing for a specific state/territory, without having to build a new view for each new state. The solution is to use context to control the items displayed. We can set up GovCMS to check the taxonomy terms from the article, and dynamically include content that’s categorised with the same term.
 

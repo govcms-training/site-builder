@@ -62,7 +62,9 @@ Try to conduct a search for a published Job posting content type. You’ll notic
     </tr>
   </thead>
   <tbody></tbody>
-</table>This is because the search index isn’t configured to display the right View mode for the Job posting content type and it shows the same content as the full-page view.
+</table>
+
+This is because the search index isn’t configured to display the right View mode for the Job posting content type and it shows the same content as the full-page view.
 
 Let’s change that, by activating Search view mode in the Job Posting content type and then configuring the search to use it.
 
@@ -100,5 +102,7 @@ Let’s change that, by activating Search view mode in the Job Posting content t
     </tr>
   </thead>
   <tbody></tbody>
-</table>1. You may return to the Search view mode in the Job posting content type and change it further, to test how your changes affect the search results display widget.
+</table>
+
+1. You may return to the Search view mode in the Job posting content type and change it further, to test how your changes affect the search results display widget.
 

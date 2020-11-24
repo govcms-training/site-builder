@@ -1,7 +1,7 @@
 # Table of contents
 
 * [GovCMS8 Site Building Training Manual](README.md)
-* [Contributing and Feedback Guide](CONTRIBUTING.md)
+* [Contributing and Feedback Guide](contributing.md)
 * [Software and module requirements](software-and-module-requirements.md)
 
 ## UNIT 1: FUNCTIONAL ANALYSIS
@@ -30,15 +30,15 @@
 
 ## UNIT 2: DESIGNING AND PLANNING CONTENT
 
-* [Designing and planning content](designing-and-planning-content.md)
-* [2.2 Planning your site structure](2.2-planning-your-site-structure.md)
-* [Planning data entry and display](planning-data-entry-and-display.md)
-* [Content stragedy](content-stragedy.md)
-* [Discussion](discussion.md)
-* [2.4 Add and configure fields](2.4-add-and-configure-fields.md)
-* [2.5 Manage form display](2.5-manage-form-display.md)
-* [2.7 Testing content types](2.7-testing-content-types.md)
-* [Unit 2 Summary](unit-2-summary.md)
+* [Designing and planning content](unit-2-designing-and-planning-content/designing-and-planning-content.md)
+* [2.2 Planning your site structure](unit-2-designing-and-planning-content/2.2-planning-your-site-structure.md)
+* [Planning data entry and display](unit-2-designing-and-planning-content/planning-data-entry-and-display.md)
+* [Content stragedy](unit-2-designing-and-planning-content/content-stragedy.md)
+* [Discussion](unit-2-designing-and-planning-content/discussion.md)
+* [2.4 Add and configure fields](unit-2-designing-and-planning-content/2.4-add-and-configure-fields.md)
+* [2.5 Manage form display](unit-2-designing-and-planning-content/2.5-manage-form-display.md)
+* [2.7 Testing content types](unit-2-designing-and-planning-content/2.7-testing-content-types.md)
+* [Unit 2 Summary](unit-2-designing-and-planning-content/unit-2-summary.md)
 
 ## UNIT 3: MANAGE MEDIA
 
@@ -110,3 +110,4 @@
 * [Unit 10 Summary](unit-10-site-performance/unit-10-summary.md)
 * [Glossary of terms](unit-10-site-performance/glossary-of-terms.md)
 * [Appendices](unit-10-site-performance/appendices.md)
+
