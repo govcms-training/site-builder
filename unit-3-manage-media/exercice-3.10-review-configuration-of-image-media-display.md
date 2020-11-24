@@ -1,4 +1,4 @@
-# Exercice 3.10: Review configuration of image media display
+# Exercise 6: Review configuration of image media display
 
 When embedding media assets from other content types and entity types, we have the option to display them rendered, in which case we have to select the required view mode. In this exercise we’ll explore how Display modes in the Media type **Image** link to the _Image styles_.
 

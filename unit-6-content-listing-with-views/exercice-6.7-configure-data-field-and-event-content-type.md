@@ -1,4 +1,4 @@
-# Exercice 6.7: Configure data field and Event content type
+# Exercise 7: Configure data field and Event content type
 
 For this exercise, we’ll provide hints - try to configure the event listing content type without looking back on the notes/previous instructions.
 

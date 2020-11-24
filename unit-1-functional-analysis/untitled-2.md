@@ -1,4 +1,4 @@
-# Exercice 1.12: Set custom error messages
+# Exercise 5: Set custom error messages
 
 Customising error messages is often overlooked, but it’s easy to tailor this experience for your website. See: [https://salsadigital.com.au/somepage](https://salsadigital.com.au/somepage) as an example.  
 !\[A close up of a piece of paper

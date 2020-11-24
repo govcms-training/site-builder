@@ -1,4 +1,4 @@
-# Exercice 9.3: Create new search page with Search API
+# Exercise 8: Create new search page with Search API
 
 
 
