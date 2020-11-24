@@ -1,14 +1,12 @@
 # Content listing with Views
 
-In this unit we’ll focus on Views, a popular contributed module.
+In this unit we’ll focus on Views, a popular core module.
 
 Using the Views module, we can fetch content from the database of our site and present it to the user as lists, posts, galleries, tables, maps, graphs, menu items, blocks, reports, forum posts, etc. Different content types including nodes, users, and other bundles can be displayed.
 
 Views UI, a submodule within Views, provides a graphical interface underneath which lies a powerful SQL query builder that can access virtually any information in your database and display it in any format.
 
-![A screenshot of a cell phone
-
-Description automatically generated](../.gitbook/assets/6%20%282%29.png)
+![A screenshot of Views UI - a way to create content listing in GovCMS](../.gitbook/assets/6%20%282%29.png)
 
 Different displays can present the query results as pages with fixed URLs on your site \(or URLs accepting arguments\), blocks, feeds, or panel panes.
 
@@ -19,8 +17,6 @@ You can also use Views to present related content or implement contextual filter
 As an introduction to Views, your instructor will go through some of its features. Views allows you to create filters using dynamic input and also connect content to other content pieces.
 
 It’s important to remember that you’re _limiting_ a data set by using filters and selecting the appropriate \(and only the necessary\) fields. If you’ve got a very large website and try to display full nodes on one page, you will destroy the site. Keep this in mind to avoid any issues.
-
-Further information is available at [http://drupal.org/project/views](http://drupal.org/project/views).
 
 Recommended reading
 
@@ -33,9 +29,7 @@ Basic interface to create a view:
 3. **Specify how to display,** lists, tables, grid etc.
 4. **Set a display,** such as a page, block, RSS feed, etc.
 
-![A screenshot of a cell phone
-
-Description automatically generated](../.gitbook/assets/7%20%282%29.png)
+![A screenshot of basic Views interface](../.gitbook/assets/7%20%282%29.png)
 
 ### 6.2 Create lists of content using Views
 
@@ -89,7 +83,7 @@ Make the View name **Job Postings**, URL **/job-postings** and add a **Jobs** li
 
 You will extend this job listing in a later session.
 
-### 6.4 Views displays – multiple views in one
+### 6.3 Views displays – multiple views in one
 
 Views allows you to reuse existing configuration in a good way. If you create a page listing of your content and need to provide a block of page titles or add an RSS feed \(even create more pages\) – View Displays can be used rather than duplicating views.
 
@@ -105,11 +99,11 @@ Description automatically generated](../.gitbook/assets/14.png)
 
 Views displays allows you to easily create a duplicate of any other display and add some customisations and overrides.
 
-### 6.5 Views caching
+### 6.4 Views caching
 
 Views also allow you to speed up your site if you have two views that load similar fields. This is because with Views you can cache both the query and rendered output, which reduces the load on your database. You can learn more about Views caching in Unit 10.
 
-### 6.6 Views attachments
+### 6.5 Views attachments
 
 The Views module includes some pre-built templates, which can be activated and edited to suit your requirements.
 
