@@ -4,7 +4,7 @@
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2Fgovcms-site-builder%2F-LzEeysPiuilE7VSaStD%2F-LzEfAJUmyaoiKMb8l4_%2F115.png?generation=1579737221013347&alt=media)
 
-#### **Exercise 8.5:** Create the author block
+#### **Exercise 8.6:** Create the author block
 
 In this exercise we’ll create an author block.
 
