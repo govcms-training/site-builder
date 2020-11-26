@@ -14,7 +14,7 @@ When you add a field for file type, you’ll configure the “file directory”.
 
 Keep your directories organised as you go by adding a file path for each new file field.
 
-1. **Public versus private files**
+2. **Public versus private files**
 
 Go to Configuration → Media → File system
 
