@@ -4,8 +4,6 @@
 
 In the next exercise, we’ll add a link field to one content type.
 
-Below are the modules in GovCMS that provide custom content type fields. These may include validation, formatting and uploading widgets.
-
 #### **Exercise 8.1:** Add an external link field
 
 There are many different ways to extend content types by adding extra fields. One example is Link, which lets you enter in HTTP addresses. In this exercise we’ll add a new link field to the _Job Posting_ content type. The link will go to “More information” on another website.
