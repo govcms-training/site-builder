@@ -39,9 +39,7 @@ Content types often share information such as taxonomy terms, authors, and so on
 
 In this exercise, we’ll add in the logo of the agency offering the job, by setting up a View relationship. In the current setup, the agency’s logo is part of the Agency content type, and the view of _Job Posting_ doesn’t allow us to show it. If we link the two content types together, we can display the agency logo in the job posting \(like the screenshot below\).
 
-![A screenshot of a social media post
-
-Description automatically generated](../.gitbook/assets/96.png)
+![Screenshot: Adding logo display to the Job Posting view](../.gitbook/assets/96.png)
 
 Logo display in Job posting page
 
