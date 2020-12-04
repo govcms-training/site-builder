@@ -99,7 +99,7 @@ With the relationship setup, you can now add the fields in the Job Listing conte
 To experiment with these features, try the following exercises:
 
 * Add a post date to the listing so the jobs can be sorted by date
-* Customise the Agency link field to display inline with the label
+* Customise the Agency link field to display inline with the label (this may require adding some inline CSS).
 * Rearrange the fields like we’ve done in the screenshot below
 
 ![](../.gitbook/assets/114.png)
