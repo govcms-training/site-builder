@@ -94,7 +94,7 @@ With the relationship setup, you can now add the fields in the Job Listing conte
 
 ![](../.gitbook/assets/113%20%281%29.png)
 
-#### **Exercise 8.4:** Challenge exercises
+#### **Exercise 8.5:** Challenge exercises
 
 To experiment with these features, try the following exercises:
 
