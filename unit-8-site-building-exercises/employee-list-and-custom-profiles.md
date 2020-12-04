@@ -6,7 +6,7 @@ Site visitors would like to see who else is a member on the site. This also prom
 
 As you work, consider how you can use a similar process to make an image gallery on a site.
 
-#### **Exercise 8.6:** Set up profile fields
+#### **Exercise 8.7:** Set up profile fields
 
 Previously, you added fields to content types. You can also add fields to user profiles. This means you can let users share information about themselves and then you can display it. You can also control permissions so only trusted users can see profiles. Below you can see the profiles will have a text field for description and also a list of interests and a profile picture.
 
@@ -53,7 +53,7 @@ You can also manage the display of the fields, for example hiding the label. As 
 
 #### 
 
-#### **Exercise 8.7:** Create the list of users
+#### **Exercise 8.8:** Create the list of users
 
 In this exercise, you’ll make a grid display of user profile pictures like this:
 
@@ -92,7 +92,7 @@ In this exercise, you’ll make a grid display of user profile pictures like thi
 
 ![](../.gitbook/assets/133%20%281%29.png)
 
-#### **Exercise 8.8:** Edit the existing view to filter out roles
+#### **Exercise 8.9:** Edit the existing view to filter out roles
 
 As you can see in the above screenshot, the view we built shows the site administrator user. If we had multiple users in the Site Administrator role, all administrators would be listed here, in our view. In this exercise we hide those administrator users, by adding a role filter to our view.
 
@@ -103,7 +103,7 @@ As you can see in the above screenshot, the view we built shows the site adminis
 5. Apply your changes and preview the result below.
 6. Save the view and review the Members page, you shouldn’t see the **Site Administrator** users.
 
-#### **Exercise 8.9:** Create a custom layout
+#### **Exercise 8.10:** Create a custom layout
 
 User profiles currently list all content in one column. In this exercise we’ll re-arrange the profile information into two columns. We’ll change the layout of user profiles using **Display suite**.
 
@@ -143,7 +143,7 @@ You’ll see that the _secondary tabs_ are missing and we cannot select a custom
 
 ![](../.gitbook/assets/140%20%281%29.png)
 
-#### Challenge Exercise 8.10: An image gallery
+#### Challenge Exercise 8.11: An image gallery
 
 ![](../.gitbook/assets/141%20%281%29.png)
 
