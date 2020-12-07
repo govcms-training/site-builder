@@ -1,2 +1,2 @@
-# Content stragedy
+# Content strategy
 
