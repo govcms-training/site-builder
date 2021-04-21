@@ -125,7 +125,7 @@ In this exercise we’ll customise the _Employment news_ View page we created ea
 
 ![](../.gitbook/assets/18%20%281%29.png)
 
-There are four stages in this process:
+There are seven stages in this process:
 
 1. Locate the View and edit using contextual links
 2. Change the number of items to display
@@ -134,58 +134,60 @@ There are four stages in this process:
 5. Change the offset to exclude the first three articles
 6. Change the attachment setting
 7. Review your changes
-8. **Locate the View and edit using contextual links**
-9. Navigate to the _Employment news_ page we created earlier ![](../.gitbook/assets/19%20%282%29.png)
-10. Locate and click the _Contextual links_ pencil and click **Edit view.**
-11. **Change the number of items to display**
-12. Under Pager \(G in screenshot above\) click "mini" to change the settings.
-13. Select "Display a specified number of items"
-14. Click **Apply**
-15. Change Items per page: 3
-16. Click **Apply**
 
-Now check your preview to confirm three items are displayed.
+Let's walk through each stage in details:
 
-1. **Add a new display: an attached list**
-2. Next we'll add a list of seven more recent articles to the bottom of this view. At the top \(A in earlier diagram\), click the **+Add** button and select "Attachment".
-3. You’ll now have more than one display available, with the one you’re editing highlighted. Make sure the correct one is always highlighted when you’re editing views. ![](../.gitbook/assets/20%20%282%29.png)
-4. Next click **Unformatted list** under Format in the left column \(B in the earlier screenshot\). A new window will pop up, giving you the option to select the display you're changing. ![](../.gitbook/assets/21%20%281%29.png)
-5. Select "This attachment"
-6. Select "HTML list"
-7. Click the Apply \(this display\) button.
-8. The next screen is “Attachment: Style options”. Leave all settings as default and click the **Apply** button.
+1. **Locate the View and edit using contextual links**
+1.1. Navigate to the _Employment news_ page we created earlier ![](../.gitbook/assets/19%20%282%29.png)
+1.2. Locate and click the _Contextual links_ pencil and click **Edit view.**
+2. **Change the number of items to display**
+2.1. Under Pager \(G in screenshot above\) click "mini" to change the settings.
+2.2. Select "Display a specified number of items"
+2.3. Click **Apply**
+2.4. Change Items per page: 3
+2.5. Click **Apply**
+2.6. Now check your preview to confirm three items are displayed.
+
+3. **Add a new display: an attached list**
+3.1. Next we'll add a list of seven more recent articles to the bottom of this view. At the top \(A in earlier diagram\), click the **+Add** button and select "Attachment".
+3.2. You’ll now have more than one display available, with the one you’re editing highlighted. Make sure the correct one is always highlighted when you’re editing views. ![](../.gitbook/assets/20%20%282%29.png)
+3.3. Next click **Unformatted list** under Format in the left column \(B in the earlier screenshot\). A new window will pop up, giving you the option to select the display you're changing. ![](../.gitbook/assets/21%20%281%29.png)
+3.3.1. Select "This attachment"
+3.3.2. Select "HTML list"
+3.3.3. Click the Apply \(this display\) button.
+3.3.4. The next screen is “Attachment: Style options”. Leave all settings as default and click the **Apply** button.
 
    ![](../.gitbook/assets/22.png)
 
-9. Under **Format** → **Show,** click **Content** to change the settings. ![](../.gitbook/assets/23%20%281%29.png)
-10. Then click **Apply** on the final screen.
-11. You'll see that Views added a _Title_ field for us. If we needed more fields to be displayed, we could have added them using the **Add** button. Let’s continue with only the Title field for now. ![](../.gitbook/assets/24%20%282%29.png)
-12. Check the Preview pane at the bottom of the page to confirm our display is correct:
+3.4. Under **Format** → **Show,** click **Content** to change the settings. ![](../.gitbook/assets/23%20%281%29.png)
+3.4.1. Then click **Apply** on the final screen.
+3.5. You'll see that Views added a _Title_ field for us. If we needed more fields to be displayed, we could have added them using the **Add** button. Let’s continue with only the Title field for now. ![](../.gitbook/assets/24%20%282%29.png)
+3.6. Check the Preview pane at the bottom of the page to confirm our display is correct:
 
     ![](../.gitbook/assets/25%20%281%29.png)
 
-13. **Add a header to the attachment**
-14. Under Header \(F in the earlier diagram\) click **Add**.
-15. Make sure you’re editing "This attachment \(override\)".
-16. Search for and select "Text area". Apply changes. ![](../.gitbook/assets/26%20%281%29.png)
-17. Make sure the _Text format_ for the **Content** field is _Rich Text_. Then type in the **Content** field: &lt;p&gt;More articles from our contributors&lt;/p&gt;
-18. Apply the changes.
-19. Check that the preview shows text ‘More articles from our contributors’ above the list.
-20. \_**Change the offset to exclude the first three articles**\_Our Attachment view will be displayed below the first three News and Media articles, so we need to exclude those from our list to avoid displaying duplicate content:
-21. Make sure you're still editing the **Attachment** display \(A in earlier diagram\). Under the Pager settings \(G in earlier diagram\) in the centre column, click "10 items" to change the setting.
-22. Change the “Items to display” to 7 and the "Offset" to 3. Apply the changes.
+4. **Add a header to the attachment**
+4.1. Under Header \(F in the earlier diagram\) click **Add**.
+4.2. Make sure you’re editing "This attachment \(override\)".
+4.2.1. Search for and select "Text area". Apply changes. ![](../.gitbook/assets/26%20%281%29.png)
+4.2.2. Make sure the _Text format_ for the **Content** field is _Rich Text_. Then type in the **Content** field: &lt;p&gt;More articles from our contributors&lt;/p&gt;
+4.2.3. Apply the changes.
+4.3. Check that the preview shows text ‘More articles from our contributors’ above the list.
+5. \_**Change the offset to exclude the first three articles**\_Our Attachment view will be displayed below the first three News and Media articles, so we need to exclude those from our list to avoid displaying duplicate content:
+5.1. Make sure you're still editing the **Attachment** display \(A in earlier diagram\). Under the Pager settings \(G in earlier diagram\) in the centre column, click "10 items" to change the setting.
+5.2. Change the “Items to display” to 7 and the "Offset" to 3. Apply the changes.
 
     ![](../.gitbook/assets/27.png)
 
-23. **Change the attachment settings**
-24. Under "Attachment settings" in the centre column click the option "Attach to: Not defined". ![](../.gitbook/assets/28%20%281%29.png)
-25. Select "page". Apply the changes. ![](../.gitbook/assets/29.png)
-26. Click "Attachment position:Before".
-27. Select "After". Apply the changes. ![](../.gitbook/assets/30%20%282%29.png)
-28. **Review your changes**
-29. Click the **Save** button to save your changes.
-30. Return to the _Employment news_ page and review the changes.
-31. You may create more News and Media content to test it. Make sure you publish any new content before reviewing the _Employment news_ page.
+6. **Change the attachment settings**
+6.1. Under "Attachment settings" in the centre column click the option "Attach to: Not defined". ![](../.gitbook/assets/28%20%281%29.png)
+6.1.1. Select "page". Apply the changes. ![](../.gitbook/assets/29.png)
+6.2. Click "Attachment position:Before".
+6.2.1. Select "After". Apply the changes. ![](../.gitbook/assets/30%20%282%29.png)
+7. **Review your changes**
+7.1. Click the **Save** button to save your changes.
+7.2. Return to the _Employment news_ page and review the changes.
+7.3. You may create more News and Media content to test it. Make sure you publish any new content before reviewing the _Employment news_ page.
 
 ### **Challenge Exercise 6.4 \(optional\):** Reuse a Views template
 
