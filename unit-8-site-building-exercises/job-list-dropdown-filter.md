@@ -25,6 +25,7 @@ In this exercise we’ll configure the job listing so it filters by terms of emp
   * 1. Click Save and edit
 
 **Configure the view**
+Based to knowledge acquired from previous units in this manual, add a filter by terms of employment, and expose to the site visitors. Use the preview section located below the view configuration form to accomplish this task. Once you are happy with how it has been configured, save the view.
 
 **Review your changes**  
 Review your changes by checking your homepage. “Jobs” will be part of the main navigation \(because you added it to the menu\) and you’ll now see a dropdown menu that filters the job postings.
