@@ -11,7 +11,7 @@ In this exercise we’ll create an author block.
 To maximise this exercise, make sure user accounts have profile images. Out-of-the-box, GovCMS8 does not have a profile image available. Let’s add it.
 
 1. Navigate to **Configuration** → **People** → **Account settings** → **Manage fields**. You’ll notice that this interface is exactly the same as for _content types_.
-2. Add an Image field, using your previous experience adding fields. Make the Image field match the following criteria:![](../.gitbook/assets/199.png)
+2. Add an Image field, using your previous experience adding fields. Make the Image field match the following criteria:![](<../.gitbook/assets/116 (1).png>)
 
 * **Field type**: Reference > Image
 * **Label**: Profile Image
@@ -37,7 +37,7 @@ Alternatively use the _Generate content_ function (**Configuration** → **Devel
 
 **Note:** If the _Generate content function_ was used, make sure you publish your _News_ and _media_ posts. Remember, they’re not published by default due to the _Moderation workflow_ in place.
 
-![](../.gitbook/assets/200.png)
+![](../.gitbook/assets/117.png)
 
 **Add a new View**
 
@@ -48,12 +48,12 @@ Alternatively use the _Generate content_ function (**Configuration** → **Devel
 * Show “Users” sorted by “Unsorted”
 * Select “Create a block”
 * Ensure display format is _Unformatted list_ or _Fields_.
-* Change items per page to 1. Use the defaults for everything else (ensure the settings are as shown in the image below) ![](../.gitbook/assets/201.png)
+* Change items per page to 1. Use the defaults for everything else (ensure the settings are as shown in the image below) ![](<../.gitbook/assets/118 (1).png>)
 * Click Save and edit
 
 This loads the full Views editing screen. This illustration correlates to the steps outlined below.
 
-![](../.gitbook/assets/202.png)
+![](../.gitbook/assets/119.png)
 
 **Add fields to the View**\
 Notice the “Advanced” options available in Views.
@@ -81,7 +81,7 @@ Notice the “Advanced” options available in Views.
 1. In the next screen, select “Provide default value”. This opens extra options.
 
 * Under type: Select “User ID from route context”
-* Select “Also look for a node and use the node author” ![](../.gitbook/assets/203.png)
+* Select “Also look for a node and use the node author” ![](<../.gitbook/assets/120 (1).png>)
 
 1. Select _Specify validation criteria_ under “When the filter value IS available or a default is provided” and select **User ID** as **Validator**.
 2. Click **Apply**. The window will close.
@@ -97,11 +97,11 @@ Now we can configure the block to display on News and Media articles. The News a
 
 Check the _Manage Display_ page of the _News and media_ content type:
 
-![](../.gitbook/assets/204.png)
+![](<../.gitbook/assets/121 (1).png>)
 
 You’ll see that the page has multiple View modes activated. The Full content view mode overrides the page display for our content type. Let’s explore it.
 
-![](../.gitbook/assets/205.png)
+![](<../.gitbook/assets/122 (1).png>)
 
 Notice that this display configuration page looks completely different to our Job posting content type. Instead of fields and display modes we see Displays here. By default, the Sidebar right display is used to render our News and Media content.
 
@@ -109,24 +109,24 @@ You may also notice that the Content Editors are allowed to select which display
 
 Let’s review how the panelizer content is configured. We’ll practice placing the Content Author block in our News and Media articles.
 
-1. Click the **Edit** button in the Sidebar Right (2:1) row ![](../.gitbook/assets/206.png)
+1. Click the **Edit** button in the Sidebar Right (2:1) row ![](<../.gitbook/assets/123 (1) (1).png>)
 
 Click the **Content** vertical tab on the left:\
-![](../.gitbook/assets/207.png)
+![](<../.gitbook/assets/124 (1).png>)
 
 Explore the Content page. See how it has their own regions defined\
-![](../.gitbook/assets/208.png)
+![](<../.gitbook/assets/125 (1).png>)
 
 Click the **Add new block** button at the top of the page
 
 Under the Lists (Views), locate the block we prepared earlier:\
-![](../.gitbook/assets/209.png)
+![](<../.gitbook/assets/126 (1).png>)
 
 Select **Sidebar** region and **Add block**\
-![](../.gitbook/assets/210.png)
+![](<../.gitbook/assets/127 (1).png>)
 
 Position the About the author block below other blocks within the Sidebar region\
-![](../.gitbook/assets/211.png)
+![](../.gitbook/assets/128.png)
 
 Click Update and Save
 
@@ -139,7 +139,7 @@ At the moment, anonymous users can’t see the block. The final step is to set u
 *
   1. Go to People → Permissions
   2. Scroll down to “View user information”
-  3. Select to allow _Anonymous_ and _Authenticated users_ to View user information ![](../.gitbook/assets/212.png)
+  3. Select to allow _Anonymous_ and _Authenticated users_ to View user information ![](../.gitbook/assets/129.png)
   4. Scroll down and click **Save permissions**
 
 Now when you go back and check the site as an anonymous user you’ll see the author information.

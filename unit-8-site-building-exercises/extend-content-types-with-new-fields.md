@@ -8,7 +8,7 @@ There are many different ways to extend content types by adding extra fields. On
 
 1. **Add the link field**
    1. Go to Structure → Content types → Job posting and click on the Manage fields tab.
-   2. Add a new field and use the following settings: ![](../.gitbook/assets/161.png)
+   2. Add a new field and use the following settings: ![](../.gitbook/assets/78.png)
    3. Click **Save and continue.** This will take you to the Field settings page. There are no changes so just click **Save settings**_._ This takes you to the settings for this field on the _Job posting_ content type.
 
 **Test it**

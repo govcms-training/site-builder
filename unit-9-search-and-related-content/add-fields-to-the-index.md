@@ -19,13 +19,13 @@ In addition, we need to add a fully rendered entity, as it is seen by Anonymous 
 Click **Done** and then **Save changes**
 
 *
-  1. Edit the Rendered HTML output (rendered\_item). Make sure the **Default** is selected as the **View mode for** _**Content**_ **»** _**Job Posting**_ field. ![](../.gitbook/assets/237.png)
+  1. Edit the Rendered HTML output (rendered\_item). Make sure the **Default** is selected as the **View mode for** _**Content**_ **»** _**Job Posting**_ field. ![](../.gitbook/assets/154.png)
 
 **Index all content**\
 Before we can use search, all Job Posting content on the site needs to be reindexed.
 
 *
-  1. Click the View tab at the top ![](../.gitbook/assets/238.png)
+  1. Click the View tab at the top ![](<../.gitbook/assets/155 (1).png>)
   2. Click the **Index now** button and wait for the batch process to complete
 
 **Create Search API View Job Posting Search**\
@@ -57,7 +57,7 @@ Before we can use search, all Job Posting content on the site needs to be reinde
 **Add search field**
 
 *
-  1. Return to the View edit interface ![](../.gitbook/assets/239.png)
+  1. Return to the View edit interface ![](<../.gitbook/assets/156 (1).png>)
   2. Under Filter Criteria, click **Add**
   3. Search for “Fulltext search” from the Search category. Add it and configure the filter
   4. Expose this filter to visitors, to allow them to change it
@@ -72,13 +72,13 @@ Before we can use search, all Job Posting content on the site needs to be reinde
   2. Add Sort criteria, Relevance.
   3. Test it out.
 
-![](../.gitbook/assets/240.png)
+![](<../.gitbook/assets/157 (1).png>)
 
 #### **Exercise 9.4:** Extend the search with Facets
 
 Facets is a great tool to improve search UI by adding filtering options that the end user can use to filter the search results by category, price, location and any other field. A typical use of a Facet is to allow filtering the search results by a price range on a shopping cart website.
 
-![](../.gitbook/assets/241.png)
+![](../.gitbook/assets/158.png)
 
 Our Job posting content type provides fields such as Terms of employment, State/Territory and Agency. Let’s add them as facets and see if that improves our search.
 
@@ -90,7 +90,7 @@ Our Job posting content type provides fields such as Terms of employment, State/
    5. Ensure the “Administer Facets” permission is given to the right user roles.
 2. **Configure Facets**
    1. Go to **Administration** → **Configuration** → **Search and metadata** → **Facets**. This page has a few facet sources available. These facets were created for you by the Facets module from each of the Views in your site. As you may expand your site with more Views that use a Search API index, they all become available here.
-   2. Locate our Job search in the Facet source, and click **configure**: ![](../.gitbook/assets/243.png)
+   2. Locate our Job search in the Facet source, and click **configure**: ![](<../.gitbook/assets/160 (1).png>)
    3. Enter a unique filter key. This key will be used in the query string to identify the facet source, which avoids errors when using multiple facets. We could leave this configuration empty; in which case the Facets will use an internally generated string.
 3. **Add State/Territory facet**
    1. Click the **Add facet** button.
@@ -121,4 +121,4 @@ Our Job posting content type provides fields such as Terms of employment, State/
    19. Place the State/Territory block (category Facets) into the **Content top** region.
    20. Save the block layout page.
    21. Test your facet by navigating to the **Jobs Search** page.
-4. Use your experience from the previous step and create a facet for the **Agency** field. Place it as a block in the **Content Top** region. ![](../.gitbook/assets/244.png)
+4. Use your experience from the previous step and create a facet for the **Agency** field. Place it as a block in the **Content Top** region. ![](<../.gitbook/assets/161 (1).png>)

@@ -21,7 +21,7 @@ GovCMS websites can be put into offline _maintenance mode,_ so you can perform s
 In this exercise you’ll learn how to put your site into maintenance mode and how to put it back online.
 
 1. Set maintenance mode permissions
-   1. Navigate to **People** → **Permissions** ![](../.gitbook/assets/249.png)
+   1. Navigate to **People** → **Permissions** ![](../.gitbook/assets/166.png)
    2. Find permission “Use the site in maintenance mode” and select roles you wish to allow to log in during this time.
    3. Save the configuration.
 
@@ -33,11 +33,11 @@ Put site into maintenance mode
   1. Login to your site as user 1 (the account you created when you installed GovCMS). If you run your site locally, execute “ahoy login” command in terminal, to get the one-time login URL. If you are provided with a hosted training environment, use username **admin**) and click on the _Configuration_ tab in the admin menu. Under the _development_ section, select _Maintenance mode_ – this will take you to the _Maintenance mode_ admin page.
   2.  Check the _put site into maintenance mode_ checkbox and enter a message site visitors will see while the site is offline. Click the **Save configuration** button to put the site in maintenance mode and take it offline.
 
-      <img src="../.gitbook/assets/250.png" alt="" data-size="original">
+      <img src="../.gitbook/assets/167 (1).png" alt="" data-size="original">
   3. To test the maintenance mode, logout of the site (or use an incognito mode or different browser). You should now see a _Site under maintenance_ page displaying the message you entered.
 
 Take site out of maintenance mode
 
 *
-  1. Go to the user login page at [http://example.com/user](http://mysite.com/user). Login as user 1 to perform any required maintenance tasks. GovCMS now displays an admin message on every page (see screenshot below): ![](../.gitbook/assets/251.png)
+  1. Go to the user login page at [http://example.com/user](http://mysite.com/user). Login as user 1 to perform any required maintenance tasks. GovCMS now displays an admin message on every page (see screenshot below): ![](<../.gitbook/assets/168 (1).png>)
   2. You can click **Go online** when you’re ready to put the site back online. From the Maintenance admin page, deselect the _put site into maintenance mode_ checkbox and click **Save configuration**. Your site will then be back online.

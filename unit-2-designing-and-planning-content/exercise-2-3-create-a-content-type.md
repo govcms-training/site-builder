@@ -6,9 +6,9 @@ https://www.drupal.org/docs/user\_guide/en/structure-content-type.html
 
 In this exercise you’ll create a Job Posting content type. The screenshot below shows the form and what the posting will look like on the website.
 
-| Create job posting form        | Individual job posting               |
-| ------------------------------ | ------------------------------------ |
-| ![](../.gitbook/assets/31.png) | ![](<../.gitbook/assets/32 (2).png>) |
+| Create job posting form              | Individual job posting         |
+| ------------------------------------ | ------------------------------ |
+| ![](<../.gitbook/assets/31 (2).png>) | ![](../.gitbook/assets/32.png) |
 
 As the name suggests, the _Job Posting_ content type will be used to post jobs on the website. There are three stages involved:
 
@@ -30,7 +30,7 @@ As the name suggests, the _Job Posting_ content type will be used to post jobs o
 * Preview before submitting: Disabled
 *   **Explanation or submission guidelines**: Leave this empty. This field lets you put in any specific instructions for the content type.
 
-    <img src="../.gitbook/assets/33 (2).png" alt="" data-size="original">
+    <img src="../.gitbook/assets/33 (1).png" alt="" data-size="original">
 
 1. We want jobs to be published by default, but not automatically promoted to the front page, so under **Publishing options** use these settings:
 
@@ -41,7 +41,7 @@ As the name suggests, the _Job Posting_ content type will be used to post jobs o
 
 1. We don’t want the author’s name or the content publish date displayed, so under **Display settings** deselect the _Display author and date information option_.
 2. We also don’t want job listings being added to the menu navigation, so under the default **Menu settings**, deselect Main menu.
-3. Click _**Save and manage fields**_. This brings you to the Manage Fields admin page - admin/structure/types/manage/job\_posting/fields. Review the default fields that were created for your new content type. ![](<../.gitbook/assets/34 (1).png>)
+3. Click _**Save and manage fields**_. This brings you to the Manage Fields admin page - admin/structure/types/manage/job\_posting/fields. Review the default fields that were created for your new content type. ![](../.gitbook/assets/34.png)
 
 ## Review your content type
 

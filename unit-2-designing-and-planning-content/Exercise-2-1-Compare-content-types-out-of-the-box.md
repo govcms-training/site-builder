@@ -12,5 +12,5 @@ In this exercise we’ll compare content form and display using the default cont
 
 1.  Go to Admin → Content
 
-    <img src="../.gitbook/assets/28 (2).png" alt="Image of Content listing" data-size="original">
+    <img src="../.gitbook/assets/28.png" alt="Image of Content listing" data-size="original">
 2. Compare the editing forms and content display. **News and Media** and **Standard Pages** have different default settings.

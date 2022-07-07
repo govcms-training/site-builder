@@ -42,7 +42,7 @@ In this exercise you’ll create a vocabulary, add terms and reorder the terms.
 * **Description**: Australian states/territories
 * Click **Save**.
 
-![](../.gitbook/assets/76.png)
+![](<../.gitbook/assets/76 (2).png>)
 
 *
   1. You can now see the new _State/Territory_ vocabulary on the main Taxonomy page (**Structure** → **Taxonomy**). Next you’ll need to add terms to the vocabulary. Click **Add term**.
@@ -73,4 +73,4 @@ In this exercise you’ll create a vocabulary, add terms and reorder the terms.
 
 As a Site Administrator, I want to ensure all (not only **Job posting**) content has a state/territory value selected. Use your experience from the previous exercises to add the State/Territory field to all content types.
 
-![](<../.gitbook/assets/78 (2).png>)
+![](<../.gitbook/assets/78 (1).png>)

@@ -8,7 +8,7 @@ You could create a custom view for administrators that lists all new content wit
 
 Below you can see the screenshots for setting up administration permissions.
 
-![](../.gitbook/assets/138.png) ![](../.gitbook/assets/139.png)
+![](<../.gitbook/assets/55 (2).png>) ![](../.gitbook/assets/56.png)
 
 #### Bulk operations: Content lists for administrators
 
@@ -18,7 +18,7 @@ The module **Views bulk operations (VBO)** allows you to create custom content l
 
 GovCMS has extended the Content administration page so more content actions can be performed.
 
-![](../.gitbook/assets/140.png)
+![](<../.gitbook/assets/57 (2).png>)
 
 #### **Exercise 6.10:** Administration with View bulk operations
 
@@ -27,8 +27,8 @@ In this exercise, we'll create a way for content approvers to view all content w
 1. **Prepare the site** In the current setup, content editors can create and publish job postings. We’re going to change this, so that new job postings must be reviewed by a Content Approver before being published. To do this, we’ll introduce a moderation workflow.
    1. Go to Configuration → Workflow → Workflows
    2. Edit the existing “Editorial” workflow. We’re going to reuse the existing workflow states and transitions as-is, to match the moderation workflow of the rest of the site.
-   3. Scroll down to **This workflow applies to** section and press **Select** in the **Content types** row. _\*\*\*\*_![](../.gitbook/assets/141.png)
-   4. Select the **Job Posting** checkbox, **Save** the changes ![](<../.gitbook/assets/142 (1).png>)
+   3. Scroll down to **This workflow applies to** section and press **Select** in the **Content types** row. _\*\*\*\*_![](../.gitbook/assets/58.png)
+   4. Select the **Job Posting** checkbox, **Save** the changes ![](<../.gitbook/assets/59 (2).png>)
    5. Press the **Save** button in the Edit Editorial workflow page.
 
 **Add the view**
@@ -73,20 +73,20 @@ Note that we did not select the “Publish content” and “Unpublish content�
   1. Keep other defaults for the remaining fields.
 
 **Rearrange fields**\
-![](../.gitbook/assets/143.png)
+![](../.gitbook/assets/60.png)
 
 **Remove unnecessary filters**\
-![](<../.gitbook/assets/144 (1).png>)
+![](<../.gitbook/assets/61 (2).png>)
 
 **Add moderation workflow filter**\
 To only see Job Postings that are pending approval, add the **Content: Moderation state** filter. Configure the following options:\
-![](../.gitbook/assets/145.png)
+![](<../.gitbook/assets/62 (1).png>)
 
 **Configure the format settings**\
-![](../.gitbook/assets/146.png)
+![](<../.gitbook/assets/63 (2).png>)
 
 *
-  1. Edit the table settings. Ensure any column that can be sortable is. ![](<../.gitbook/assets/147 (1).png>)
+  1. Edit the table settings. Ensure any column that can be sortable is. ![](<../.gitbook/assets/64 (1).png>)
 
 **Add a "no results" message**\
 \_\*\*\*\*\_Adding a “no results” message will clearly show that the view IS working properly if/when there isn’t any content waiting for approval.
@@ -94,11 +94,11 @@ To only see Job Postings that are pending approval, add the **Content: Moderatio
 *
   1. In the middle column, under **NO RESULTS BEHAVIOR**, click **Add**.
 * Select Global: Text area
-* Then set the message “There are no job postings currently waiting for review!” ![](../.gitbook/assets/148.png)
+* Then set the message “There are no job postings currently waiting for review!” ![](<../.gitbook/assets/65 (2).png>)
 * Apply the changes
 
 **Change access settings for this view**\
 Lastly, you want to change the access/permission settings for this new view, from "View published content" to "Administer content".\
-![](../.gitbook/assets/149.png)
+![](../.gitbook/assets/66.png)
 
 **Save and review your changes**

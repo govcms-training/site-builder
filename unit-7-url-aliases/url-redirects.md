@@ -13,7 +13,7 @@ _Illustration of how Redirects are forwarding all traffic to the latest Alias_
 
 Out-of-the-box, GovCMS sites may not handle redirects the way your client would expect. Navigate to the **Configuration** → **Search and metadata** → **URL Aliases** → **Settings** and explore how the update action of URL aliases is handled
 
-![](../.gitbook/assets/156.png)
+![](<../.gitbook/assets/73 (1).png>)
 
 In this default configuration the old alias will be deleted. This may not be the best way to handle changes of URL aliases in content.
 
@@ -45,16 +45,16 @@ Now that we’ve added a custom URL alias and all job postings inherit the commo
 
 In Unit 6 we created a View Job Posting and added a link to the top Main Navigation menu (Exercise 6.2).
 
-![](../.gitbook/assets/157.png)
+![](<../.gitbook/assets/74 (2).png>)
 
 The _Breadcrumb_ link **Job Posting** was added by GovCMS for you.
 
 At the moment, when we access any of the **Job Posting** content, the _breadcrumb_ does not show the link to the **Job Postings** page. This creates a UX problem as site visitors don’t have a visual guide of the site section they’re currently in:
 
-![](<../.gitbook/assets/158 (1).png>)
+![](../.gitbook/assets/75.png)
 
 We want to change the breadcrumbs so that when a **Job Posting** page is displayed, the _breadcrumb_ shows the link to the parent **Jobs** page:\
-![](../.gitbook/assets/159.png)
+![](<../.gitbook/assets/159 (1).png>)
 
 The _breadcrumb_ links are constructed from the URL of the current page and checking if the sub-path matches any page on the site. If it does, the system pulls the title of that page and creates a breadcrumb link.
 
@@ -64,4 +64,4 @@ Our parent page (**Jobs**) URL is **/job-postings** and our **Job Posting** _con
 2. Locate _Path_ under _Page Settings_ (middle top section)
 3. Edit the _Path_, change it to **/jobs**.
 4. **Save** the view
-5. Test the _breadcrumb_ by navigating to any _Job Posting_ content. You should now get the **Job Posting** link in the breadcrumb. ![](<../.gitbook/assets/159 (1).png>)
+5. Test the _breadcrumb_ by navigating to any _Job Posting_ content. You should now get the **Job Posting** link in the breadcrumb. ![](<../.gitbook/assets/159 (2).png>)

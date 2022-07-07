@@ -18,13 +18,13 @@ First, let’s see how the default search works.
 
     1.  You can control this in **Structure** → **Content types** → (choose a content type) → **Manage display**. In this screen you can configure the view mode and field display for Search results.
 
-        ![](../.gitbook/assets/225.png)\
-        ![](../.gitbook/assets/226.png)\
-        ![](../.gitbook/assets/227.png)
+        ![](../.gitbook/assets/142.png)\
+        ![](<../.gitbook/assets/143 (1).png>)\
+        ![](../.gitbook/assets/144.png)
 
 Note that in the given example for the _Standard Page_ content type, we use _view mode_ **Search** and **Search** _layout_, to stay consistent with other content types in GovCMS8. The _view mode_ used in the search could be any other one available, as long as it’s configured to display in the search results (we’ll explore this later).
 
-![](../.gitbook/assets/228.png)
+![](<../.gitbook/assets/145 (1).png>)
 
 **Understanding the index**
 
@@ -43,8 +43,8 @@ Read more [http://drupal.org/cron](http://drupal.org/cron)
 
 Try to conduct a search for a published Job posting content type. You’ll notice that it appears differently to other content types:
 
-| <p><img src="../.gitbook/assets/229.png" alt="" data-size="original"></p><p>Standard page search results</p> | <p><img src="../.gitbook/assets/230.png" alt="" data-size="original"></p><p>Not configured Job posting search result</p> |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| <p><img src="../.gitbook/assets/146 (1).png" alt="" data-size="original"></p><p>Standard page search results</p> | <p><img src="../.gitbook/assets/147.png" alt="" data-size="original"></p><p>Not configured Job posting search result</p> |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 
 This is because the search index isn’t configured to display the right View mode for the Job posting content type and it shows the same content as the full-page view.
 
@@ -59,14 +59,14 @@ Let’s change that, by activating Search view mode in the Job Posting content t
    3. Summary
    4. Tags
    5. Disabled
-5. Rearrange fields (drag-and-drop) to match the screenshot. Move the remaining fields into the disabled region. Focus on making the Title field a link and trimming the Job description down to 300 characters. ![](../.gitbook/assets/231.png)
-6. Now, as we created and customised the Job posting view mode for Search, let’s make the search page to use it. Our search page is made as a View, although it’s set to use the Search API functionality. We’ll explore how to create a Search API view later. Go to **Structure** → **Views** and edit the _Search_ view. ![](../.gitbook/assets/232.png)
-7. Under **Format** → **Show**, click on the **Settings** link: ![](../.gitbook/assets/233.png)
-8. Locate the “**View mode for datasource** _**Content**_**, bundle** _**Job Posting”**_ and change it to use the **Search** view mode created earlier ![](../.gitbook/assets/234.png)
+5. Rearrange fields (drag-and-drop) to match the screenshot. Move the remaining fields into the disabled region. Focus on making the Title field a link and trimming the Job description down to 300 characters. ![](<../.gitbook/assets/148 (1).png>)
+6. Now, as we created and customised the Job posting view mode for Search, let’s make the search page to use it. Our search page is made as a View, although it’s set to use the Search API functionality. We’ll explore how to create a Search API view later. Go to **Structure** → **Views** and edit the _Search_ view. ![](<../.gitbook/assets/149 (1).png>)
+7. Under **Format** → **Show**, click on the **Settings** link: ![](<../.gitbook/assets/150 (1).png>)
+8. Locate the “**View mode for datasource** _**Content**_**, bundle** _**Job Posting”**_ and change it to use the **Search** view mode created earlier ![](<../.gitbook/assets/151 (1).png>)
 9. Apply your changes and save the view.
 10. Repeat search for a job posting and confirm if the display looks similar to other content types
 
-| <p><img src="../.gitbook/assets/235.png" alt="" data-size="original"></p><p>Search result for Job posting</p> | <p><img src="../.gitbook/assets/236.png" alt="" data-size="original"></p><p>Search result for Standard page</p> |
-| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/152.png" alt="" data-size="original"></p><p>Search result for Job posting</p> | <p><img src="../.gitbook/assets/153 (1).png" alt="" data-size="original"></p><p>Search result for Standard page</p> |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 
 1. You may return to the Search view mode in the Job posting content type and change it further, to test how your changes affect the search results display widget.

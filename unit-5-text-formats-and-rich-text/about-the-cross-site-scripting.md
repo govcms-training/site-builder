@@ -15,13 +15,13 @@ Follow these and other best practices to keep your site safe:
 2. The **Plain text** format is intended for anonymous users, and does have CKEditor enabled.
 3. When working with user-generated content, it's always best to keep input format settings as secure as possible. Select the least amount of functionality possible for each role; for example, don't allow anonymous users to have access to **Rich Text** format.
 
-![](../.gitbook/assets/83.png)
+![](<../.gitbook/assets/0 (1).png>)
 
 Source: [https://xkcd.com/327/](https://xkcd.com/327/)
 
 Comic reproduced under a [Creative Commons Attribution-NonCommercial 2.5 License](http://creativecommons.org/licenses/by-nc/2.5/).
 
-![](../.gitbook/assets/84.png)
+![](../.gitbook/assets/1.png)
 
 **Note:** Certain inputs are restricted by default on GovCMS8 (such as the tags needed to display video properly) to protect the system from malicious code. Rich text format should only be accessible by trusted users.
 
@@ -31,15 +31,15 @@ In this exercise you’ll learn how to set up the rich text editor.
 
 1. Configure the Rich Text editor
    1. Make sure you’re logged in as an administrator.
-   2. Go to Configuration → Content authoring → Text formats and editors ![](<../.gitbook/assets/85 (1).png>)
+   2. Go to Configuration → Content authoring → Text formats and editors ![](../.gitbook/assets/2.png)
    3. Click the **Configure** link in the Operations column
    4. Review the Roles section, which allows you to configure the roles allowed to access Rich text format
-   5. The Toolbar configuration allows you to manage editor buttons/plugins. ![](<../.gitbook/assets/86 (1).png>) **As a rule,** give users as few buttons as possible, for as long as possible.
+   5. The Toolbar configuration allows you to manage editor buttons/plugins. ![](<../.gitbook/assets/3 (1).png>) **As a rule,** give users as few buttons as possible, for as long as possible.
    6. The **CKEditor plugin settings** allow you to configure some additional options, such as **Linkit** plugin and **Image uploads**
    7. Check the **Enabled filters** section. Note that the “Limit allowed HTML tags and correct faulty HTML” option is selected. It’s important to keep this option enabled for increased security. If additional HTML tags are required to be supported, update the **Allowed HTML tags** field with the tags that you need. Avoid whitelisting the \<script> tag, since it may introduce a backdoor to malicious scripts.
    8. The **Filter processing order** section allows you to arrange the execution order of filters. Avoid modifying the default order unless necessary.
-2. **Test the editor** Now you can test the editor out by creating a new _Standard page_, making sure the input format is set to _Rich text_. ![](../.gitbook/assets/87.png)
-   1. Toggle between the _Plain text_ input field and _Rich text_ by selecting Plain text in the Text format selector ![](<../.gitbook/assets/88 (1).png>)
+2. **Test the editor** Now you can test the editor out by creating a new _Standard page_, making sure the input format is set to _Rich text_. ![](<../.gitbook/assets/4 (2).png>)
+   1. Toggle between the _Plain text_ input field and _Rich text_ by selecting Plain text in the Text format selector ![](<../.gitbook/assets/5 (1).png>)
    2. Add some text, and then make it bold. Also try adding a list, an image and a link.
 
 **Tip:** You can get some sample images at Dynamic Dummy Image Generator: http://dummyimage.com/

@@ -8,7 +8,7 @@ The First Byte time indicates that your website takes too much time to render th
 
 Before proceeding with website caching, let’s review which caching modules are available in GovCMS. Navigate to the **Extend** page and enter “cache” in the filter field.
 
-![](../.gitbook/assets/247.png)
+![](../.gitbook/assets/164.png)
 
 **Note:** GovCMS SaaS does not provide Memcached container and so the Memcache and Memcache Admin modules have to stay disables.
 

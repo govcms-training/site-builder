@@ -24,7 +24,7 @@ You’ll find the default global directory for file uploads in this area of the 
 
 Content Reference is a useful tool in GovCMS. It helps you create new relationships between content. There are many ways to leverage this connection with Views. For example, when you’re viewing an **agency** page, you could show which jobs “back reference” to that agency.
 
-![](<../.gitbook/assets/164 (1).png>)
+![](<../.gitbook/assets/81 (2).png>)
 
 1. **Create the Agency content type** Using what we’ve covered so far on content types, create a new content type using these settings:
 
@@ -51,7 +51,7 @@ We’re now going to add the image field to the agency content type. When adding
 * **Required:** Leave unselected
 * **Help text:** “If available, please upload a logo for this agency.”
 * Media type: Image
-* **Form display**: Entity browser. Configure as pictured below: ![](<../.gitbook/assets/165 (1).png>) When finished, click the **Update** button and then Save the _Manage form display_ page.
+* **Form display**: Entity browser. Configure as pictured below: ![](<../.gitbook/assets/82 (2).png>) When finished, click the **Update** button and then Save the _Manage form display_ page.
 * **Display**: rendered entity, rendered as Thumbnail
 
 **Add references field to job posting**Finally, we’re going to add a references field for job postings.
@@ -65,15 +65,15 @@ We’re now going to add the image field to the agency content type. When adding
 * Content type: Agency
 * **Sort by**: - None -
 
-![](<../.gitbook/assets/166 (1).png>)
+![](<../.gitbook/assets/83 (1).png>)
 
 1. Click Save settings
 2. You’ll also need to configure the form display. Use the **Select list** _widget_ for the **Agency** field. Note: You can also move the **Agency** field on the form so it’s above the **Job description** field.
 3. You’ll also need to configure the display. Set the _Agency_ field to display as a link.
-4.  Your job posting fields will now look something like the screenshot below. You may rearrange any new fields we’ve added and bring them above the Job description field.![](../.gitbook/assets/167.png)
+4.  Your job posting fields will now look something like the screenshot below. You may rearrange any new fields we’ve added and bring them above the Job description field.![](<../.gitbook/assets/84 (1).png>)
 
-    ![](../.gitbook/assets/168.png)\
-    ![](../.gitbook/assets/169.png)
+    ![](../.gitbook/assets/85.png)\
+    ![](../.gitbook/assets/86.png)
 
 **Try it out**\
 Now that you’ve added the new fields, it’s time to try them out.

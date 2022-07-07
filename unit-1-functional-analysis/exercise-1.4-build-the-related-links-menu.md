@@ -65,5 +65,3 @@ Finally, you can re-order the links on your menu.
 {% hint style="info" %}
 **Note:** Another way to change the menu order is to change the ‘weight’ of the menu item when you’re editing the content.
 {% endhint %}
-
-> ****

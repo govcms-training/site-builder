@@ -15,7 +15,7 @@ Refer to the following documentation for more information [https://www.drupal.or
 Each new content item has a permanent URL that uses numbers, such as node/1. You’ll see this URL in the address bar when you click the Edit tab. This link doesn’t change, even if you change the title.
 
 When you add content, you can create a custom URL alias and override the default settings.\
-![](<../.gitbook/assets/152 (1).png>)
+![](<../.gitbook/assets/69 (2).png>)
 
 If you use the content's menu settings to add this to the Main menu, the link will be updated automatically:\
 !\[A close up of a logo
@@ -33,7 +33,7 @@ Examples:
 In this exercise, we’re going to automatically assign a URL alias pattern to the **Job Posting** _content type_ so that all Job posting nodes will be assigned the URL alias format - http://example.com/jobs/\[node:title]
 
 1. **Add a new path alias pattern**
-   1. Go to Configuration → Search and metadata → URL aliases → Patterns ![](<../.gitbook/assets/154 (1).png>)
+   1. Go to Configuration → Search and metadata → URL aliases → Patterns ![](<../.gitbook/assets/71 (2).png>)
    2. Our new content type Job posting is not listed yet, so let’s create a new _Pathauto_ _pattern_. Click the **Add Pathauto pattern** button.
    3. Select **Content** in the **Pattern type** selector.
    4. Select the **Job Posting** checkbox in the **Content type** selector.

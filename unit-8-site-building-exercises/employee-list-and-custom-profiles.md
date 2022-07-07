@@ -8,7 +8,7 @@ As you work, consider how you can use a similar process to make an image gallery
 
 Previously, you added fields to content types. You can also add fields to user profiles. This means you can let users share information about themselves and then you can display it. You can also control permissions so only trusted users can see profiles. Below you can see the profiles will have a text field for description and also a list of interests and a profile picture.
 
-![](../.gitbook/assets/213.png)
+![](<../.gitbook/assets/130 (1).png>)
 
 1. Add a text field for a biography
    1. Go to Configuration People → Account settings → Manage fields
@@ -41,7 +41,7 @@ Test by editing your account\
 Return to the front page.
 
 *
-  1. Click **Your username** in the top administration menu, then _View profile_, then the **Edit** tab. ![](../.gitbook/assets/214.png)
+  1. Click **Your username** in the top administration menu, then _View profile_, then the **Edit** tab. ![](../.gitbook/assets/131.png)
   2. At the bottom of the form you can see the options available.
   3. Fill in some text for **About me** and type in tags (comma-separated for multiple tags) for **Interests**, such as _Brazil, sailing, dancing._
   4. Under **Picture**, upload an image if you haven't already.
@@ -57,7 +57,7 @@ You can also manage the display of the fields, for example hiding the label. As 
 
 In this exercise, you’ll make a grid display of user profile pictures like this:
 
-![](../.gitbook/assets/215.png)
+![](../.gitbook/assets/132.png)
 
 1. Go to Structure → Views and click + Add new view.
 2. Configure your view with the following settings.
@@ -90,7 +90,7 @@ In this exercise, you’ll make a grid display of user profile pictures like thi
 1. Scroll down to the Views preview and review if the results are as expected. Click **Save**.
 2. Test your new view. In the main navigation, you should have a menu link to “Members”, and a page available at [http://example.com/members](http://example.com/members)
 
-![](../.gitbook/assets/216.png)
+![](<../.gitbook/assets/133 (1).png>)
 
 #### **Exercise 8.9:** Edit the existing view to filter out roles
 
@@ -107,7 +107,7 @@ As you can see in the above screenshot, the view we built shows the site adminis
 
 User profiles currently list all content in one column. In this exercise we’ll re-arrange the profile information into two columns. We’ll change the layout of user profiles using **Display suite**.
 
-1. Review the current layout. Click on a member profile. ![](../.gitbook/assets/217.png)
+1. Review the current layout. Click on a member profile. ![](<../.gitbook/assets/134 (1).png>)
 2. Go to Administration → Configuration → People → Account settings and click Manage display tab.
 
 You’ll notice this brought you to the Manage display tab for the Account settings.
@@ -115,15 +115,15 @@ You’ll notice this brought you to the Manage display tab for the Account setti
 You’ll see that the _secondary tabs_ are missing and we cannot select a custom _view mode_. Let’s separate our display into a custom view mode **User account**. This separation could allow us to reuse the new _View mode_ later on, if we needed to.
 
 *
-  1. Click the **Custom display settings** vertical tab and select to enable the **User account** view mode: ![](../.gitbook/assets/218.png)
+  1. Click the **Custom display settings** vertical tab and select to enable the **User account** view mode: ![](<../.gitbook/assets/135 (1).png>)
      *   After saving your changes, you’ll notice the _secondary tabs_ appear, allowing you to switch to customise the **User account** view mode:
 
-         <img src="../.gitbook/assets/219.png" alt="" data-size="original">
+         <img src="../.gitbook/assets/136 (1).png" alt="" data-size="original">
   2. Click the **User account** tab.
   3.  Change the layout to Two columns:
 
-      <img src="../.gitbook/assets/220.png" alt="" data-size="original">
-  4. After saving your changes, review the Field column, you’ll see that it now shows many additional regions, such as![](../.gitbook/assets/221.png):
+      <img src="../.gitbook/assets/137.png" alt="" data-size="original">
+  4. After saving your changes, review the Field column, you’ll see that it now shows many additional regions, such as![](<../.gitbook/assets/138 (1).png>):
 * Header (all existing fields were moved into this region by GovCMS)
 * Content top
 * Content
@@ -135,17 +135,17 @@ You’ll see that the _secondary tabs_ are missing and we cannot select a custom
 
 1. When the manage display page reloads, you can reorder the fields to match the screenshot:
 
-![](../.gitbook/assets/222.png)
+![](<../.gitbook/assets/139 (1).png>)
 
 * Move any fields not shown in the screenshot into the disabled region.
 * Adjust label display as displayed in the screenshot above.
 * Save your changes and review the outcome by reviewing your own profile page
 
-![](../.gitbook/assets/223.png)
+![](<../.gitbook/assets/140 (1).png>)
 
 #### Challenge Exercise 8.11: An image gallery
 
-![](../.gitbook/assets/224.png)
+![](<../.gitbook/assets/141 (1).png>)
 
 With the member list you created a grid-based view of members’ profiles. Now, create a gallery of images from the **News and Media** published on your site.
 
