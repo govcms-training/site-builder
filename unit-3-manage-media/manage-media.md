@@ -6,7 +6,7 @@ The core **Media** module provides a 'base' entity for media assets. This allows
 
 Just like with Content types, with this new entity type you can create **Media Types**, add fields to them, manage display modes \(for view and form operations\), and so on.
 
-### 3.1 Creating and configuring Media Types
+## Creating and configuring Media Types
 
 If you’ve worked with **nodes** before, you will find some similarities in the basic concepts when dealing with **media entities**. For example, **Media Types** are the equivalent to **media entities** of what **Content Types** are for **nodes**. In other words, the media entity \(just like any other content entity in Drupal 8\) has **Media Types**.
 
