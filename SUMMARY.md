@@ -122,7 +122,7 @@
     * [Exercise 8.5: Challenge exercises](unit-8-site-building-exercises/exercise-8.5-challenge-exercises.md)
 * [Discussion](unit-8-site-building-exercises/discussion.md)
 * [Views contextual filters](unit-8-site-building-exercises/views-contextual-filters.md)
-    * [Exercise 8.6: Add About author block to News article](unit-8-site-building-exercises/how-to-add-about-author-block-to-news-article.md)
+    * [Exercise 8.6: Add About author block to News article](unit-8-site-building-exercises/exercise-8-6-add-about-author-block-to-news-article.md)
 * [Further discussion and exercices](unit-8-site-building-exercises/further-discussion-and-exercices.md)
 * [Employee list and custom profiles](unit-8-site-building-exercises/employee-list-and-custom-profiles.md)
     * [Exercise 8.7: Set up profile fields](unit-8-site-building-exercises/exercise-8-7-set-up-profile-fields.md)
@@ -139,7 +139,7 @@
     * [Exercise 9.1: Explore the default search](unit-9-search-and-related-content/exercise-9-1-explore-the-default-search.md)
     * [Exercise 9.2: Set up Job posting content type display in global search](unit-9-search-and-related-content/exercise-9-2-set-up-job-posting-content-type-display-in-global-search.md)
     * [Exercise 9.3: Create new search page with Search API](unit-9-search-and-related-content/exercice-9.3-create-new-search-page-with-search-api.md)
-    * [Exercise 9.4: Add fields to the index](unit-9-search-and-related-content/add-fields-to-the-index.md)
+    * [Exercise 9.4: Add fields to the index](unit-9-search-and-related-content/exercise-9-4-add-fields-to-the-index.md)
     * [Exercise 9.5: Extend the search with Facets](unit-9-search-and-related-content/exercise-9-5-extend-the-search-with-facets.md)
 * [Unit Summary](unit-9-search-and-related-content/unit-summary.md)
 
