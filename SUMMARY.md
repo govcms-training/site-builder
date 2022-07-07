@@ -25,7 +25,7 @@
 * [Footers](unit-1-functional-analysis/footers.md)
     * [Exercise 1.4: Build the related links menu](unit-1-functional-analysis/exercise-1.4-build-the-related-links-menu.md)
     * [Exercise 1.5: Assign the related links menu block to a region](unit-1-functional-analysis/exercice-1.5-assign-the-related-links-menu-block-to-a-region.md)
-    * [Exercise 1.6: Configure the related links menu block](unit-1-functional-analysis/exercise-1-6-Configure-the-related-links-menu-block.md)
+    * [Exercise 1.6: Configure the related links menu block](unit-1-functional-analysis/exercise-1-6-configure-the-related-links-menu-block.md)
     * [Exercise 1.7: Rearrange the main menu](unit-1-functional-analysis/exercice-1-7-rearrange-the-main-menu.md)
 * [Theme settings](unit-1-functional-analysis/theme-settings.md)
     * [Exercise 1.8: Change the logo](unit-1-functional-analysis/exercise-1-8-change-the-logo.md)
