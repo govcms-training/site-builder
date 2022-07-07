@@ -8,7 +8,7 @@ The content is placed into Regions as **Blocks**. Some blocks are created by Con
 
 The screenshot below shows a page divided up into basic regions of Header, Content, Footer and RHS Sidebar.
 
-\[//]: # "![Image of a blank page](../.gitbook/assets/4.png)"
+[//]: # "![Image of a blank page](../.gitbook/assets/4.png)"
 
 ![Image of page Regions](../.gitbook/assets/Unit-1-Regions-1.png)
 
