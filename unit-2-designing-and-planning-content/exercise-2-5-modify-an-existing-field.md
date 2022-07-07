@@ -8,4 +8,4 @@
 
 1. Click **Save settings**. Your field listing should show the new label.
 
-![Image of modified field](../.gitbook/assets/36.png)
+![Image of modified field](<../.gitbook/assets/36 (1).png>)

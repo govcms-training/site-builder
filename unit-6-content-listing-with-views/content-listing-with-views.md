@@ -6,7 +6,7 @@ Using the Views module, we can fetch content from the database of our site and p
 
 Views UI, a submodule within Views, provides a graphical interface underneath which lies a powerful SQL query builder that can access virtually any information in your database and display it in any format.
 
-![A screenshot of Views UI - a way to create content listing in GovCMS](<../.gitbook/assets/6 (2).png>)
+![A screenshot of Views UI - a way to create content listing in GovCMS](<../.gitbook/assets/89 (1).png>)
 
 Different displays can present the query results as pages with fixed URLs on your site (or URLs accepting arguments), blocks, feeds, or panel panes.
 
@@ -29,7 +29,7 @@ Basic interface to create a view:
 3. **Specify how to display,** lists, tables, grid etc.
 4. **Set a display,** such as a page, block, RSS feed, etc.
 
-![A screenshot of basic Views interface](<../.gitbook/assets/7 (2).png>)
+![A screenshot of basic Views interface](../.gitbook/assets/90.png)
 
 ## 6.2 Create lists of content using Views
 
@@ -39,7 +39,7 @@ In one of the previous units we created the new content type of Job Posting for 
 
 In this exercise we’ll build an Employment news page/listing by creating a new view. The screenshot below shows what the employment news page will look like after we’ve created the new Employment news view.
 
-![](../.gitbook/assets/8.png)
+![](../.gitbook/assets/91.png)
 
 1. Create the view using the wizard
 2. Go to **Structure** → **Views** to see the _Views_ admin page - /admin/structure/views.
@@ -49,26 +49,26 @@ In this exercise we’ll build an Employment news page/listing by creating a new
 6. To show _News and Media_ content follow the steps below:
 7. Show _Content_ _**of type**_ _News and Media_ sorted by _Newest first_. These dropdown selections set up the page with the news and media content displaying, showing the most recent article first.
 
-![](<../.gitbook/assets/9 (1).png>)
+![](../.gitbook/assets/92.png)
 
 1. Next, check the _Create a page_ checkbox to create the new views page. Leave the Page title and Path fields as-is - they should already contain _Employment news_ as the name of our view.
 2. In the page display settings area, select:
    *
      * Unformatted list and teasers
 
-![](<../.gitbook/assets/10 (1).png>)
+![](<../.gitbook/assets/93 (1).png>)
 
 * Items per page: 10
 * Use a pager
 * **Create a menu link** to expand options
 * **Menu**: Main navigation
 * Leave default **Link text** as Employment news
-* Click Save and edit![](../.gitbook/assets/11.png)
+* Click Save and edit![](<../.gitbook/assets/94 (1).png>)
 * **Review your changes**
 
 After saving the view, navigate to the frontend of the site. Check if the _Employment news_ appears in the main navigation at the top. Click it to explore any _Employment news_ that you may have published on your site.
 
-![](<../.gitbook/assets/12 (1).png>)
+![](../.gitbook/assets/95.png)
 
 If you only see one article, create additional employment news articles to see how Views takes care of listing them.
 
@@ -104,13 +104,13 @@ Views also allow you to speed up your site if you have two views that load simil
 
 The Views module includes some pre-built templates, which can be activated and edited to suit your requirements.
 
-![](../.gitbook/assets/15.png) ![](<../.gitbook/assets/16 (1).png>)
+![](<../.gitbook/assets/98 (1).png>) ![](../.gitbook/assets/99.png)
 
 The Views editing interface – Format pane
 
 In this section we’re going to look at the Views editing interface.
 
-![](../.gitbook/assets/17.png)
+![](<../.gitbook/assets/100 (1).png>)
 
 1. **Displays**: Create multiple displays from the same view. This might mean multiple pages with different filters or blocks, RSS feeds, etc.
 2. **Format**: Output content into lists, tables, or show the full content (node) display.
@@ -124,7 +124,7 @@ In this section we’re going to look at the Views editing interface.
 
 In this exercise we’ll customise the _Employment news_ View page we created earlier, making it show three items of recent content, then a bulleted list of titles of seven recent News and Media articles. Below is what the layout of the page will look like.
 
-![](<../.gitbook/assets/18 (1).png>)
+![](../.gitbook/assets/101.png)
 
 There are four stages in this process:
 
@@ -136,7 +136,7 @@ There are four stages in this process:
 6. Change the attachment setting
 7. Review your changes
 8. **Locate the View and edit using contextual links**
-9. Navigate to the _Employment news_ page we created earlier ![](<../.gitbook/assets/19 (2).png>)
+9. Navigate to the _Employment news_ page we created earlier ![](../.gitbook/assets/102.png)
 10. Locate and click the _Contextual links_ pencil and click **Edit view.**
 11. **Change the number of items to display**
 12. Under Pager (G in screenshot above) click "mini" to change the settings.
@@ -149,24 +149,24 @@ Now check your preview to confirm three items are displayed.
 
 1. **Add a new display: an attached list**
 2. Next we'll add a list of seven more recent articles to the bottom of this view. At the top (A in earlier diagram), click the **+Add** button and select "Attachment".
-3. You’ll now have more than one display available, with the one you’re editing highlighted. Make sure the correct one is always highlighted when you’re editing views. ![](<../.gitbook/assets/20 (2).png>)
-4. Next click **Unformatted list** under Format in the left column (B in the earlier screenshot). A new window will pop up, giving you the option to select the display you're changing. ![](<../.gitbook/assets/21 (1).png>)
+3. You’ll now have more than one display available, with the one you’re editing highlighted. Make sure the correct one is always highlighted when you’re editing views. ![](../.gitbook/assets/103.png)
+4. Next click **Unformatted list** under Format in the left column (B in the earlier screenshot). A new window will pop up, giving you the option to select the display you're changing. ![](../.gitbook/assets/104.png)
 5. Select "This attachment"
 6. Select "HTML list"
 7. Click the Apply (this display) button.
 8.  The next screen is “Attachment: Style options”. Leave all settings as default and click the **Apply** button.
 
-    <img src="../.gitbook/assets/22.png" alt="" data-size="original">
-9. Under **Format** → **Show,** click **Content** to change the settings. ![](<../.gitbook/assets/23 (1).png>)
+    <img src="../.gitbook/assets/105 (1).png" alt="" data-size="original">
+9. Under **Format** → **Show,** click **Content** to change the settings. ![](<../.gitbook/assets/106 (1).png>)
 10. Then click **Apply** on the final screen.
-11. You'll see that Views added a _Title_ field for us. If we needed more fields to be displayed, we could have added them using the **Add** button. Let’s continue with only the Title field for now. ![](<../.gitbook/assets/24 (2).png>)
+11. You'll see that Views added a _Title_ field for us. If we needed more fields to be displayed, we could have added them using the **Add** button. Let’s continue with only the Title field for now. ![](<../.gitbook/assets/107 (1).png>)
 12. Check the Preview pane at the bottom of the page to confirm our display is correct:
 
-    <img src="../.gitbook/assets/25 (1).png" alt="" data-size="original">
+    <img src="../.gitbook/assets/108 (1).png" alt="" data-size="original">
 13. **Add a header to the attachment**
 14. Under Header (F in the earlier diagram) click **Add**.
 15. Make sure you’re editing "This attachment (override)".
-16. Search for and select "Text area". Apply changes. ![](<../.gitbook/assets/26 (1).png>)
+16. Search for and select "Text area". Apply changes. ![](<../.gitbook/assets/109 (1).png>)
 17. Make sure the _Text format_ for the **Content** field is _Rich Text_. Then type in the **Content** field: \<p>More articles from our contributors\</p>
 18. Apply the changes.
 19. Check that the preview shows text ‘More articles from our contributors’ above the list.
@@ -174,12 +174,12 @@ Now check your preview to confirm three items are displayed.
 21. Make sure you're still editing the **Attachment** display (A in earlier diagram). Under the Pager settings (G in earlier diagram) in the centre column, click "10 items" to change the setting.
 22. Change the “Items to display” to 7 and the "Offset" to 3. Apply the changes.
 
-    <img src="../.gitbook/assets/27.png" alt="" data-size="original">
+    <img src="../.gitbook/assets/110 (1).png" alt="" data-size="original">
 23. **Change the attachment settings**
-24. Under "Attachment settings" in the centre column click the option "Attach to: Not defined". ![](<../.gitbook/assets/28 (1).png>)
-25. Select "page". Apply the changes. ![](../.gitbook/assets/29.png)
+24. Under "Attachment settings" in the centre column click the option "Attach to: Not defined". ![](../.gitbook/assets/111.png)
+25. Select "page". Apply the changes. ![](<../.gitbook/assets/112 (1).png>)
 26. Click "Attachment position:Before".
-27. Select "After". Apply the changes. ![](<../.gitbook/assets/30 (2).png>)
+27. Select "After". Apply the changes. ![](../.gitbook/assets/113.png)
 28. **Review your changes**
 29. Click the **Save** button to save your changes.
 30. Return to the _Employment news_ page and review the changes.

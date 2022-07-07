@@ -7,7 +7,7 @@ In this exercise, we’ll add a Related Links menu item. This can be broken into
 1. Go to the menu administration page – /admin/structure/menu - hover over _Structure_ on the _Admin menu_ then click _Menus_. Click on the **Add menu** button at the top right of the page.
 2. Type in the name of our menu in the _Title_ field: **Related Links**.
 3. Type in a menu description in the _Administrative summary_ field. While the description is optional, it helps site administrators understand the different menus, especially if the site has lots menus.
-4. Click **Save** to create the new menu. 
+4. Click **Save** to create the new menu.
 
 ![Image of Add menu screen](../.gitbook/assets/Ex-1-4-Build-related-links-menu-1.png)
 
@@ -30,15 +30,14 @@ Now that you’ve created the custom menu, you need to add in the **links** to e
 
 Add content using the Standard Page content type and create the following new pages:
 
-- About us
-- FAQs
-- Disclaimer
-- Privacy policy
+* About us
+* FAQs
+* Disclaimer
+* Privacy policy
 
 Make sure you select "Provide a menu link" and select the parent item "Related links" for all pages. See the screenshot below for an example.
 
 ![Image of Standard page with Menu Settings shown](../.gitbook/assets/Ex-1-4-Standard-page-menu-1.png)
-
 
 ## View Related Links menu
 
@@ -51,7 +50,7 @@ You can also add the links manually by following these steps:
 1. In the menu administration page, click **Add link** at the top of the Related links. At the menu link creation page type in these settings:
    * **Link:** type **About** and select **About us**.
    * **Description:** Jobs Posting About Us page.
-   * **Title**: About us \(2\)
+   * **Title**: About us (2)
 2. Leave the other settings at their defaults and click **Save**.
 3. Repeat the steps above for any remaining menu items.
 
@@ -63,5 +62,8 @@ Finally, you can re-order the links on your menu.
 
 ![Image of reordering related links menu](../.gitbook/assets/Ex-1-4-Related-Links-menu-2.png)
 
-> **Note:** Another way to change the menu order is to change the ‘weight’ of the menu item when you’re editing the content.
+{% hint style="info" %}
+**Note:** Another way to change the menu order is to change the ‘weight’ of the menu item when you’re editing the content.
+{% endhint %}
 
+> ****

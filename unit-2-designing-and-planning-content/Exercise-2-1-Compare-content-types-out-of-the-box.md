@@ -1,4 +1,4 @@
-# Exercise 2.1: Compare content types out-of-the-box
+# Exercuse 2.1: Compare content types
 
 In this exercise we’ll compare content form and display using the default content types in GovCMS. We explore some fields and form widgets and how these can change between content types.
 
@@ -10,8 +10,7 @@ In this exercise we’ll compare content form and display using the default cont
 
 ## Compare content types
 
-1. Go to Admin → Content 
+1.  Go to Admin → Content
 
-    ![Image of Content listing](../.gitbook/assets/28.png)
-
+    <img src="../.gitbook/assets/28 (2).png" alt="Image of Content listing" data-size="original">
 2. Compare the editing forms and content display. **News and Media** and **Standard Pages** have different default settings.
