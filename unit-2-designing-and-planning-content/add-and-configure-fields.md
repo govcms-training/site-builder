@@ -6,4 +6,6 @@ GovCMS core includes the following field type modules: Text \(required\), Number
 
 The Field module allows custom data fields to be attached to GovCMS entities \(content nodes, users, taxonomy vocabularies, etc.\) and takes care of storing, loading, editing, and rendering field data. Most users will not interact with the Field module directly, but will instead use the Field UI module user interface. Module developers can use the Field API to make new entities "fieldable" and allow fields to be attached to their entities.
 
-![Image of Manage fields](../.gitbook/assets/35%20%282%29.png)
+Go to _Structure_ → _Content types_ → _Blog article_ → **Manage fields** to view the fields configured for the Blog article content type.
+
+![Image of Manage fields](../.gitbook/assets/Unit-2-Add-Configure-Fields.png)
