@@ -35,7 +35,7 @@ In this exercise you’ll create a vocabulary, add terms and reorder the terms.
    - Queensland
    - Tasmania
 
-2. Navigate to the **list** of all terms in the vocabulary by going to _Structure_ → _Taxonomy_ **State/territory**. By default the list is ordered alphabetically, but you can change the order by dragging the terms up or down. As an exercise, drag “Queensland” to the top of the list.  
+2. Navigate to the **list** of all terms in the vocabulary by going to _Structure_ → _Taxonomy_ → **State/territory**. By default the list is ordered alphabetically, but you can change the order by dragging the terms up or down. As an exercise, drag “Queensland” to the top of the list.  
 
      ![Image of add Vocabulary](../.gitbook/assets/Ex-4-1-Vocabulary-3.png)
      
