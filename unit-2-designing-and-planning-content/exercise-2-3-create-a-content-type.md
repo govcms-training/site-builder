@@ -21,19 +21,19 @@ As the name suggests, the _Job Posting_ content type will be used to post jobs o
 
 1. Go to _Structure_ → _Content types_. Click **Add content type**.
 2. Next, type in the content name and description:
- - **Name**: Job Posting
- - **Description**: Post a job to the jobs section of the site. \(The description should explain the content type.\)
+   - **Name**: Job Posting
+   - **Description**: Post a job to the jobs section of the site. \(The description should explain the content type.\)
 
 3. Next, scroll down to the configuration tabs. Under **Submission form settings** follow these:
- - **Title field label:** Job title.
- - **Preview before submitting:** Disabled.
- - **Explanation or submission guidelines**: Leave this empty. This field lets you put in any specific instructions for the content type.
+   - **Title field label:** Job title.
+   - **Preview before submitting:** Disabled.
+   - **Explanation or submission guidelines**: Leave this empty. This field lets you put in any specific instructions for the content type.
 
 4. We want jobs to be published by default, but not automatically promoted to the front page, so under **Publishing options** use these settings:
- - **Published**: Leave selected.
- - **Promoted to front page:**: Deselect.
- - **Sticky at top of lists**: Leave unselected.
- - **Create new revision**: Leave selected.
+   - **Published**: Leave selected.
+   - **Promoted to front page:**: Deselect.
+   - **Sticky at top of lists**: Leave unselected.
+   - **Create new revision**: Leave selected.
 
     ![Image of Add content type](../.gitbook/assets/Ex-2-3-Add-Content-Type-1.png)
 
