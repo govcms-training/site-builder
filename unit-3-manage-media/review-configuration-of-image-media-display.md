@@ -14,4 +14,4 @@ When embedding media assets from other content types and entity types, we have t
    6. Thumbnail
 5. The Advanced configuration of the Image field uses “Image styles” in most cases
 
-   ![The Advanced configuration of the Image field uses &#x201C;Image styles&#x201D; in most cases](../.gitbook/assets/Unit-3-Image-Display-Config.png)
+![The Advanced configuration of the Image field uses &#x201C;Image styles&#x201D; in most cases](../.gitbook/assets/Unit-3-Image-Display-Config.png)
