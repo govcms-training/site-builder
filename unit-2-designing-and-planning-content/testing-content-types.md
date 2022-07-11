@@ -2,21 +2,23 @@
 
 ## Content test - manual
 
-1. Go to Add content → Job posting.
-2. On the Add job posting form, enter the following information:
+Create a Job listing manually.
+
+1. Go to _Contnet_ _Add content_ → **Job posting**.
+2. On the Add Job posting form, enter the following information:
    * **Job Title** – Police Officers
    * Terms of employment – Permanent
    * Geographical Region: Victoria
    * **Job Description** – Victoria Police is looking for more than 3000 people across the state in their biggest recruitment drive ever. If you’re interested in keeping Victorian communities safe and want a challenging and rewarding career, then join the force. 
 
-    ![Image of Create Job posting](../.gitbook/assets/52%20%282%29.png)
+    ![Image of Create Job posting](../.gitbook/assets/Unit-2-Testing-Content-Types-1.png)
 
 3. Leave all remaining default settings.
-4. Save
+4. Click **Save**.
 
 You should now see your newly created Job Posting.
 
-![Image of Job posting](../.gitbook/assets/53.png)
+![Image of Job posting](../.gitbook/assets/Unit-2-Testing-Content-Types-2.png)
 
 ## Content test – generated content
 
