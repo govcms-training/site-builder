@@ -8,18 +8,16 @@ You could create a custom view for administrators that lists all new content wit
 
 Below you can see the screenshots for setting up administration permissions.
 
-![Image of Page Access permissions](../.gitbook/assets/55%20%282%29.png)
+![Image of Page Access permissions](../.gitbook/assets/138.png)
 
-![Image of Page Access Options](../.gitbook/assets/56.png)
+![Image of Page Access Options](../.gitbook/assets/139.png)
 
 ## Bulk operations: Content lists for administrators
 
 GovCMS’s default content listing shows each page of content with easy access to operations such as delete and unpublish. In some cases, site administrators will need to manage content in a bulk way, rather than individually.
 
-The module **Views bulk operations \(VBO\)** allows you to create custom content listings and perform bulk operations.
+The module **Views bulk operations (VBO)** allows you to create custom content listings and perform bulk operations.
 
 GovCMS has extended the Content administration page so more content actions can be performed.
 
-![Image of Bulk operations options](../.gitbook/assets/57%20%282%29.png)
-
-
+![Image of Bulk operations options](../.gitbook/assets/140.png)

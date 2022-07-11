@@ -2,7 +2,7 @@
 
 Next we’ll add the related content block, as per the screenshot below.
 
-![Image of Related content menu](../.gitbook/assets/32%20%281%29.png)
+![Image of Related content menu](<../.gitbook/assets/115 (1).png>)
 
 ## Check content tags
 
@@ -20,23 +20,23 @@ The contextual filter allows us to show a list of the content with the same tags
 
 1. Go to **Structure** → **Blocks** and scroll down to the “Sidebar” area.
 2. Click the **Place block** button.
-3. In the pop-up, filter by text “Related content” in the **Lists \(Views\)** category.
+3. In the pop-up, filter by text “Related content” in the **Lists (Views)** category.
 4. Place block.
-5. Under Visibility settings, configure block to display on all pages except the homepage. Remember to use the &lt;front&gt; token as the homepage identified. You may also use “/”. In addition, filter the block to only show on the following content types:
+5. Under Visibility settings, configure block to display on all pages except the homepage. Remember to use the \<front> token as the homepage identified. You may also use “/”. In addition, filter the block to only show on the following content types:
 
- - **Job Posting**
+* **Job Posting**
 
-6. Click Save block.
+1. Click Save block.
 
 ## Review and test
 
-Go to the frontend of your site and check that the Related content block has been added, as in the below screenshot.  
+Go to the frontend of your site and check that the Related content block has been added, as in the below screenshot.
 
-![Image of Related content menu](../.gitbook/assets/40%20%282%29.png)
+![Image of Related content menu](<../.gitbook/assets/115 (1) (3).png>)
 
 Check that you have some content in certain states/territories, so you can see how the block works.
 
-* When you click on a state \(tag\) on a specific article you should see a list of related content, listed by the taxonomy term. You should not see the block.
+* When you click on a state (tag) on a specific article you should see a list of related content, listed by the taxonomy term. You should not see the block.
 * You should see the Related Content block when you view a job posting or News and Media article.
 
 ## Filter out currently displayed page
@@ -52,14 +52,12 @@ Let’s remove it by adding one more _Contextual Filter_.
 1. Return to editing the _Related Content_ view.
 2. Expand the _Advanced_ pane and you should see the _Contextual Filter_ **Content: Has taxonomy term ID** that we created earlier.
 3. Add another contextual filter
-4. Search for ID. 
+4.  Search for ID.
 
-    ![Image of ID content](../.gitbook/assets/42.png)
-    
-5. Select _Provide default value_ in the When the filter value is NOT available pane → Content ID from URL. 
+    <img src="../.gitbook/assets/42.png" alt="Image of ID content" data-size="original">
+5.  Select _Provide default value_ in the When the filter value is NOT available pane → Content ID from URL.
 
-    ![Image of Provide default value - Content ID from URL](../.gitbook/assets/43%20%281%29.png)
-    
+    <img src="../.gitbook/assets/43 (1).png" alt="Image of Provide default value - Content ID from URL" data-size="original">
 6. Under the **More** pane, select **Exclude**
 7. **Apply** the changes.
 8. Save the View.
