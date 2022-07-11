@@ -8,10 +8,12 @@ In the Event content type, we have an image field. The same image may display as
 
 You may explore how the Event content type displays these images based on the Display Mode.
 
-1. Navigate to the Structure → Content types → Event → Manage display → Teaser Small.
-2. Locate the Image field. Explore how it’s rendered by using the **Square** _Display mode_ from the **Image** _Media entity_ \(see previous exercise\).
+1. Navigate to _Structure_ → _Content types_ → **Event** → **Manage display** → **Teaser Small**.
+2. Locate the Image field. 
 
-![Image of image display](../.gitbook/assets/59%20%281%29.png) 
+Explore how it’s rendered by using the **Thumbnail** _Display mode_ from the **Image** _Media entity_ \(see previous exercise\).
+
+![Image of image display](../.gitbook/assets/Ex-3-1-Image-Style-3.png) 
 
 ## Naming image styles
 
