@@ -65,8 +65,8 @@ Image styles are set and configured in the _Image styles admin page_.
     ![Image of Open image link](../.gitbook/assets/Ex-3-2-Image-Styles-9.png)
 
 10. Click the gear link on the right to change from the Original image to the _image style_ **Job Posting Image.**. Press the **Update** button to save the changes.
-   
-   ![Image of apply new image style](../.gitbook/assets/Ex-3-2-Image-Styles-10.png)
+
+    ![Image of apply new image style](../.gitbook/assets/Ex-3-2-Image-Styles-10.png)
 
 11. Confirm the image style option has changed: 
 
