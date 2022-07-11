@@ -13,4 +13,3 @@ In this exercise we’ll compare content form and display using the default cont
 Go to Admin → **Content**. Compare the editing forms and content display. **News and Media** and **Standard Pages** have different default settings.
 
 ![Image of Content listing](../.gitbook/assets/Ex-2-1-Content-Types.png)
-
