@@ -1,15 +1,15 @@
 # Exercise 1.1: Add new roles and users
 
-In this exercise we’ll add our required roles of Job Seeker, Content Author and Content Approver, then we’ll add users and assign roles to them.
+In this exercise we’ll add our required Job Seeker role, then we’ll add users and assign roles to them.
 
 ## Create a new role
 
 1. Navigate to _People_ → **Roles** from the _Admin menu_.
-2. Add the Job Seeker role (the Content Author and Content Approver roles exist in GovCMS out-of-the-box).
+2. Add the **Job Seeker** role (the Content Author and Content Approver roles exist in GovCMS out-of-the-box).
 3. Reorder the roles with the role with least permissions at the top, and the most permissions at the bottom.
 4.  Click **Save**.
 
-    <img src="../.gitbook/assets/8 (1).png" alt="Image of user Roles" data-size="original">
+<img src="../.gitbook/assets/Ex-1-1-Roles-1.png" alt="Image of Roles page" data-size="original">
 
 ## Add users
 
