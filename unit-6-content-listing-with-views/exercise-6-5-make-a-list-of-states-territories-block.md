@@ -2,7 +2,7 @@
 
 In this exercise we’ll add a list of the **States and Territories** in the sidebar, so the page looks like the screenshot below.
 
-![Image of States/Territories sidebar menu](<../.gitbook/assets/31 (1).png>)
+![Image of States/Territories sidebar menu](<../.gitbook/assets/114 (1).png>)
 
 1. Go to **Structure** → **Views**. Click **+ Add new View**. Add in these settings:
 

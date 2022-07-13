@@ -2,7 +2,7 @@
 
 Content Reference is a useful tool in GovCMS. It helps you create new relationships between content. There are many ways to leverage this connection with Views. For example, when you’re viewing an **agency** page, you could show which jobs “back reference” to that agency.
 
-![Image of ATO site](<../.gitbook/assets/81 (2).png>)
+![Image of ATO site](<../.gitbook/assets/164 (1).png>)
 
 ## Create the Agency content type
 
@@ -34,7 +34,7 @@ We’re now going to add the image field to the agency content type. When adding
 * Media type: Image
 *   **Form display**: Entity browser. Configure as pictured below:
 
-    <img src="../.gitbook/assets/82 (2).png" alt="Image of Agency logo config settings" data-size="original">
+    <img src="../.gitbook/assets/165 (1).png" alt="Image of Agency logo config settings" data-size="original">
 * When finished, click the **Update** button and then Save the _Manage form display_ page.
 * **Display**: rendered entity, rendered as Thumbnail
 
@@ -51,18 +51,18 @@ Finally, we’re going to add a references field for job postings.
 * Content type: Agency
 *   **Sort by**: - None -
 
-    <img src="../.gitbook/assets/83 (1).png" alt="Image of Reference field" data-size="original">
+    <img src="../.gitbook/assets/166 (1).png" alt="Image of Reference field" data-size="original">
 
 1. Click Save settings
 2. You’ll also need to configure the form display. Use the **Select list** _widget_ for the **Agency** field. Note: You can also move the **Agency** field on the form so it’s above the **Job description** field.
 3. You’ll also need to configure the display. Set the _Agency_ field to display as a link.
 4. Your job posting fields will now look something like the screenshot below. You may rearrange any new fields we’ve added and bring them above the Job description field.
 
-![Image of Manage fields](<../.gitbook/assets/84 (1).png>)
+![Image of Manage fields](../.gitbook/assets/167.png)
 
-![Image of rearrange fields](../.gitbook/assets/85.png)
+![Image of rearrange fields](../.gitbook/assets/168.png)
 
-![Image of fields](../.gitbook/assets/86.png)
+![Image of fields](../.gitbook/assets/169.png)
 
 ## Try it out
 

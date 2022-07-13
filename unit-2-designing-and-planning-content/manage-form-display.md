@@ -32,15 +32,15 @@ This gives us more flexibility over how things will appear when someone is looki
 
 Your instructor will now show you how view modes are used to control how content appears in different conditions on a sample website. Later in this course you’ll learn how to add view modes in GovCMS.
 
-![Image of Events displays](<../.gitbook/assets/49 (1).jpeg>)
+![Image of Events displays](../.gitbook/assets/49.jpeg)
 
 ## Consider using view modes
 
 In most cases websites need to apply CSS in the theme to be able to get total control of the layout. View modes allows the same content to be displayed in a variety of layouts.
 
-![Image of job listing](../.gitbook/assets/50.png)
+![Image of job listing](<../.gitbook/assets/50 (1).png>)
 
-![Image of job listing detail](<../.gitbook/assets/51 (2).png>)
+![Image of job listing detail](<../.gitbook/assets/51 (1).png>)
 
 ## Manage Display interface
 

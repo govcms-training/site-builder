@@ -2,7 +2,7 @@
 
 Previously, you added fields to content types. You can also add fields to user profiles. This means you can let users share information about themselves and then you can display it. You can also control permissions so only trusted users can see profiles. Below you can see the profiles will have a text field for description and also a list of interests and a profile picture.
 
-![Image of User profile with image](<../.gitbook/assets/130 (1).png>)
+![Image of User profile with image](../.gitbook/assets/213.png)
 
 ## Add a text field for a biography
 
@@ -39,7 +39,7 @@ Return to the front page.
 
 1.  Click **Your username** in the top administration menu, then _View profile_, then the **Edit** tab.
 
-    <img src="../.gitbook/assets/131.png" alt="Image of Edit profile buttton" data-size="original">
+    <img src="../.gitbook/assets/214.png" alt="Image of Edit profile buttton" data-size="original">
 2. At the bottom of the form you can see the options available.
 3. Fill in some text for **About me** and type in tags (comma-separated for multiple tags) for **Interests**, such as _Brazil, sailing, dancing._
 4. Under **Picture**, upload an image if you haven't already.

@@ -15,7 +15,7 @@ Before attempting performance tuning, establish a performance baseline. Having t
 
 Once your website is running publicly, you need to use an external speed optimisation tool like [http://webpagetest.org/](http://webpagetest.org/). Make sure you select the closest test location - for example, consider running your test from a data centre in Sydney.
 
-![](../.gitbook/assets/245.png)
+![](../.gitbook/assets/162.png)
 
 An external performance analysis tool allows the following metrics to be captured:
 
@@ -27,4 +27,4 @@ An external performance analysis tool allows the following metrics to be capture
 
 These are the metrics that we can control on the application level.
 
-![](../.gitbook/assets/246.png)
+![](<../.gitbook/assets/163 (1).png>)

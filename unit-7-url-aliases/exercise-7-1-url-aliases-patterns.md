@@ -6,7 +6,7 @@ In this exercise, we’re going to automatically assign a URL alias pattern to t
 
 1.  Go to Configuration → Search and metadata → URL aliases → Patterns
 
-    <img src="../.gitbook/assets/71 (2).png" alt="Image of URL alias Patterns" data-size="original">
+    <img src="../.gitbook/assets/154 (1).png" alt="Image of URL alias Patterns" data-size="original">
 
     Our new content type Job posting is not listed yet, so let’s create a new _Pathauto_ _pattern_.
 2. Click the **Add Pathauto pattern** button.

@@ -1,6 +1,6 @@
 # Exercise 8.11 (Challenge): An image gallery
 
-![Image of image gallery](<../.gitbook/assets/141 (1).png>)
+![Image of image gallery](../.gitbook/assets/224.png)
 
 With the member list you created a grid-based view of members’ profiles. Now, create a gallery of images from the **News and Media** published on your site.
 

@@ -16,11 +16,11 @@ Each new content item has a permanent URL that uses numbers, such as node/1. You
 
 When you add content, you can create a custom URL alias and override the default settings.
 
-![Image of Custom URL](<../.gitbook/assets/152 (1).png>)
+![Image of Custom URL](<../.gitbook/assets/69 (2).png>)
 
 If you use the content's menu settings to add this to the Main menu, the link will be updated automatically:
 
-![Image of Menu settings](../.gitbook/assets/153.png)
+![Image of Menu settings](<../.gitbook/assets/70 (2).png>)
 
 ## URL Patterns and the Pathauto Module
 

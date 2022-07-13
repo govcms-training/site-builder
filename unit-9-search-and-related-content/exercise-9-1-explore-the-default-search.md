@@ -12,15 +12,15 @@ The screenshot on the next page shows what a default search result may look like
 
 You can control this in **Structure** → **Content types** → (choose a content type) → **Manage display**. In this screen you can configure the view mode and field display for Search results.
 
-![Image of Manage display Search](../.gitbook/assets/142.png)
+![Image of Manage display Search](../.gitbook/assets/225.png)
 
-![Image of Manage display Search](<../.gitbook/assets/143 (1).png>)
+![Image of Manage display Search](../.gitbook/assets/226.png)
 
-![Image of Manage display Search](../.gitbook/assets/144.png)
+![Image of Manage display Search](../.gitbook/assets/227.png)
 
 Note that in the given example for the _Standard Page_ content type, we use _view mode_ **Search** and **Search** _layout_, to stay consistent with other content types in GovCMS8. The _view mode_ used in the search could be any other one available, as long as it’s configured to display in the search results (we’ll explore this later).
 
-![Image of Search page](<../.gitbook/assets/145 (1).png>)
+![Image of Search page](../.gitbook/assets/228.png)
 
 ## Understanding the index
 

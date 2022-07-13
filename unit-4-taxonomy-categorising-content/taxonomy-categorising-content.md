@@ -15,7 +15,7 @@ Many contributed modules rely on Taxonomy-generating; for example, menus based o
 
 You may also like to refer to [https://www.drupal.org/docs/8/core/modules/taxonomy/taxonomy-module-overview](https://www.drupal.org/docs/8/core/modules/taxonomy/taxonomy-module-overview) for more information on taxonomy.
 
-![Image of Vocabulary and Terms](<../.gitbook/assets/75 (2).png>)
+![Image of Vocabulary and Terms](<../.gitbook/assets/75 (1).png>)
 
 ## List (text) field versus taxonomy
 

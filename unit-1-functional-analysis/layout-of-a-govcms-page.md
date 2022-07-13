@@ -8,11 +8,11 @@ The content is placed into Regions as **Blocks**. Some blocks are created by Con
 
 The screenshot below shows a page divided up into basic regions of Header, Content, Footer and RHS Sidebar.
 
-![Image of page Regions](../.gitbook/assets/5.png)
+![Image of page Regions](<../.gitbook/assets/5 (2).png>)
 
 The screenshot below represents content blocks placed within regions. The Logo is in the Header region and an Author Profile is in the RHS Sidebar.
 
-![Image of page regions and Content blocks](../.gitbook/assets/6.png)
+![Image of page regions and Content blocks](<../.gitbook/assets/6 (1).png>)
 
 You may explore the default theme GitHub repository to review the available regions: https://github.com/govCMS/govcms8\_uikit\_starter/blob/8.x-1.x/govcms8\_uikit\_starter.info.yml#L8
 
