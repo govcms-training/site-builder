@@ -7,7 +7,7 @@ In this exercise we’ll add a new link field to the _Job Posting_ content type.
 1. Go to Structure → Content types → Job posting and click on the Manage fields tab.
 2.  Add a new field and use the following settings:
 
-    <img src="../.gitbook/assets/78.png" alt="Image of new Field settings" data-size="original">
+    <img src="../.gitbook/assets/161.png" alt="Image of new Field settings" data-size="original">
 3. Click **Save and continue.** This will take you to the Field settings page. There are no changes so just click **Save settings**_._ This takes you to the settings for this field on the _Job posting_ content type.
 
 ## Test it

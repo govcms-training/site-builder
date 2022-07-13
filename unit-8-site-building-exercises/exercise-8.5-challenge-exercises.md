@@ -6,7 +6,7 @@ To experiment with these features, try the following exercises:
 * Customise the Agency link field to display inline with the label (this may require adding some inline CSS).
 * Rearrange the fields like we’ve done in the screenshot below
 
-![Image of Job listing page](../.gitbook/assets/114.png)
+![Image of Job listing page](../.gitbook/assets/197.png)
 
 In this exercise we learned that you can expand the fields available to a view by using relationships. We also saw more about the various display formats available with views.
 

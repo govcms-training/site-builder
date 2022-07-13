@@ -2,7 +2,7 @@
 
 In this exercise, you’ll make a grid display of user profile pictures like this:
 
-![Image of Grid display user profile images](../.gitbook/assets/132.png)
+![Image of Grid display user profile images](../.gitbook/assets/215.png)
 
 1. Go to Structure → Views and click + Add new view.
 2. Configure your view with the following settings:
@@ -39,4 +39,4 @@ Finally, we’ll add a link to the main navigation.
 6. Scroll down to the Views preview and review if the results are as expected. Click **Save**.
 7. Test your new view. In the main navigation, you should have a menu link to “Members”, and a page available at [http://example.com/members](http://example.com/members)
 
-![Image of Grid display user profile images](<../.gitbook/assets/133 (1).png>)
+![Image of Grid display user profile images](../.gitbook/assets/216.png)

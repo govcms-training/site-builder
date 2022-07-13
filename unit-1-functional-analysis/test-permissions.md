@@ -6,7 +6,7 @@ It’s important you use GovCMS’s _User Role_ and _Permissions_ features to he
 
 * **Site Administrator**: All permissions selected
 * **Content Author**: Permissions selected for adding and editing any content
-* **Content Approver** and **Job Seeker**: Cannot have any permissions to add, edit, edit or delete content. ![](<../.gitbook/assets/10 (2).png>)
+* **Content Approver** and **Job Seeker**: Cannot have any permissions to add, edit, edit or delete content. ![](../.gitbook/assets/10.png)
 
 1. Save permissions
 

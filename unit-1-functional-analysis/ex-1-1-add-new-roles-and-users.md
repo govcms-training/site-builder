@@ -7,16 +7,16 @@ In this exercise we’ll add our required Job Seeker role, then we’ll add user
 1. Navigate to _People_ → **Roles** from the _Admin menu_.
 2. Add the **Job Seeker** role (the Content Author and Content Approver roles exist in GovCMS out-of-the-box).
 3. Reorder the roles with the role with least permissions at the top, and the most permissions at the bottom.
-4.  Click **Save**.
+4. Click **Save**.
 
-<img src="../.gitbook/assets/Ex-1-1-Roles-1.png" alt="Image of Roles page" data-size="original">
+![](../.gitbook/assets/Ex-1-1-Roles-1.png)
 
 ## Add users
 
 1. Navigate to _People_ on the _Admin menu_.
 2. Add two test users:
-   -  **testeditor** - assign the _Content Author_ role.
-   - **testjobseeker** - assign the _Job Seeker_ role.
+   * **testeditor** - assign the _Content Author_ role.
+   * **testjobseeker** - assign the _Job Seeker_ role.
 
 ## Test user roles
 

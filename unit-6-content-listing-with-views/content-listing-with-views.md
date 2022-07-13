@@ -6,7 +6,7 @@ Using the Views module, we can fetch content from the database of our site and p
 
 Views UI, a submodule within Views, provides a graphical interface underneath which lies a powerful SQL query builder that can access virtually any information in your database and display it in any format.
 
-![A screenshot of Views UI - a way to create content listing in GovCMS](<../.gitbook/assets/89 (1).png>)
+![A screenshot of Views UI - a way to create content listing in GovCMS](<../.gitbook/assets/6 (2).png>)
 
 Different displays can present the query results as pages with fixed URLs on your site (or URLs accepting arguments), blocks, feeds, or panel panes.
 
@@ -29,7 +29,7 @@ Basic interface to create a view:
 3. **Specify how to display,** lists, tables, grid etc.
 4. **Set a display,** such as a page, block, RSS feed, etc.
 
-![A screenshot of basic Views interface](../.gitbook/assets/90.png)
+![A screenshot of basic Views interface](<../.gitbook/assets/7 (2).png>)
 
 ## Create lists of content using Views
 
@@ -39,11 +39,11 @@ In a previous unit we created the new content type of Job Posting for our Govern
 
 Views allows you to reuse existing configuration in a good way. If you create a page listing of your content and need to provide a block of page titles or add an RSS feed (even create more pages) – View Displays can be used rather than duplicating views.
 
-![Image of Page Display and Block content views displays](<../.gitbook/assets/96 (1).png>)
+![Image of Page Display and Block content views displays](<../.gitbook/assets/13 (1).png>)
 
 If you explore the existing GovCMS Block Article View – three Displays exist: Page, Feed and Block.
 
-![Image of GovCMS Block Article View](../.gitbook/assets/97.png)
+![Image of GovCMS Block Article View](../.gitbook/assets/14.png)
 
 Views displays allows you to easily create a duplicate of any other display and add some customisations and overrides.
 
@@ -55,13 +55,13 @@ Views also allow you to speed up your site if you have two views that load simil
 
 The Views module includes some pre-built templates, which can be activated and edited to suit your requirements.
 
-![Image of Views pre-built templates](<../.gitbook/assets/98 (1).png>) ![Image of Views pre-built templates](../.gitbook/assets/99.png)
+![Image of Views pre-built templates](../.gitbook/assets/15.png) ![Image of Views pre-built templates](<../.gitbook/assets/16 (1).png>)
 
 ## The Views editing interface – Format pane
 
 In this section we’re going to look at the Views editing interface.
 
-![Image of Views editing interface](<../.gitbook/assets/100 (1).png>)
+![Image of Views editing interface](../.gitbook/assets/17.png)
 
 * **A. Displays**: Create multiple displays from the same view. This might mean multiple pages with different filters or blocks, RSS feeds, etc.
 * **B. Format**: Output content into lists, tables, or show the full content (node) display.
