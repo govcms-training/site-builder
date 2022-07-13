@@ -14,7 +14,7 @@ At the moment, when we access any of the **Job Posting** content, the _breadcrum
 
 We want to change the breadcrumbs so that when a **Job Posting** page is displayed, the _breadcrumb_ shows the link to the parent **Jobs** page:
 
-![Image of Breadcrumb to Jobs page](<../.gitbook/assets/159 (1) (1) (1) (1) (2).png>)
+![Image of Breadcrumb to Jobs page](<../.gitbook/assets/159 (1) (1) (1) (1) (2) (2).png>)
 
 The _breadcrumb_ links are constructed from the URL of the current page and checking if the sub-path matches any page on the site. If it does, the system pulls the title of that page and creates a breadcrumb link.
 
@@ -26,4 +26,4 @@ Our parent page (**Jobs**) URL is **/job-postings** and our **Job Posting** _con
 4. **Save** the view
 5. Test the _breadcrumb_ by navigating to any _Job Posting_ content. You should now get the **Job Posting** link in the breadcrumb.
 
-![Image of Breadcrumb to Jobs page](<../.gitbook/assets/159 (1) (1) (1) (2).png>)
+![Image of Breadcrumb to Jobs page](<../.gitbook/assets/159 (1) (1) (1) (1) (2) (1).png>)

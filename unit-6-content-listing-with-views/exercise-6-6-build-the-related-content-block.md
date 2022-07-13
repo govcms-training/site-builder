@@ -32,7 +32,7 @@ The contextual filter allows us to show a list of the content with the same tags
 
 Go to the frontend of your site and check that the Related content block has been added, as in the below screenshot.
 
-![Image of Related content menu](<../.gitbook/assets/115 (1) (1) (1) (1) (1) (3).png>)
+![Image of Related content menu](<../.gitbook/assets/115 (1) (1) (1) (1) (1) (2) (3).png>)
 
 Check that you have some content in certain states/territories, so you can see how the block works.
 
