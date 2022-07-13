@@ -15,9 +15,8 @@ In this exercise we’ll add our required Job Seeker role, then we’ll add user
 
 1. Navigate to _People_ on the _Admin menu_.
 2. Add two test users:
-
-* **testeditor** - assign the _Content Author_ role.
-* **testjobseeker** - assign the _Job Seeker_ role.
+   -  **testeditor** - assign the _Content Author_ role.
+   - **testjobseeker** - assign the _Job Seeker_ role.
 
 ## Test user roles
 
