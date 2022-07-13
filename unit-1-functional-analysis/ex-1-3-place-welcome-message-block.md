@@ -41,6 +41,6 @@ Next, you’ll need to assign the block to an area on the site.
 
 After the page is saved, you’ll be redirected to the _Block Layout_ page. If you have multiple blocks assigned to the same region (such as Footer Top), these can be rearranged on that page. Press the _Save blocks_ button.
 
-Now go to the homepage of your site and view your new welcome message/block in the second sidebar.
+Now go to the homepage of your site and view your new welcome message/block in the footer.
 
 > **Tip:** Blocks aren’t content so they won’t be displayed in the content listing. To view all custom blocks go to _Structure_ → _Block layout_ → _Custom block library_ .
