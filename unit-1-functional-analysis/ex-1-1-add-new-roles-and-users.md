@@ -9,7 +9,7 @@ In this exercise we’ll add our required roles of Job Seeker, Content Author an
 3. Reorder the roles with the role with least permissions at the top, and the most permissions at the bottom.
 4.  Click **Save**.
 
-    <img src="../.gitbook/assets/8 (2).png" alt="Image of user Roles" data-size="original">
+    <img src="../.gitbook/assets/8 (1).png" alt="Image of user Roles" data-size="original">
 
 ## Add users
 

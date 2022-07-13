@@ -8,10 +8,10 @@ You can use caching with Views to save the results of a query for the next site 
 
 **Note:** Very short times in the _Time based_ caching may negatively impact your website performance.
 
-![](../.gitbook/assets/150.png)
+![](<../.gitbook/assets/67 (1).png>)
 
 You can change it to a _Time based_ cache in the right-hand column. Choose a setting based on how often your site is updated.\
-![](../.gitbook/assets/151.png)
+![](<../.gitbook/assets/68 (2).png>)
 
 #### Turn off the Views UI module
 

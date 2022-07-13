@@ -2,7 +2,7 @@
 
 Next we’ll add the related content block, as per the screenshot below.
 
-![Image of Related content menu](<../.gitbook/assets/115 (1).png>)
+![Image of Related content menu](<../.gitbook/assets/115 (1) (1) (1) (1).png>)
 
 ## Check content tags
 
@@ -32,7 +32,7 @@ The contextual filter allows us to show a list of the content with the same tags
 
 Go to the frontend of your site and check that the Related content block has been added, as in the below screenshot.
 
-![Image of Related content menu](<../.gitbook/assets/115 (1) (3).png>)
+![Image of Related content menu](<../.gitbook/assets/115 (1) (1) (1) (3).png>)
 
 Check that you have some content in certain states/territories, so you can see how the block works.
 
@@ -45,7 +45,7 @@ While testing the Related content block, did you notice anything unusual?
 
 The **Related content** block displays the article title of the currently displayed page:
 
-![Image of Current page in menu lust](../.gitbook/assets/41.png)
+![Image of Current page in menu lust](../.gitbook/assets/124.png)
 
 Let’s remove it by adding one more _Contextual Filter_.
 
@@ -54,10 +54,10 @@ Let’s remove it by adding one more _Contextual Filter_.
 3. Add another contextual filter
 4.  Search for ID.
 
-    <img src="../.gitbook/assets/42.png" alt="Image of ID content" data-size="original">
+    <img src="../.gitbook/assets/125.png" alt="Image of ID content" data-size="original">
 5.  Select _Provide default value_ in the When the filter value is NOT available pane → Content ID from URL.
 
-    <img src="../.gitbook/assets/43 (1).png" alt="Image of Provide default value - Content ID from URL" data-size="original">
+    <img src="../.gitbook/assets/126.png" alt="Image of Provide default value - Content ID from URL" data-size="original">
 6. Under the **More** pane, select **Exclude**
 7. **Apply** the changes.
 8. Save the View.

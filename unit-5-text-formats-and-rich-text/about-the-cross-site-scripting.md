@@ -15,12 +15,12 @@ Follow these and other best practices to keep your site safe:
 2. The **Plain text** format is intended for anonymous users, and does have CKEditor enabled.
 3. When working with user-generated content, it's always best to keep input format settings as secure as possible. Select the least amount of functionality possible for each role; for example, don't allow anonymous users to have access to **Rich Text** format.
 
-![Image of Comic](../.gitbook/assets/83.png)
+![Image of Comic](<../.gitbook/assets/0 (1).png>)
 
 Source: [https://xkcd.com/327/](https://xkcd.com/327/)
 
 Comic reproduced under a [Creative Commons Attribution-NonCommercial 2.5 License](http://creativecommons.org/licenses/by-nc/2.5/).
 
-![Image of GovCMS text formats](../.gitbook/assets/84.png)
+![Image of GovCMS text formats](../.gitbook/assets/1.png)
 
 **Note:** Certain inputs are restricted by default on GovCMS (such as the tags needed to display video properly) to protect the system from malicious code. Rich text format should only be accessible by trusted users.

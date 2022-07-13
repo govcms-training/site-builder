@@ -6,9 +6,9 @@ Using the Views module, we can fetch content from the database of our site and p
 
 Views UI, a submodule within Views, provides a graphical interface underneath which lies a powerful SQL query builder that can access virtually any information in your database and display it in any format.
 
-![A screenshot of Views UI - a way to create content listing in GovCMS](../.gitbook/assets/6%20%282%29.png)
+![A screenshot of Views UI - a way to create content listing in GovCMS](<../.gitbook/assets/89 (1).png>)
 
-Different displays can present the query results as pages with fixed URLs on your site \(or URLs accepting arguments\), blocks, feeds, or panel panes.
+Different displays can present the query results as pages with fixed URLs on your site (or URLs accepting arguments), blocks, feeds, or panel panes.
 
 You can also use Views to present related content or implement contextual filters. An example of presenting related content is when you want to display a list of users along with links to the content they have created.
 
@@ -16,7 +16,7 @@ You can also use Views to present related content or implement contextual filter
 
 As an introduction to Views, your instructor will go through some of its features. Views allows you to create filters using dynamic input and also connect content to other content pieces.
 
-It’s important to remember that you’re _limiting_ a data set by using filters and selecting the appropriate \(and only the necessary\) fields. If you’ve got a very large website and try to display full nodes on one page, you will destroy the site. Keep this in mind to avoid any issues.
+It’s important to remember that you’re _limiting_ a data set by using filters and selecting the appropriate (and only the necessary) fields. If you’ve got a very large website and try to display full nodes on one page, you will destroy the site. Keep this in mind to avoid any issues.
 
 Recommended reading:
 
@@ -29,7 +29,7 @@ Basic interface to create a view:
 3. **Specify how to display,** lists, tables, grid etc.
 4. **Set a display,** such as a page, block, RSS feed, etc.
 
-![A screenshot of basic Views interface](../.gitbook/assets/7%20%282%29.png)
+![A screenshot of basic Views interface](../.gitbook/assets/90.png)
 
 ## Create lists of content using Views
 
@@ -37,13 +37,13 @@ In a previous unit we created the new content type of Job Posting for our Govern
 
 ## Views displays – multiple views in one
 
-Views allows you to reuse existing configuration in a good way. If you create a page listing of your content and need to provide a block of page titles or add an RSS feed \(even create more pages\) – View Displays can be used rather than duplicating views.
+Views allows you to reuse existing configuration in a good way. If you create a page listing of your content and need to provide a block of page titles or add an RSS feed (even create more pages) – View Displays can be used rather than duplicating views.
 
-![Image of Page Display and Block content views displays](../.gitbook/assets/13%20%281%29.png)
+![Image of Page Display and Block content views displays](<../.gitbook/assets/96 (1).png>)
 
 If you explore the existing GovCMS Block Article View – three Displays exist: Page, Feed and Block.
 
-![Image of GovCMS Block Article View](../.gitbook/assets/14.png)
+![Image of GovCMS Block Article View](../.gitbook/assets/97.png)
 
 Views displays allows you to easily create a duplicate of any other display and add some customisations and overrides.
 
@@ -55,25 +55,24 @@ Views also allow you to speed up your site if you have two views that load simil
 
 The Views module includes some pre-built templates, which can be activated and edited to suit your requirements.
 
-![Image of Views pre-built templates](../.gitbook/assets/15.png)![Image of Views pre-built templates](../.gitbook/assets/16%20%281%29.png)
+![Image of Views pre-built templates](<../.gitbook/assets/98 (1).png>) ![Image of Views pre-built templates](../.gitbook/assets/99.png)
 
 ## The Views editing interface – Format pane
 
 In this section we’re going to look at the Views editing interface.
 
-![Image of Views editing interface](../.gitbook/assets/17.png)
+![Image of Views editing interface](<../.gitbook/assets/100 (1).png>)
 
-- **A. Displays**: Create multiple displays from the same view. This might mean multiple pages with different filters or blocks, RSS feeds, etc.
-- **B. Format**: Output content into lists, tables, or show the full content \(node\) display.
-- **C. Fields**: Specify fields such as title, date, taxonomy, etc.
-- **D. Filter criteria**: This is the most important aspect, since you limit the selection this way.
-- **E. Sort criteria:** Specify ordering of the list - by created date, by title or any other property.
-- **F. Header**: Add arbitrary HTML to the top and bottom of your views.
-- **G. Pager**: Specify how many items to display or whether or not to show a "previous/next" pager.
+* **A. Displays**: Create multiple displays from the same view. This might mean multiple pages with different filters or blocks, RSS feeds, etc.
+* **B. Format**: Output content into lists, tables, or show the full content (node) display.
+* **C. Fields**: Specify fields such as title, date, taxonomy, etc.
+* **D. Filter criteria**: This is the most important aspect, since you limit the selection this way.
+* **E. Sort criteria:** Specify ordering of the list - by created date, by title or any other property.
+* **F. Header**: Add arbitrary HTML to the top and bottom of your views.
+* **G. Pager**: Specify how many items to display or whether or not to show a "previous/next" pager.
 
+## Related content with Views (contextual filters)
 
-## Related content with Views \(contextual filters\)
-
-In the Unit 6 exercises, we used filters in Views to limit the data displayed \(e.g. to show certain content types or show content categorised with a specific taxonomy term. For our Jobs website, we want to show related content when we view a job listing for a specific state/territory, without having to build a new view for each new state. The solution is to use **context** to control the items displayed. We can set up GovCMS to check the taxonomy terms from the article, and dynamically include content that’s categorised with the same term.
+In the Unit 6 exercises, we used filters in Views to limit the data displayed (e.g. to show certain content types or show content categorised with a specific taxonomy term. For our Jobs website, we want to show related content when we view a job listing for a specific state/territory, without having to build a new view for each new state. The solution is to use **context** to control the items displayed. We can set up GovCMS to check the taxonomy terms from the article, and dynamically include content that’s categorised with the same term.
 
 We can configure a view so that it’s filtered dynamically, depending on the context. For example, we could use a contextual filter to add a block that contains related content or that presents a list of articles by the same author.

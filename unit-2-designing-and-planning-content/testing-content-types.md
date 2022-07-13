@@ -28,7 +28,7 @@ Often we need content to help test new content types. However, creating content 
 
 1.  Navigate to Extend and search for Devel Generate. Enable the module if not enabled already.
 
-    <img src="../.gitbook/assets/54.png" alt="Image of Devel generate options" data-size="original">
+    <img src="../.gitbook/assets/54 (2).png" alt="Image of Devel generate options" data-size="original">
 2. Go to Configuration → Development → Generate content
 3. Select the Job Posting checkbox
 4. Enter 10 in the How many nodes would you like to generate? field

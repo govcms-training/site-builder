@@ -70,7 +70,7 @@ Image styles are set and configured in the _Image styles admin page_.
 1. Go to **People** → **Permissions** and double check the permissions for the content type: _Job posting_.
 2.  Make sure the _Content Author_ role has permissions to _Create_, _Edit_ any and _Delete_ any _Job posting_.
 
-    <img src="../.gitbook/assets/71 (1).png" alt="Image of check permissions for Job posting" data-size="original">
+    <img src="../.gitbook/assets/71.png" alt="Image of check permissions for Job posting" data-size="original">
 3. Click Save permissions
 
 ## 4. Add image field to content type

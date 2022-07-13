@@ -6,21 +6,21 @@ First, let’s see how the default search works.
 
 Your website should have a search block in the header. Alternatively, you can go to your site at [http://example.com/search](http://example.com/search) and type in a word you know is on your site.
 
-The screenshot on the next page shows what a default search result may look like. By default, the search will only find full words \(so a search for “class” won't find “classroom”\).
+The screenshot on the next page shows what a default search result may look like. By default, the search will only find full words (so a search for “class” won't find “classroom”).
 
 **Screenshot required**
 
-You can control this in **Structure** → **Content types** → \(choose a content type\) → **Manage display**. In this screen you can configure the view mode and field display for Search results.
+You can control this in **Structure** → **Content types** → (choose a content type) → **Manage display**. In this screen you can configure the view mode and field display for Search results.
 
-![Image of Manage display Search](../.gitbook/assets/142.png)
-    
-![Image of Manage display Search](../.gitbook/assets/143%20%281%29.png)
+![Image of Manage display Search](../.gitbook/assets/225.png)
 
-![Image of Manage display Search](../.gitbook/assets/144.png)
+![Image of Manage display Search](../.gitbook/assets/226.png)
 
-Note that in the given example for the _Standard Page_ content type, we use _view mode_ **Search** and **Search** _layout_, to stay consistent with other content types in GovCMS8. The _view mode_ used in the search could be any other one available, as long as it’s configured to display in the search results \(we’ll explore this later\).
+![Image of Manage display Search](../.gitbook/assets/227.png)
 
-![Image of Search page](../.gitbook/assets/145%20%281%29.png)
+Note that in the given example for the _Standard Page_ content type, we use _view mode_ **Search** and **Search** _layout_, to stay consistent with other content types in GovCMS8. The _view mode_ used in the search could be any other one available, as long as it’s configured to display in the search results (we’ll explore this later).
+
+![Image of Search page](../.gitbook/assets/228.png)
 
 ## Understanding the index
 
