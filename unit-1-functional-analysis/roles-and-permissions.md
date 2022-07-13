@@ -14,7 +14,9 @@ GovCMS comes with a number of default roles:
 
 To explore available roles, navigate to _People_ → _Roles_.
 
-**Hint:** When assigning permissions to a role, always give the least permissions necessary and test permissions before assiging the role to a user.
+<img src="../.gitbook/assets/Unit-1-Roles-1.png" alt="User roles" data-size="original">
+
+> **Hint:** When assigning permissions to a role, always give the least permissions necessary and test permissions before assiging the role to a user.
 
 ## User roles analysis
 
@@ -23,3 +25,6 @@ In the case of our new Government Jobs Portal, our site needs three user roles:
 * **Job Seeker:** Job seekers can’t create any content in the site but **can** save job applications \(webforms\) and update their profile.
 * **Content Author:** These are the agency staff members who will be creating content for the website.
 * **Content Approver:** These are the agency staff members who will be approving content for publishing.
+
+The Content Author role is available by default in GovCMS sites and in your training environment. We will cover creating the Job Seeker role in the following exercises.
+
