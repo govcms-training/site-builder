@@ -87,6 +87,7 @@
 * [Content listing with Views](unit-6-content-listing-with-views/content-listing-with-views.md)
     * [Exercise 6.1: Build the employment news view](unit-6-content-listing-with-views/exercise-6-1-build-the-employment-news-view.md)
     * [Exercise 6.2: Create Job Posting View](unit-6-content-listing-with-views/exercise-6-2-create-job-posting-view.md)
+* [Views - Part 2](unit-6-content-listing-with-views/views-part-two.md)
     * [Exercise 6.3: A customised News and Media page](unit-6-content-listing-with-views/exercise-6-3-customised-news-and-media-page.md)
     * [Exercise 6.4: Reuse a Views template](unit-6-content-listing-with-views/exercise-6-4-reuse-a-views-template.md)
 * [Related content by term](unit-6-content-listing-with-views/related-content-by-term.md)
