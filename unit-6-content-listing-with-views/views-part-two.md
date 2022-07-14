@@ -2,13 +2,13 @@
 
 ## Views displays – multiple views in one
 
-Views allows you to reuse existing configuration in a good way. If you create a page listing of your content and need to provide a block of page titles or add an RSS feed \(even create more pages\) – View Displays can be used rather than duplicating views.
+**Views** allows you to reuse existing configuration - _in a good way_. If you create a page listing of your content and need to provide a block of page titles or add an RSS feed \(even create more pages\) – **View Displays** can be used rather than duplicating views.
 
 ![Image of Page Display and Block content views displays](../.gitbook/assets/13%20%281%29.png)
 
-If you explore the existing GovCMS Block Article View – three Displays exist: Page, Feed and Block.
+If you explore the existing GovCMS Block Article View – three Displays exist: Page, Feed and Block. Go to _Structure_ → _Views_ → **GovCMS Block Article Views**.
 
-![Image of GovCMS Block Article View](../.gitbook/assets/14.png)
+![Image of GovCMS Block Article View](../.gitbook/assets/Unit-6-Blog-Views-1.png)
 
 Views displays allows you to easily create a duplicate of any other display and add some customisations and overrides.
 
@@ -18,15 +18,17 @@ Views also allow you to speed up your site if you have two views that load simil
 
 ## Views attachments
 
-The Views module includes some pre-built templates, which can be activated and edited to suit your requirements.
+The Views module includes some pre-built templates, which can be activated and edited to suit your requirements. Click on the links in the Format section to review these \(see screenshot above\).
 
-![Image of Views pre-built templates](../.gitbook/assets/15.png)![Image of Views pre-built templates](../.gitbook/assets/16%20%281%29.png)
+![Image of Views pre-built templates](../.gitbook/assets/Unit-6-Blog-Views-2.png)
+
+![Image of Views pre-built templates](../.gitbook/assets/Unit-6-Blog-Views-3.png)
 
 ## The Views editing interface – Format pane
 
 In this section we’re going to look at the Views editing interface.
 
-![Image of Views editing interface](../.gitbook/assets/17.png)
+![Image of Views editing interface](../.gitbook/assets/Unit-6-Blog-Views-4.png)
 
 - **A. Displays**: Create multiple displays from the same view. This might mean multiple pages with different filters or blocks, RSS feeds, etc.
 - **B. Format**: Output content into lists, tables, or show the full content \(node\) display.
