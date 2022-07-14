@@ -67,7 +67,7 @@
     * [Exercise 4.2: Add Taxonomy field to content types](unit-4-taxonomy-categorising-content/exercise-4-2-add-taxonomy-field-to-content-types.md)
 * [About input options](unit-4-taxonomy-categorising-content/about-input-options.md)
     * [Exercise 4.3: Add fields to content types](unit-4-taxonomy-categorising-content/exercise-4-3-add-fields-to-content-types.md)
-* [Try out the new vocuabulary](unit-4-taxonomy-categorising-content/try-out-the-new-vocuabulary.md)
+    * [Exercise 4.4: Test the new vocuabulary](unit-4-taxonomy-categorising-content/exercise-4-4-test-the-new-vocuabulary.md)
 * [Editorial considerations](unit-4-taxonomy-categorising-content/editorial-considerations.md)
 * [Prepare documentation for new staff onboarding](unit-4-taxonomy-categorising-content/prepare-documentation-for-new-staff-onboarding.md)
 * [Content creation forms](unit-4-taxonomy-categorising-content/content-creation-forms.md)
