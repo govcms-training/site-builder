@@ -16,7 +16,7 @@ When setting up media uploads for content types, consider these two important se
 
 2. **Public versus private files**
 
-Go to Configuration → Media → File system
+Go to _Configuration_ → _Media_ → **File system**
 
 You’ll find the default global directory for file uploads in this area of the admin interface. Files in this area are public, meaning anyone with the link can view/download them. If you’ve got private files you’d like to secure, see this tutorial [http://drupal.org/node/344806.](http://drupal.org/node/344806)
 
