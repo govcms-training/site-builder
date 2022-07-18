@@ -10,12 +10,11 @@ The screenshot below displays a “Welcome to our site” block. You will build 
 
 1. Navigate to _Structure_ → _Block layout_ → **Add custom block** (/block/add).
 2. Fill out the form:
-   - **Block description**: “Welcome to Government Jobs Portal”. If you don’t want your block to have a title, enter \<none> in the block title field, or leave this field empty.
-   - **Body**: “Government Jobs Portal is the official site to search and apply for jobs in the federal or state government. Be part of the bigger picture.”
-
+   * **Block description**: “Welcome to Government Jobs Portal”. If you don’t want your block to have a title, enter \<none> in the block title field, or leave this field empty.
+   * **Body**: “Government Jobs Portal is the official site to search and apply for jobs in the federal or state government. Be part of the bigger picture.”
 3. Click the **Save** button.
 
-![Block configuration page](../.gitbook/assets/Ex-1-3-Add-custom-block-1.png)
+![Block configuration page](../.gitbook/assets/Ex-1-2-Add-custom-block-1.png)
 
 ## Place custom block
 
@@ -27,15 +26,14 @@ Locate the block you created, by searching for its name “Welcome to Government
 
 ## Assign block to region
 
-Next, you’ll need to assign the block to an area on the site. 
+Next, you’ll need to assign the block to an area on the site.
 
 1. Scroll down to the **Region** select element. Select **Footer Top**.
 2. Finally, configure the block’s **Visibility settings** so the Welcome Message block only appears on the homepage.
 3. Under the **Pages** section of the visibility settings.
-   - Select the **Show for the listed pages** radio button.
-   - Following the screenshot below, enter the text _\<front>_ in the Pages field. This will make sure the block is only displayed on the front (home) page of your site. Leave the other settings as-is.
-   
-4.  **Save** the block.
+   * Select the **Show for the listed pages** radio button.
+   * Following the screenshot below, enter the text _\<front>_ in the Pages field. This will make sure the block is only displayed on the front (home) page of your site. Leave the other settings as-is.
+4. **Save** the block.
 
 ![Block configuration page](../.gitbook/assets/Ex-1-3-Add-custom-block-3.png)
 

@@ -13,7 +13,7 @@ Our Job posting content type provides fields such as Terms of employment, State/
 3. Make sure the Facets module is enabled. If it isn’t already enabled, enable it and save the page.
 4. Check permissions. Click the Facets module description to expand it and open Permissions in a new tab/window.
 
-![Image of Facets module enabled](<../.gitbook/assets/159 (1) (1) (1) (1) (2) (3).png>)
+![Image of Facets module enabled](<../.gitbook/assets/159 (1) (1) (1) (1) (2) (1) (3).png>)
 
 1. Ensure the “Administer Facets” permission is given to the right user roles.
 
