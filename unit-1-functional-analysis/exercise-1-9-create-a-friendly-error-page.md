@@ -11,4 +11,4 @@ In this exercise you’ll create a custom error message/page. The page could be 
 3. Type in the paths in the bottom section on **Error pages**.
 4. Save configuration.
 
-<img src="../.gitbook/assets/27 (2).png" alt="A screenshot of a custom 404 page" data-size="original">
+<img src="../.gitbook/assets/27 (1).png" alt="A screenshot of a custom 404 page" data-size="original">

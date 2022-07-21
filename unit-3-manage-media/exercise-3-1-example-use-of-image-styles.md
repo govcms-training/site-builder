@@ -2,9 +2,9 @@
 
 In the Event content type, we have an image field. The same image may display as a Thumbnail (left in the screenshot below) or Full content image (right in the screenshot below). The image is scaled down, resized and cropped. Each image has a copy stored in the filesystem.
 
-| Example: thumbnail                                       | Example: Full content image                                       |
-| -------------------------------------------------------- | ----------------------------------------------------------------- |
-| ![Image of Thumbnail display](../.gitbook/assets/57.png) | ![Image of Full content display](<../.gitbook/assets/58 (1).png>) |
+| Example: thumbnail                                             | Example: Full content image                                       |
+| -------------------------------------------------------------- | ----------------------------------------------------------------- |
+| ![Image of Thumbnail display](<../.gitbook/assets/57 (1).png>) | ![Image of Full content display](<../.gitbook/assets/58 (2).png>) |
 
 You may explore how the Event content type displays these images based on the Display Mode.
 

@@ -2,7 +2,7 @@
 
 In this exercise we’ll customise the _Employment news_ View page we created earlier, making it show three items of recent content, then a bulleted list of titles of seven recent News and Media articles. Below is what the layout of the page will look like.
 
-![Image of Employment news page](../.gitbook/assets/18%20%281%29.png)
+![Image of Employment news page](../.gitbook/assets/101.png)
 
 There are seven stages in this process:
 
@@ -14,17 +14,14 @@ There are seven stages in this process:
 6. Change the attachment setting
 7. Review your changes
 
-
 ## 1. Locate the View and edit using contextual links
 
-1. Navigate to the _Employment news_ page we created earlier.
+1.  Navigate to the _Employment news_ page we created earlier.
 
-    ![Image of contexual link](../.gitbook/assets/Ex-6-3-Customised-News-2.png)
-    
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-2.png" alt="Image of contexual link" data-size="original">
 2. Locate and click the _Contextual links_ pencil and click **Edit view.**.
 
 ![Image of Employment news edit View page](../.gitbook/assets/Ex-6-3-Customised-News-3.png)
-
 
 ## 2. Change the number of items to display
 
@@ -38,39 +35,32 @@ Now check your preview to confirm three items are displayed. Scroll down to the 
 
 ![Image of Employment news edit View page](../.gitbook/assets/Ex-6-3-Customised-News-4.png)
 
-
 ## 3. Add a new display: an attached list
 
-Next we'll add a list of seven more recent articles to the bottom of this view. 
+Next we'll add a list of seven more recent articles to the bottom of this view.
 
 1. At the top, click the **+Add** button and select "Attachment".
-2. You’ll now have more than one display available, with the one you’re editing highlighted. Make sure the correct one is always highlighted when you’re editing views. 
+2.  You’ll now have more than one display available, with the one you’re editing highlighted. Make sure the correct one is always highlighted when you’re editing views.
 
-    ![Image of displays](../.gitbook/assets/Ex-6-3-Customised-News-5.png)
-    
-3. Next click **Unformatted list** under Format in the left column. A new window will pop up, giving you the option to select the display you're changing. 
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-5.png" alt="Image of displays" data-size="original">
+3.  Next click **Unformatted list** under Format in the left column. A new window will pop up, giving you the option to select the display you're changing.
 
-    ![Image of How this view should be displayed](../.gitbook/assets/Ex-6-3-Customised-News-6.png)
-    
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-6.png" alt="Image of How this view should be displayed" data-size="original">
 4. Select "This attachment".
 5. Select "HTML list".
-6. Click the Apply \(this display\) button.
-7. The next screen is “Attachment: Style options”. Leave all settings as default and click the **Apply** button.
+6. Click the Apply (this display) button.
+7.  The next screen is “Attachment: Style options”. Leave all settings as default and click the **Apply** button.
 
-    ![Image of Attach style options](../.gitbook/assets/Ex-6-3-Customised-News-7.png)
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-7.png" alt="Image of Attach style options" data-size="original">
+8.  Under **Format** → **Show,** click **Content** to change the settings. Select the **Fields** radio button.
 
-8. Under **Format** → **Show,** click **Content** to change the settings. Select the **Fields** radio button.
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-8.png" alt="Image of select Content to change settings" data-size="original">
+9.  Then click **Apply** on the final screen, leaving the settings as they are.
 
-    ![Image of select Content to change settings](../.gitbook/assets/Ex-6-3-Customised-News-8.png)
-    
-9. Then click **Apply** on the final screen, leaving the settings as they are.
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-9.png" alt="Image of select Content to change settings" data-size="original">
+10. You'll see that Views added a _Title_ field for us. If we needed more fields to be displayed, we could have added them using the **Add** button. Let’s continue with only the Title field for now.
 
-    ![Image of select Content to change settings](../.gitbook/assets/Ex-6-3-Customised-News-9.png)
-    
-10. You'll see that Views added a _Title_ field for us. If we needed more fields to be displayed, we could have added them using the **Add** button. Let’s continue with only the Title field for now. 
-
-    ![Image highlighting Title field](../.gitbook/assets/Ex-6-3-Customised-News-10.png)
-    
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-10.png" alt="Image highlighting Title field" data-size="original">
 11. Check the Preview pane at the bottom of the page to confirm our display is correct:
 
 ![Imag of Preview pane](../.gitbook/assets/Ex-6-3-Customised-News-11.png)
@@ -78,20 +68,17 @@ Next we'll add a list of seven more recent articles to the bottom of this view.
 ## 4.Add a header to the attachment
 
 1. Under the _Header_ section on the View page click **Add**.
-2. Make sure you’re editing "This attachment \(override\)".
-3. Search for and select "Text area". Apply changes.
+2. Make sure you’re editing "This attachment (override)".
+3.  Search for and select "Text area". Apply changes.
 
-    ![Image of apply to Text area](../.gitbook/assets/Ex-6-3-Customised-News-12.png)
-    
-4. Make sure the _Text format_ for the **Content** field is _Rich Text_. Then type in the **Content** field: &lt;p&gt;More articles from our contributors&lt;/p&gt;
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-12.png" alt="Image of apply to Text area" data-size="original">
+4.  Make sure the _Text format_ for the **Content** field is _Rich Text_. Then type in the **Content** field: \<p>More articles from our contributors\</p>
 
-   ![Image of apply to Text area](../.gitbook/assets/Ex-6-3-Customised-News-13.png)
-   
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-13.png" alt="Image of apply to Text area" data-size="original">
 5. Apply the changes.
 6. Check that the preview shows text ‘More articles from our contributors’ above the list.
 
 ![Image of Preview](../.gitbook/assets/Ex-6-3-Customised-News-14.png)
-
 
 ## 5. Change the offset to exclude the first three articles
 
@@ -104,16 +91,14 @@ Our Attachment view will be displayed below the first three News and Media artic
 
 ## 6. Change the attachment settings
 
-1. Under "Attachment settings" in the centre column click the option: "Attach to:" **Not defined**. 
+1.  Under "Attachment settings" in the centre column click the option: "Attach to:" **Not defined**.
 
-    ![Image of Attach to: not defined](../.gitbook/assets/Ex-6-3-Customised-News-16-0.png)
-    
-2. Select "page". Apply the changes. 
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-16-0.png" alt="Image of Attach to: not defined" data-size="original">
+2.  Select "page". Apply the changes.
 
-    ![Image of Attach to: not defined](../.gitbook/assets/Ex-6-3-Customised-News-16.png)
-    
+    <img src="../.gitbook/assets/Ex-6-3-Customised-News-16.png" alt="Image of Attach to: not defined" data-size="original">
 3. Click "Attachment position:Before".
-4. Select "After". Apply the changes. 
+4. Select "After". Apply the changes.
 
 ![Image of Position: After](../.gitbook/assets/Ex-6-3-Customised-News-17.png)
 
@@ -124,4 +109,3 @@ Our Attachment view will be displayed below the first three News and Media artic
 3. You may create more News and Media content to test it. Make sure you publish any new content before reviewing the _Employment news_ page.
 
 ![Image of Position: After](../.gitbook/assets/Ex-6-3-Customised-News-18.png)
-
