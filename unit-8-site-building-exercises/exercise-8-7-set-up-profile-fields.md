@@ -56,4 +56,3 @@ Return to the front page.
 Click the **View** tab and now you can view the admin profile.
 
 You can also manage the display of the fields, for example hiding the label. As your Drupal skills improve, you can make changes to the site design through _Theming_ to alter the way this information looks; or change what displays through _Manage display_ configuration pages.
-
