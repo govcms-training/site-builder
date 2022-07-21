@@ -38,3 +38,4 @@ You can also make the link title field a required field. Follow the instructions
 The **More information** fields should now be required fields.
 
 ![Image of new Field settings](../.gitbook/assets/Ex-8-1-Link-Field-4.png)
+
