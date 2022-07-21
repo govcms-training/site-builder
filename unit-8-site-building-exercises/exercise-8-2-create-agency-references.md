@@ -55,12 +55,11 @@ Finally, we’re going to add a references field for job postings.
 
 1. Go to _Structure_ → _Content types_ → **Job posting** and click the **Manage fields** link.
 2. Add a new field using these settings:
-
- * **Type:** Reference → Content
- * **Label**: Agency
- * **Field name**: agencyref \(click to edit the machine name\)
- * **Content type:** Agency
- * **Sort by**: - None -
+   - **Type:** Reference → Content
+   - **Label**: Agency
+   - **Field name**: agencyref \(click to edit the machine name\)
+   - **Content type:** Agency
+   - **Sort by**: - None -
 
     ![Image of Reference field](../.gitbook/assets/Ex-8-2-Agency-Logo-5.png)
 
