@@ -40,7 +40,9 @@ In the current setup, content editors can create and publish job postings. We’
 
 ## Add fields
 
-> **Tip:** Select multiple fields at a time and configure them sequentially.
+{% hint style="success" %}
+**Tip:** Select multiple fields at a time and configure them sequentially.
+{% endhint %}
 
 1. Add these fields:
    * Content: **Node operations bulk form**
