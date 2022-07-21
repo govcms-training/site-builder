@@ -52,3 +52,4 @@ Finally, we’ll add a link to the main navigation.
 8. Test your new view. In the main navigation, you should have a menu link to “Members”, and a page available at [http://example.com/members](http://example.com/members)
 
 ![Image of Grid display user profile images](../.gitbook/assets/Ex-8-8-User-List-6.png)
+
