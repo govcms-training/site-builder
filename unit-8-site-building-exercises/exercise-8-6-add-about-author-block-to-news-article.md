@@ -105,11 +105,11 @@ Now we can configure the block to display on News and Media articles. The News a
 
 Check the _Manage Display_ page of the _News and media_ content type:
 
-![Image of News and media Manage display](../.gitbook/assets/204.png)
+![Image of News and media Manage display](<../.gitbook/assets/121 (1).png>)
 
 You’ll see that the page has multiple View modes activated. The Full content view mode overrides the page display for our content type. Let’s explore it.
 
-![Image of Display configuration page](../.gitbook/assets/205.png)
+![Image of Display configuration page](<../.gitbook/assets/122 (1).png>)
 
 Notice that this display configuration page looks completely different to our Job posting content type. Instead of fields and display modes we see Displays here. By default, the Sidebar right display is used to render our News and Media content.
 
@@ -121,23 +121,23 @@ Let’s review how the Panelizer content is configured. We’ll practice placing
 
 1.  Click the **Edit** button in the Sidebar Right (2:1) row
 
-    <img src="../.gitbook/assets/115 (1) (1) (1) (1) (1) (1) (1) (2).png" alt="Image of Edit Sidebar Right" data-size="original">
+    <img src="../.gitbook/assets/115 (1) (1) (1) (1) (1) (1) (1) (1) (1) (6).png" alt="Image of Edit Sidebar Right" data-size="original">
 2.  Click the **Content** vertical tab on the left:
 
-    <img src="../.gitbook/assets/207.png" alt="Image of General Settings - Content" data-size="original">
+    <img src="../.gitbook/assets/124 (1).png" alt="Image of General Settings - Content" data-size="original">
 3.  Explore the Content page. See how it has their own regions defined
 
-    <img src="../.gitbook/assets/208.png" alt="Image of Content page Regions" data-size="original">
+    <img src="../.gitbook/assets/125 (1).png" alt="Image of Content page Regions" data-size="original">
 4. Click the **Add new block** button at the top of the page
 5.  Under the Lists (Views), locate the block we prepared earlier:
 
-    <img src="../.gitbook/assets/209.png" alt="Image of About the Author lists view" data-size="original">
+    <img src="../.gitbook/assets/126 (1).png" alt="Image of About the Author lists view" data-size="original">
 6.  Select **Sidebar** region and **Add block**
 
-    <img src="../.gitbook/assets/210.png" alt="Image of Add block to Sidebar" data-size="original">
+    <img src="../.gitbook/assets/127 (1).png" alt="Image of Add block to Sidebar" data-size="original">
 7.  Position the About the author block below other blocks within the Sidebar region
 
-    <img src="../.gitbook/assets/211.png" alt="Image of Position block" data-size="original">
+    <img src="../.gitbook/assets/128.png" alt="Image of Position block" data-size="original">
 8. Click Update and Save
 
 Test it by navigating to a published News and Media article. You may update the content of the page and the Authoring information, to check how the display changes.
@@ -150,7 +150,7 @@ At the moment, anonymous users can’t see the block. The final step is to set u
 2. Scroll down to “View user information”
 3.  Select to allow _Anonymous_ and _Authenticated users_ to View user information
 
-    <img src="../.gitbook/assets/212.png" alt="Image of block Permissions" data-size="original">
+    <img src="../.gitbook/assets/129.png" alt="Image of block Permissions" data-size="original">
 4. Scroll down and click **Save permissions**
 
 Now when you go back and check the site as an anonymous user you’ll see the author information.

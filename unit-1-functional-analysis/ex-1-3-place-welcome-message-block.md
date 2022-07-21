@@ -14,7 +14,7 @@ The screenshot below displays a “Welcome to our site” block. You will build 
    * **Body**: “Government Jobs Portal is the official site to search and apply for jobs in the federal or state government. Be part of the bigger picture.”
 3. Click the **Save** button.
 
-![Block configuration page](../.gitbook/assets/Ex-1-3-Add-custom-block-1.png)
+![Block configuration page](../.gitbook/assets/Ex-1-2-Add-custom-block-1.png)
 
 ## Place custom block
 

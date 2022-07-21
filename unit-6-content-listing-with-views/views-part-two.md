@@ -4,7 +4,7 @@
 
 **Views** allows you to reuse existing configuration - _in a good way_. If you create a page listing of your content and need to provide a block of page titles or add an RSS feed (even create more pages) – **View Displays** can be used rather than duplicating views.
 
-![Image of Page Display and Block content views displays](<../.gitbook/assets/96 (1).png>)
+![Image of Page Display and Block content views displays](<../.gitbook/assets/13 (1).png>)
 
 If you explore the existing GovCMS Block Article View – three Displays exist: Page, Feed and Block. Go to _Structure_ → _Views_ → **GovCMS Block Article Views**.
 

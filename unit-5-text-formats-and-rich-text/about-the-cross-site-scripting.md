@@ -23,7 +23,7 @@ Follow these and other best practices to keep your site safe:
 
 > **Note:** Certain inputs are restricted by default on GovCMS (such as the tags needed to display video properly) to protect the system from malicious code. Rich text format should only be accessible by trusted users.
 
-![Image of Comic](<../.gitbook/assets/0 (1).png>)
+![Image of Comic](../.gitbook/assets/83.png)
 
 Source: [https://xkcd.com/327/](https://xkcd.com/327/)
 

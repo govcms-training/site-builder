@@ -22,7 +22,7 @@ Click **Done** and then **Save changes**
 
 Edit the Rendered HTML output (rendered\_item). Make sure the **Default** is selected as the **View mode for** _**Content**_ **»** _**Job Posting**_ field.
 
-![Image of Edit field Rendered HTML output](../.gitbook/assets/237.png)
+![Image of Edit field Rendered HTML output](../.gitbook/assets/154.png)
 
 ## Index all content
 
@@ -30,7 +30,7 @@ Before we can use search, all Job Posting content on the site needs to be reinde
 
 1.  Click the View tab at the top
 
-    <img src="../.gitbook/assets/238.png" alt="Image of view tab" data-size="original">
+    <img src="../.gitbook/assets/155 (1) (1) (1).png" alt="Image of view tab" data-size="original">
 2. Click the **Index now** button and wait for the batch process to complete.
 
 ## Create Search API View Job Posting Search
@@ -63,7 +63,7 @@ Let’s utilise the newly created Search Index and create a View that would use 
 
 1.  Return to the View edit interface
 
-    <img src="../.gitbook/assets/239.png" alt="Image of contextual link" data-size="original">
+    <img src="../.gitbook/assets/156 (1).png" alt="Image of contextual link" data-size="original">
 2. Under Filter Criteria, click **Add**.
 3. Search for “Fulltext search” from the Search category. Add it and configure the filter.
 4. Expose this filter to visitors, to allow them to change it.
@@ -77,4 +77,4 @@ Let’s utilise the newly created Search Index and create a View that would use 
 2. Add Sort criteria, Relevance.
 3. Test it out.
 
-![Image of Job listing](../.gitbook/assets/240.png)
+![Image of Job listing](<../.gitbook/assets/157 (1).png>)

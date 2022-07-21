@@ -4,7 +4,7 @@ For this exercise, we’ll provide hints - try to configure the event listing co
 
 First, we’ll look at a simple view to filter out past events, then we’ll make a calendar entry using templates.
 
-![Image of Events listing](../.gitbook/assets/127.png)
+![Image of Events listing](../.gitbook/assets/44.png)
 
 In this exercise we’re going to prepare the date settings and configure the event content type to get it ready for the next exercise.
 
@@ -42,10 +42,10 @@ We’d like to set up the URLs so that all events are in a /events URL path, for
 
 > **Hint:** The Event path pattern is preconfigured in GovCMS, but if you find it different to the required pattern, then follow instructions for editing URL alias patterns. Use a pattern such as: events/\[node:title]
 
-![Image of Event path pattern](<../.gitbook/assets/131 (1).png>)
+![Image of Event path pattern](../.gitbook/assets/48.png)
 
 ## Re-test
 
 To test your changes, create another new event. Now, the date should appear under the event title and when you publish content it will have a unique URL following the /event path.
 
-![Image of Event](<../.gitbook/assets/132 (1).png>)
+![Image of Event](../.gitbook/assets/49.png)

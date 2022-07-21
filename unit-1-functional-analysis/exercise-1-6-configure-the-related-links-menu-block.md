@@ -20,6 +20,6 @@ You’ll often need to alter a block’s _Pages visibility_ settings\_.\_ For th
 2. On a new line in the **Pages** _text area_, enter _\<front>_. This will ensure your Related Links menu block is displayed on the front (home) page of your site.
 3. Click Save block.
 
-![](<../.gitbook/assets/23 (2).png>)
+![](../.gitbook/assets/23.png)
 
 The **Related Links** menu will only be displayed on the front and About us pages.

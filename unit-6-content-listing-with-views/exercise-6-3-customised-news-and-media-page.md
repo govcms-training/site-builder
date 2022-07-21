@@ -2,7 +2,7 @@
 
 In this exercise we’ll customise the _Employment news_ View page we created earlier, making it show three items of recent content, then a bulleted list of titles of seven recent News and Media articles. Below is what the layout of the page will look like.
 
-![Image of Employment news page](../.gitbook/assets/101.png)
+![Image of Employment news page](<../.gitbook/assets/18 (1).png>)
 
 There are seven stages in this process:
 

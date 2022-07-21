@@ -6,9 +6,9 @@ https://www.drupal.org/docs/user\_guide/en/structure-content-type.html
 
 In this exercise you’ll create a Job Posting content type. The screenshot below shows the form and what the posting will look like on the website.
 
-| Create job posting form        | Individual job posting               |
-| ------------------------------ | ------------------------------------ |
-| ![](../.gitbook/assets/31.png) | ![](<../.gitbook/assets/32 (2).png>) |
+| Create job posting form              | Individual job posting         |
+| ------------------------------------ | ------------------------------ |
+| ![](<../.gitbook/assets/31 (2).png>) | ![](../.gitbook/assets/32.png) |
 
 As the name suggests, the _Job Posting_ content type will be used to post jobs on the website. There are three stages involved:
 
