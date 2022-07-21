@@ -15,12 +15,12 @@ If you don’t have the job listing view, we’ll create it and set the filter c
 ![Image of View settings](../.gitbook/assets/Ex-8-3-Job-Listing-View-2.png)
      
 1. Go to **Structure** → **Views** → **Add new view**. Configure with these settings:
-  - **View name:** Job listing
-  - Show **“Content”** of type **“job posting”** sorted by **“Newest first”**
-  - Select the **Create a page** checkbox
-  - Keep the defaults for the page setting
-  - Select **Create a menu link**
-  - **Menu**: Select **Main navigation** Link text: **Jobs**
+   - **View name:** Job listing
+   - Show **“Content”** of type **“job posting”** sorted by **“Newest first”**
+   - Select the **Create a page** checkbox
+   - Keep the defaults for the page setting
+   - Select **Create a menu link**
+   - **Menu**: Select **Main navigation** Link text: **Jobs**
 
 2. Click **Save and edit**
 
