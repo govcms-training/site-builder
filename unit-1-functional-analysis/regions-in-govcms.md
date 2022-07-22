@@ -11,3 +11,4 @@ Regions can be displayed by hovering over _Structure_ on the _Admin Menu_ then c
 Once at this page, click on the **Demonstrate block regions \(Olivero\)** button.
 
 ![Image of Demonstrate block regions](../.gitbook/assets/Unit-1-Regions-Block-layout-2.png)
+
