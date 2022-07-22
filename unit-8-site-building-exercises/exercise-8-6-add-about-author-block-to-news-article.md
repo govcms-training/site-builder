@@ -166,4 +166,3 @@ At the moment, anonymous users can’t see the block. The final step is to set u
 4. Scroll down and click **Save permissions**
 
 Now when you go back and check the site as an anonymous user you’ll see the author information.
-
