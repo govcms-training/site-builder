@@ -55,24 +55,24 @@ Let’s change that, by activating Search view mode in the Job Posting content t
 10. Repeat search for a job posting and confirm if the display looks similar to other content types.
 
     <table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/Ex-9-2-Jobs-Search-6.png" alt/>
-        </p>
-        <p>Search result for Job posting</p>
-      </th>
-      <th style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/Ex-9-2-Jobs-Search-7.png" alt/>
-        </p>
-        <p>Search result for News page</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
+      <thead>
+      <tr>
+        <th style="text-align:left">
+          <p>
+             <img src="../.gitbook/assets/Ex-9-2-Jobs-Search-6.png" alt/>
+          </p>
+          <p>Search result for Job posting</p>
+        </th>
+        <th style="text-align:left">
+          <p>
+            <img src="../.gitbook/assets/Ex-9-2-Jobs-Search-7.png" alt/>
+          </p>
+          <p>Search result for News page</p>
+        </th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+    </table>
 
 11. You may return to the Search view mode in the Job posting content type and change it further, to test how your changes affect the search results display widget.
 
