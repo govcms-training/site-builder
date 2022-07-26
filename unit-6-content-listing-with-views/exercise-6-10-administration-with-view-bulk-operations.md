@@ -122,3 +122,4 @@ Lastly, we will change the access/permission settings for this new view, from **
 Save the view and review. Go to admin/submitted-jobs. If there are no Job Listings in Draft status you should see the screen below:
 
 ![Image of No jobs waiting for review](../.gitbook/assets/Ex-6-10-Workflows-20.png)
+
