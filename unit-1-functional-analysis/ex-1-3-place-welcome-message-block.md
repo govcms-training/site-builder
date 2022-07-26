@@ -41,4 +41,6 @@ After the page is saved, you’ll be redirected to the _Block Layout_ page. If y
 
 Now go to the homepage of your site and view your new welcome message/block in the footer.
 
-> **Tip:** Blocks aren’t content so they won’t be displayed in the content listing. To view all custom blocks go to _Structure_ → _Block layout_ → _Custom block library_ .
+{% hint style="info" %}
+**Tip:** Blocks aren’t content so they won’t be displayed in the content listing. To view all custom blocks go to _Structure_ → _Block layout_ → **Custom block library** .
+{% endhint %}
