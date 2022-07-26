@@ -53,18 +53,18 @@ Our Job posting content type provides fields such as **Terms of employment**, **
     
 13. **Sort by active state:** not selected.
 14. **Sort by count:** not selected.
-15. **Sort by display value:** selected.
-   - Sort order: Ascending
+15. **Sort by display value:** selected. 
+16. **Sort order:** Ascending
 
     ![Image of Configure Jobs search facet](../.gitbook/assets/Ex-9-5-Facets-8.png)
 
-16. The “Sort by display value: Ascending” will ensure the taxonomy terms for the **State/Territory** will be listed alphabetically.
+17. The “Sort by display value: Ascending” will ensure the taxonomy terms for the **State/Territory** will be listed alphabetically.
 
     Alternatively, we may enable the weight-based ordering of the facet filters to replicate the term sorting in the taxonomy vocabulary. For this to work, you unselect the “Sort by display value” above and select the “Sort by taxonomy term weight” checkbox.
 
     For now, leave the “Sort by display value” selected.
 
-17. Save the configuration. This will create a block, which we have to place into the **Content top** region, so it appears to the end user.
+18. Save the configuration. This will create a block, which we have to place into the **Content top** region, so it appears to the end user.
 
 ## Place new Facet block in Content Top
 
