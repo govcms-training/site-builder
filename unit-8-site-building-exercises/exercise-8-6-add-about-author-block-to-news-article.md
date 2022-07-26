@@ -119,7 +119,7 @@ Let’s review how the Panelizer content is configured. We’ll practice placing
 
 1.  Click the **Edit** button in the Sidebar Right (2:1) row
 
-    <img src="../.gitbook/assets/115 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (3).png" alt="Image of Edit Sidebar Right" data-size="original">
+    <img src="../.gitbook/assets/115 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (4).png" alt="Image of Edit Sidebar Right" data-size="original">
 2.  Click the **Content** vertical tab on the left:
 
     <img src="../.gitbook/assets/207.png" alt="Image of General Settings - Content" data-size="original">

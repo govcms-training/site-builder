@@ -4,7 +4,7 @@ URL Aliases are generally the best URL for site visitors to use. However, someti
 
 Redirects are also created by GovCMS to make sure only one (usually the latest) URL alias is functional and to ensure previously created URL aliases do not return “404 Not Found” response.
 
-![Image of Redirects forwarding to latest Alias](<../.gitbook/assets/155 (1).png>)
+![Image of Redirects forwarding to latest Alias](<../.gitbook/assets/155 (1) (1) (2).png>)
 
 _Illustration of how Redirects are forwarding all traffic to the latest Alias_
 
