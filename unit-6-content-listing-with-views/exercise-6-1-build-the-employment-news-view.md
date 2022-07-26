@@ -2,7 +2,7 @@
 
 In this exercise we’ll build an Employment news page/listing by creating a new view. The screenshot below shows what the employment news page will look like after we’ve created the new Employment news view.
 
-![Image of Employment news view](../.gitbook/assets/8.png)
+![Image of Employment news view](../.gitbook/assets/91.png)
 
 ## Create the view using the wizard
 

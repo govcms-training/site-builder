@@ -8,15 +8,19 @@ The First Byte time indicates that your website takes too much time to render th
 
 Before proceeding with website caching, let’s review which caching modules are available in GovCMS. Navigate to the **Extend** page and enter “cache” in the filter field.
 
-![Image of Cache modules](../.gitbook/assets/164.png)
+![Image of Cache modules](../.gitbook/assets/247.png)
 
-> **Note:** GovCMS SaaS does not provide Memcached container and so the Memcache and Memcache Admin modules have to stay disables.
+{% hint style="info" %}
+**Note:** GovCMS SaaS does not provide Memcached container and so the Memcache and Memcache Admin modules have to stay disabled.
+{% endhint %}
 
 We can safely activate the **Internal Dynamic Page Cache.** The **Internal Page Cache** modules may be left disabled, as the GovCMS hosting platform provides an efficient reverse-proxy cache – a better replacement to this module.
 
 ## Enable GovCMS internal cache
 
-> **Note!** Before changing configuration of the internal cache in production, an UAT testing has to be conducted to avoid unforeseen rendering problems for dynamic website content.
+{% hint style="danger" %}
+**Note!** Before changing configuration of the internal cache in production, an UAT testing has to be conducted to avoid unforeseen rendering problems for dynamic website content.
+{% endhint %}
 
 Enable caching of the site by going to **Configuration** → **Development** → **Performance**. Activate CSS and JS aggregation.
 
