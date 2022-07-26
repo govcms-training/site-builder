@@ -4,7 +4,7 @@ User profiles currently list all content in one column. In this exercise we’ll
 
 1. Review the current layout. Click on a member profile. 
 
-    ![Image of User profile](../.gitbook/assets/134%20%281%29.png) 
+    ![Image of User profile](../.gitbook/assets/Ex-8-10-Custom-Layout-7.png) 
     
 2. Go to _Administration_ → _Configuration_ → _People_ → **Account settings** and click **Manage display** tab.
 
@@ -19,17 +19,13 @@ User profiles currently list all content in one column. In this exercise we’ll
     ![Image of Manage display with secondary tabs](../.gitbook/assets/Ex-8-10-Custom-Layout-2.png)
        
 5. Click the **User account** tab.
-6. Change the layout to Two columns:
+6. Change the layout to Two columns \(Display suite\):
 
      ![Image of Layout for User in full](../.gitbook/assets/Ex-8-10-Custom-Layout-3.png)
 
-7. After saving your changes, review the **Field** section, you’ll see that it now shows many additional regions, such as:
-   - Header \(all existing fields were moved into this region by GovCMS\)
-   - Content top
-   - Content
-   - Sidebar
-   - Content bottom
-   - Footer
+7. After saving your changes, review the **Field** section, you’ll see that it now shows additional regions, such as:
+   - Left
+   - Right
    - Disabled \(this special area shows any fields excluded from display\)
 
     ![Image of additional available regions](../.gitbook/assets/Ex-8-10-Custom-Layout-4.png)
@@ -46,4 +42,4 @@ User profiles currently list all content in one column. In this exercise we’ll
 10. Adjust label display as displayed in the screenshot above.
 11. Save your changes and review the outcome by reviewing your own profile page
 
-![Image of update User profile page](../.gitbook/assets/140%20%281%29.png)
+![Image of update User profile page](../.gitbook/assets/Ex-8-10-Custom-Layout-7.png)
