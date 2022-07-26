@@ -7,3 +7,4 @@ To update theme settings, go to Appearance and click the **Settings** link next 
 ![Image of installed themes](../.gitbook/assets/Unit-1-Themes-1.png)
 
 Custom themes may provide a more advanced set of settings than those found in base themes.
+ 
