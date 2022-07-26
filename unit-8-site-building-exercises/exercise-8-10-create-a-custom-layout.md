@@ -4,7 +4,7 @@ User profiles currently list all content in one column. In this exercise we’ll
 
 1. Review the current layout. Click on a member profile. 
 
-    ![Image of User profile](../.gitbook/assets/Ex-8-10-Custom-Layout-7.png) 
+    ![Image of User profile](../.gitbook/assets/Ex-8-10-Custom-Layout-7.png)
     
 2. Go to _Administration_ → _Configuration_ → _People_ → **Account settings** and click **Manage display** tab.
 
