@@ -6,9 +6,9 @@ Customising error messages is often overlooked, but it’s easy to tailor this e
 
 In this exercise you’ll create a custom error message/page. The page could be a graphic, or a useful message.
 
-1. Create basic _Standard pages_ with an appropriate message for each situation (e.g. [http://example.com/notfound](http://example.com/notfound) and [http://example.com/accessdenied](http://example.com/accessdenied))
+1. Create basic _Standard pages_ with an appropriate message for each situation \(e.g. [http://example.com/notfound](http://example.com/notfound) and [http://example.com/accessdenied](http://example.com/accessdenied)\)
 2. Go to _Configuration_ → _System_ → **Basic site settings**.
 3. Type in the paths in the bottom section on **Error pages**.
 4. Save configuration.
 
-<img src="../.gitbook/assets/27 (1).png" alt="A screenshot of a custom 404 page" data-size="original">
+![Image of Basic site settings page](../.gitbook/assets/Ex-1-9-Basic-Site-Settings-1.png)
