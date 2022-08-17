@@ -1,4 +1,4 @@
-# GovCMS8 Site Building Training Manual
+# GovCMS Site Building Training Manual
 
 [![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)
 
@@ -12,8 +12,8 @@ Public URL: [https://salsa-digital.gitbook.io/govcms-site-builder](https://salsa
 
 In this training manual, you will learn how to:
 
-1. Extend default functionality in GovCMS8 to meet advanced functional requirements
-2. Show best practices for GovCMS8 site building
+1. Extend default functionality in GovCMS to meet advanced functional requirements
+2. Show best practices for GovCMS site building
 3. Configure both controlled vocabularies and free tagging with Taxonomy
 4. Manage navigation through the GovCMS menu system
 5. Use URL path configuration to improve your site’s search
@@ -27,7 +27,7 @@ This manual also includes challenge exercises, which are designed for those who 
 
 We’re continually working on improving these documents with community input and we appreciate any feedback, whether it's helping to contribute to further documentation or code, grammar issues, or simply a suggestion or improvement! Please refer to the [Contributing guide](contributing.md) for more guidance on this topic.
 
-Alternatively you can also provide any feedback by emailing **govcms.training@salsadigital.com.au.**
+Alternatively you can also provide any feedback by emailing **[govcms.training@salsadigital.com.au](mailto:govcms.training@salsadigital.com.au).**
 
 ## License
 

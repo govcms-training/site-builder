@@ -4,9 +4,11 @@ Besides its primary content, a web page contains other content such as site bran
 
 The available regions depend on the theme design. Only the Content region, which contains the primary content, is required; others are optional.
 
-Regions can be displayed by navigating to the Structure  Block layout and clicking the **Demonstrate block regions \(GovCMS 8 UI-Kit Starter\)** link.
+Regions can be displayed by hovering over _Structure_ on the _Admin Menu_ then clicking **Block layout**. 
 
-![A screenshot of a cell phone
+![Image of Block layout](../.gitbook/assets/Unit-1-Regions-Block-layout-1.png)
 
-Description automatically generated](../.gitbook/assets/7%20%281%29.png)
+Once at this page, click on the **Demonstrate block regions \(Olivero\)** button.
+
+![Image of Demonstrate block regions](../.gitbook/assets/Unit-1-Regions-Block-layout-2.png)
 

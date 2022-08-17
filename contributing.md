@@ -15,30 +15,30 @@ There are a few ways you can provide feedback:
 
 ## Overview and basics
 
-* The source code for this manual is hosted on Github and uses a service called Gitbook for publishing its documentation. 
+* The source code for this manual is hosted on Github and uses a service called Gitbook for publishing its documentation.
 * The manuals are written using Markdown mark up language.
-* The GovCMS8 Site Building manual is part of the [govcms-training](https://github.com/govcms-training) distribution which also includes the [GovCMS content administration manual](https://github.com/govcms-training/content-admin).
-* Both these manuals share a [public Roadmap](https://github.com/orgs/govcms-training/projects/1) which lists out issues and feature requests on a kanban board. 
-* [Click here](https://github.com/govcms-training/site-builder/issues) to view the current issue queue for the GovCMS content administration manual. 
-* All contributions must be licensed under [CC BY-SA 3.0 AU](https://creativecommons.org/licenses/by-sa/3.0/au/). 
+* The GovCMS Site Building manual is part of the [govcms-training](https://github.com/govcms-training) distribution which also includes the [GovCMS content administration manual](https://github.com/govcms-training/content-admin).
+* Both these manuals share a [public Roadmap](https://github.com/orgs/govcms-training/projects/1) which lists out issues and feature requests on a kanban board.
+* [Click here](https://github.com/govcms-training/site-builder/issues) to view the current issue queue for the GovCMS content administration manual.
+* All contributions must be licensed under [CC BY-SA 3.0 AU](https://creativecommons.org/licenses/by-sa/3.0/au/).
 
 ## Getting started and prerequisites
 
 For contributing to the manual, the following is needed to get started:
 
 * a [GitHub account](https://github.com/join).
-* Some basic knowledge of GitHub. Please see [Beginner Github guide](https://guides.github.com/activities/hello-world/) to get started. 
-* Some knowledge of Markdown, 
-  * The following [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/) may be helpful. 
-  * You can also use a visual WYSIWYG editor for Markdown such as [Stack Edit](https://stackedit.io/app#).
+* Some basic knowledge of GitHub. Please see [Beginner Github guide](https://guides.github.com/activities/hello-world/) to get started.
+* Some knowledge of Markdown,
+  * The following [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/) may be helpful.
+  * You can also use a visual WYSIWYG editor for Markdown such as [Stack Edit](https://stackedit.io/app).
 
 ## Gitbook & GitHub integration
 
 This repo has two branches:
 
-* `master`: reserved for production only. The `master` branch is synced with the [Gitbook page for this manual](https://salsa-digital.gitbook.io/govcms-site-builder/) and is only editable by maintainers of this repo. 
-  * Any changes merged in to `master` will automatically be reflected on Gitbook. 
-* `develop`: the default branch used for development and content changes. 
+* `master`: reserved for production only. The `master` branch is synced with the [Gitbook page for this manual](https://salsa-digital.gitbook.io/govcms-site-builder/) and is only editable by maintainers of this repo.
+  * Any changes merged in to `master` will automatically be reflected on Gitbook.
+* `develop`: the default branch used for development and content changes.
 
 ## How to contribute
 
@@ -46,7 +46,7 @@ Trying to edit or create a file in this repository will create your fork automat
 
 For content changes or new pages, you can use the GitHub online editor:
 
-* Open the page you want to edit on your forked version of the repo on GitHub and press the Edit icon \(pen icon\).
+* Open the page you want to edit on your forked version of the repo on GitHub and press the Edit icon (pen icon).
 * When have finalised your changes, scroll to the bottom of the page and write a description of the changes you're proposing under the "Commit changes" ection. Then select `Create a new branch for this commit and start a pull request` and click on `Propose file change`. This will direct you to the Pull request page
 * On the Pull request page, write a short comment explaining why are proposing those changes and publish your pull request clicking on Create pull request.
 
@@ -61,4 +61,3 @@ Moderators will review and comment on pull requests. We may suggest changes, imp
 ## Community
 
 If you have any other questions about contributing to our documentation, please reach out to govcms.training@salsadigital.com.au or join the online [GovCMS Community Discourse](https://community.govcms.gov.au/).
-
