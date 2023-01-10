@@ -54,9 +54,7 @@ In the current setup, content editors can create and publish job postings. We’
     * Save content
     * Update URL alias
 
-    <img src="../.gitbook/assets/Ex-6-10-Workflows-5.png" alt="Image of Add fields" data-size="original">
-
-    <img src="../.gitbook/assets/Ex-6-10-Workflows-6.png" alt="Image of Configure Bulk operations field" data-size="original">
+    <img src="../.gitbook/assets/Ex-6-10-Workflows-5.png" alt="Image of Add fields" data-size="original"> <img src="../.gitbook/assets/Ex-6-10-Workflows-6.png" alt="Image of Configure Bulk operations field" data-size="original">
 
 Note that we did not select the “Publish content” and “Unpublish content”. Since we have a moderation workflow in place, these actions won’t work on our site.
 
@@ -122,4 +120,3 @@ Lastly, we will change the access/permission settings for this new view, from **
 Save the view and review. Go to admin/submitted-jobs. If there are no Job Listings in Draft status you should see the screen below:
 
 ![Image of No jobs waiting for review](../.gitbook/assets/Ex-6-10-Workflows-20.png)
-

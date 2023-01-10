@@ -5,12 +5,11 @@ In this exercise we’ll add a new link field to the _Job Posting_ content type.
 ## Add the link field
 
 1. Go to _Structure_ → _Content types_ → **Job Posting** and click on the **Manage fields** tab.
-2. Add a new field and use the following settings: 
+2.  Add a new field and use the following settings:
 
-    ![Image of new Field settings](../.gitbook/assets/Ex-8-1-Link-Field-1.png)
-    
-3. Click **Save and continue.** This will take you to the Field settings page. 
-4. There are no changes so just click **Save settings**. 
+    <img src="../.gitbook/assets/Ex-8-1-Link-Field-1.png" alt="Image of new Field settings" data-size="original">
+3. Click **Save and continue.** This will take you to the Field settings page.
+4. There are no changes so just click **Save settings**.
 5. This takes you to the settings for this field on the _Job posting_ content type.
 
 ## Test it
@@ -38,4 +37,3 @@ You can also make the link title field a required field. Follow the instructions
 The **More information** fields should now be required fields.
 
 ![Image of new Field settings](../.gitbook/assets/Ex-8-1-Link-Field-4.png)
-
