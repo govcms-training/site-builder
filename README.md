@@ -1,4 +1,5 @@
 # GovCMS Site Building Training Manual
+.
 
 [![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)
 
