@@ -1,6 +1,6 @@
 # Exercise 4.2: Add Taxonomy field to content types
 
-Use your experience from the previous exercises to add the State/Territory field to all content types.
+Use your experience from the previous exercises to add the State/Territory field to the Job Posting content type.
 
 ![Image of State/Territory added to Job Listing](../.gitbook/assets/Ex-4-2-Add-Taxonomy-1.png)
 
