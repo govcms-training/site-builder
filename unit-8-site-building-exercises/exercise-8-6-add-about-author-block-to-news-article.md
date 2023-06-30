@@ -119,7 +119,7 @@ Let’s review how the Panelizer content is configured. We’ll practice placing
 
 1.  Click the **Edit** button in the Sidebar Right (2:1) row
 
-    <img src="../.gitbook/assets/115 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (4).png" alt="Image of Edit Sidebar Right" data-size="original">
+    ![](<../.gitbook/assets/Screenshot 2023-06-29 at 1.53.46 pm.png>)
 2.  Click the **Content** vertical tab on the left:
 
     <img src="../.gitbook/assets/207.png" alt="Image of General Settings - Content" data-size="original">
@@ -141,14 +141,3 @@ Let’s review how the Panelizer content is configured. We’ll practice placing
 Test it by navigating to a published News and Media article. You may update the content of the page and the Authoring information, to check how the display changes.
 
 Logout and test: Can anonymous users see the block?
-
-At the moment, anonymous users can’t see the block. The final step is to set up permissions so anonymous users can see user profiles.
-
-1. Go to People → Permissions
-2. Scroll down to “View user information”
-3.  Select to allow _Anonymous_ and _Authenticated users_ to View user information
-
-    <img src="../.gitbook/assets/212.png" alt="Image of block Permissions" data-size="original">
-4. Scroll down and click **Save permissions**
-
-Now when you go back and check the site as an anonymous user you’ll see the author information.

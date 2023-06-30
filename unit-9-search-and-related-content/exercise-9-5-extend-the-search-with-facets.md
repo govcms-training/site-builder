@@ -6,15 +6,7 @@
 
 Our Job posting content type provides fields such as **Terms of employment**, **State/Territory** and **Agency**. Let’s add them as facets and see if that improves our search.
 
-## Ensure the Facets module is enabled
-
-1. Navigate to the **Extend** page.
-2. Filter modules by keyword **facets**.
-3.  Make sure the Facets module is enabled. If it isn’t already enabled, enable it and click **Install**.
-
-    <img src="../.gitbook/assets/Ex-9-5-Facets-1.png" alt="Image of Facets module enabled" data-size="original">
-4. Check permissions. Go to _People_ → _Permissions_ and search for **Facets**.
-5. Ensure the “**Administer Facets**” permission is given to the right user roles.
+**Facets** module is already enabled in your training environment.
 
 ## Configure Facets
 

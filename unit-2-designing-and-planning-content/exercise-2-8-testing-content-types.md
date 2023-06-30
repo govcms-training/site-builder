@@ -4,7 +4,7 @@
 
 Create a Job listing manually.
 
-1. Go to _Contnet_ _Add content_ → **Job posting**.
+1. Go to _Content ->_ _Add content_ → **Job posting**.
 2.  On the Add Job posting form, enter the following information:
 
     * **Job Title** – Police Officers
@@ -26,11 +26,12 @@ Often we need content to help test new content types. However, creating content 
 
 **Note:** The Devel Generate module should not be enabled or used in a production website.
 
-1. Navigate to **Extend** and search for **Devel Generate**. Enable the module if not enabled already.
-2. Go to _Configuration_ → _Generate_ → **Generate content**.
-3. Select the Job Posting checkbox.
-4. Enter 10 in the **How many nodes would you like to generate?** field.
-5. Click **Generate** button.
+This module is already enabled on your training environment.
+
+1. Go to _Configuration_ → _Generate_ → **Generate content**.
+2. Select the Job Posting checkbox.
+3. Enter 10 in the **How many nodes would you like to generate?** field.
+4. Click **Generate** button.
 
 ![Image of Job posting](../.gitbook/assets/Unit-2-Testing-Content-Types-3.png)
 
