@@ -1,6 +1,6 @@
 # Exercise 1.5: Assign the related links menu block to a region
 
-When you create a new menu, GovCMS automatically creates a menu block for the menu. Now we need to assign this menu block with an area on the website.
+When you create a new menu, GovCMS automatically creates a menu block for the menu. Now we need to assign this menu block to a region on the website.
 
 1. Go to _Structure_ → **Block layout** (/admin/structure/block).
 2.  Scroll down and find the **Footer Top** area and click the **Place block** button.
