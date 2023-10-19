@@ -37,10 +37,10 @@ To maximise this exercise, make sure user accounts have profile images. Out-of-t
 
     <img src="../.gitbook/assets/Ex-8-6-About-Author-6.png" alt="Image of Field settings" data-size="original">
 4. **Save** your changes.
-5. Add images to the profile of some website users. Alternatively use the _Generate users_ function (**Configuration** → **Development** → **Generate users**).
+5. Add images to the profile of some website users. Alternatively use the _Generate users_ function (**Configuration** → **Generate** → **Generate users**).
 6. Change the authors of existing content so we have a variety of authors. Edit the “Authoring information” tab in the existing _News and Media_ and _Job postings_.
 
-Alternatively use the _Generate content_ function (**Configuration** → **Development** → **Generate content**). Select News and Media, Job posting content types.
+Alternatively use the _Generate content_ function (**Configuration** → **Generate** → **Generate content**). Select News and Media, Job posting content types.
 
 **Note:** If the _Generate content function_ was used, make sure you publish your _News_ and _media_ posts. Remember, they’re not published by default due to the _Moderation workflow_ in place.
 
