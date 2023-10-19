@@ -32,7 +32,7 @@ We’re now going to add the **Image field** to the agency content type. When ad
 
 * **Label:** Agency Logo
 * **Field name:** field\_agency\_logo
-* **Field type:** Media Reference
+* **Field type:** Media Reference (not Dynamic media reference)
 * **Number of values:** 1
 * **Required:** Leave unselected
 * **Help text:** “If available, please upload a logo for this agency.”
