@@ -6,7 +6,7 @@ In this exercise, we’ll add in the logo of the agency offering the job, by set
 
 ## Preparation - create Agencies, update Job Postings
 
-1.  Add some new Agency content types, and upload a logo for each. See the screenshot below for an example.
+1.  Add some new Agency content and upload a logo for each. See the screenshot below for an example.
 
     <img src="../.gitbook/assets/Ex-8-4-Agency-Logo-2.png" alt="Image of Agency page" data-size="original">
 2.  Update some existing **Job postings** to link to the agencies setup in step 1. See the screenshot below for an example.
