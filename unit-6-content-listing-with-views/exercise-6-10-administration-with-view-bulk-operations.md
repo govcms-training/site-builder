@@ -109,7 +109,7 @@ Adding a “no results” message will clearly show that the view IS working pro
 
 ## Change access settings for this view
 
-Lastly, we will change the access/permission settings for this new view, from **View published content** to **Administer content**.
+Lastly, we will change the access/permission settings for this new view, from **View published content** to **Administer content**. Note that you can only do this with a user belonging to a role that has the necessary permissions.
 
 ![Image of View - Access](../.gitbook/assets/Ex-6-10-Workflows-18.png)
 
