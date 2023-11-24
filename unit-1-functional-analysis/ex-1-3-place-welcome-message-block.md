@@ -4,7 +4,7 @@ Many websites contain a welcome message on the homepage. In this exercise you’
 
 The screenshot below displays some blocks being placed in various footer regions. You will build a similar block in this exercise.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Showing Blocks in the various footer regions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Showing Blocks in the various footer regions</p></figcaption></figure>
 
 ## Add a custom block
 
@@ -15,7 +15,7 @@ The screenshot below displays some blocks being placed in various footer regions
    * **Body**: “Government Jobs Portal is the official site to search and apply for jobs in the federal or state government. Be part of the bigger picture.”
 4. Click the **Save** button.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Entering data into the block creation page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Entering data into the block creation page</p></figcaption></figure>
 
 ## Place custom block
 
@@ -43,7 +43,7 @@ After the page is saved, you’ll be redirected to the _Block Layout_ page. If y
 Now go to the homepage of your site and view your new welcome message/block in the footer.\
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>New block being seeing in the Footer top 1 region</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>New block being seeing in the Footer top 1 region</p></figcaption></figure>
 
 {% hint style="info" %}
 **Tip:** Blocks aren’t content so they won’t be displayed in the content listing. To view all custom blocks go to _Structure_ → _Block layout_ → **Custom block library** .
