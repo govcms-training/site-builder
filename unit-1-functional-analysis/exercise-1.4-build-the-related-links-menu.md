@@ -44,6 +44,8 @@ Make sure you select "Provide a menu link" and select the parent item "Related l
 
 On the _Admin menu_ hover over _Structure_ → _Menus_ then click on **Related links**. The new pages you created now appear in this admin area.
 
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Showing links in the Related Link Menu</p></figcaption></figure>
+
 You can also add the links manually by following these steps:
 
 1. In the menu administration page, click **Add link** at the top of the Related links. At the menu link creation page type in these settings:
