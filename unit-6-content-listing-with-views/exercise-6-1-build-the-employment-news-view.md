@@ -1,6 +1,6 @@
 # Exercise 6.1: Build the employment news view
 
-In this exercise we’ll build an Employment news page/listing by creating a new view. The screenshot below shows what the employment news page will look like after we’ve created the new Employment news view.
+In this exercise we’ll build an Employment news page/listing by creating a new view. This view page will list all job posts.
 
 ## Create the view using the wizard
 
