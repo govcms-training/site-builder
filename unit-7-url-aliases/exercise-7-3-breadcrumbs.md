@@ -2,7 +2,7 @@
 
 Now that we’ve added a custom URL alias and all job postings inherit the common URL pattern, let’s link our breadcrumb to the URL alias and explore how we can improve the user interface by manipulating breadcrumb links.
 
-In Unit 6 we created a View called _Job Posting_ and added a link to the top Main Navigation menu ([Exercise 6.2](../unit-6-content-listing-with-views/exercise-6-2-create-job-posting-view.md)).
+In Unit 6 we created a View called _Job Posting_ and added a link to the top Main Navigation menu ([Exercise 6.2](broken-reference)).
 
 ![Image of Job posting View](../.gitbook/assets/Ex-7-3-Breadcrumbs-1.png)
 
