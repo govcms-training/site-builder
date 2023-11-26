@@ -11,10 +11,12 @@ In this exercise you’ll create a vocabulary, add terms and reorder the terms.
    * **Description**: Australian states/territories
    *   Click **Save**.
 
-       <img src="../.gitbook/assets/Ex-4-1-Vocabulary-1.png" alt="Image of add Vocabulary" data-size="original">
+
+
+       <figure><img src="../.gitbook/assets/Ex-4-1-Vocabulary-1.png" alt=""><figcaption><p>Adding a State vocabulary</p></figcaption></figure>
 2.  You can now see the new _State/Territory_ vocabulary on the main Taxonomy page (_Structure_ → **Taxonomy**). Next you’ll need to add terms to the vocabulary. Click **List terms**.
 
-    <img src="../.gitbook/assets/Ex-4-1-Vocabulary-2.png" alt="Image of add Vocabulary" data-size="original">
+    <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Showing "Add term" button in States vocabulary</p></figcaption></figure>
 3. Click **Add term** button.
    * **Name**: ACT
    * **Description**: leave empty
@@ -33,5 +35,5 @@ In this exercise you’ll create a vocabulary, add terms and reorder the terms.
    * Tasmania
 2.  Navigate to the **list** of all terms in the vocabulary by going to _Structure_ → _Taxonomy_ → **State/territory**. By default the list is ordered alphabetically, but you can change the order by dragging the terms up or down. As an exercise, drag “Queensland” to the top of the list.
 
-    <img src="../.gitbook/assets/Ex-4-1-Vocabulary-3.png" alt="Image of add Vocabulary" data-size="original">
+    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Dragging Queensland term to the top</p></figcaption></figure>
 3. Click **Save**.
