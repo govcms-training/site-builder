@@ -23,7 +23,9 @@ Our parent page (**Jobs**) URL is **/job-postings** and our **Job Posting** _con
 1. Navigate to the **Structure** → **Views** and edit our _Job Postings_ view.
 2.  Locate _Path_ under _Page Settings_ (middle top section).
 
-    <img src="../.gitbook/assets/Ex-7-3-Breadcrumbs-4.png" alt="Image of Breadcrumb to Home" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-7-3-Breadcrumbs-4.png" alt=""><figcaption></figcaption></figure>
 3. Edit the _Path_, change it to **/jobs**.
 4. **Save** the view
 5. Test the _breadcrumb_ by navigating to any _Job Posting_ content. You should now get the **Job Posting** link in the breadcrumb.
