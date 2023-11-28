@@ -10,7 +10,7 @@ In this exercise, we’ll add a Related Links menu item. This can be broken into
 4.  Click **Save** to create the new menu.\
 
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Add menu screen</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Add menu screen</p></figcaption></figure>
 
 ## Add menu items to the related links menu
 
@@ -25,7 +25,7 @@ Now that you’ve created the custom menu, you need to add in the **links** to e
 2. Scroll down and click on the “Menu settings” item. Under Available menus, enable Related links.
 3. Click **Save content type**.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Adding Related links to Page content type</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Adding Related links to Page content type</p></figcaption></figure>
 
 ### Add several new Pages to build menu links
 

@@ -15,7 +15,7 @@ The screenshot below displays some blocks being placed in various footer regions
    * **Body**: “Government Jobs Portal is the official site to search and apply for jobs in the federal or state government. Be part of the bigger picture.”
 4. Click the **Save** button.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Entering data into the block creation page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Entering data into the block creation page</p></figcaption></figure>
 
 ## Place custom block
 
