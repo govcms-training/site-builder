@@ -6,17 +6,22 @@ In this exercise, we’re going to automatically assign a URL alias pattern to t
 
 1.  Go to _Configuration_ → _Search and metadata_ → **URL aliases**, then click on the **Patterns** tab.
 
-    <img src="../.gitbook/assets/Ex-7-1-URL-Patterns-1.png" alt="Image of URL alias Patterns" data-size="original">
 
-    Our new content type Job posting is not listed yet, so let’s create a new _Pathauto pattern_.
+
+    Our new content type Job posting is not listed yet, so let’s create a new _Pathauto pattern_.\
+
+
+    <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>SHowing existing URL Patterns</p></figcaption></figure>
 2. Click the **Add Pathauto pattern** button.
 3. Select **Content** in the **Pattern type** selector.
 4. Select the **Job Posting** checkbox in the **Content type** selector.
 5. Enter **Job Posting** in the **Label** field.
 6. We need to find out which token to use in the **Path pattern** field so that it automatically takes our **Job posting** title and converts it into a safe URL. To explore available tokens, click the **Browse available tokens** link. In the **Available tokens** pop-up, expand **Nodes** and find **Title** field. Copy the token provided (\[node:title]) and update the **Path pattern** field with **jobs/\[node:title]**
-7. Review the values and **Save** the form.
+7.  Review the values and **Save** the form.\
+    \
 
-![Image of URL alias Patterns](../.gitbook/assets/Ex-7-1-URL-Patterns-2.png)
+
+    <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Job URL alias pattern settings</p></figcaption></figure>
 
 ## Update existing paths
 
@@ -33,7 +38,7 @@ The new URL alias pattern has now been applied to existing content on your site.
 
 To test it out, create some new **Job Postings** and you’ll see _Pathauto_ automatically adding the new URL alias pattern to the pages when they’re saved.
 
-![Image of New Job posting with URL Alias](../.gitbook/assets/Ex-7-1-URL-Patterns-4.png)
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Job alias is checked on creating a new Job Post</p></figcaption></figure>
 
 {% hint style="warning" %}
 **Note:** The URL alias field will only be populated _after_ saving the content (as Draft, Needs review or Published).
