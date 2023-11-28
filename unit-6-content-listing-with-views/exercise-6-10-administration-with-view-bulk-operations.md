@@ -8,14 +8,16 @@ In the current setup, content editors can create and publish job postings. We’
 
 1.  Go to _Configuration_ → _Workflow_ → **Workflows**.
 
-    <img src="../.gitbook/assets/Ex-6-10-Workflows-1.png" alt="Image of Workflows" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-6-10-Workflows-1.png" alt=""><figcaption></figcaption></figure>
 2. Edit the existing “Editorial” workflow. We’re going to reuse the existing workflow states and transitions as-is, to match the moderation workflow of the rest of the site.
 3.  Scroll down to **This workflow applies to** section and press **Select** in the **Content types** row.
 
-    <img src="../.gitbook/assets/Ex-6-10-Workflows-2.png" alt="Image of This workflow applies to" data-size="original">
+    <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Select button next to Content types in Workflow</p></figcaption></figure>
 4.  Select the **Job Posting** checkbox, **Save** the changes.
 
-    <img src="../.gitbook/assets/Ex-6-10-Workflows-3.png" alt="Image of Select Job Posting" data-size="original">
+    <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption><p>Select Job Post</p></figcaption></figure>
 5. Press the **Save** button in the Edit Editorial workflow page.
 
 ## Add the view
@@ -35,7 +37,9 @@ In the current setup, content editors can create and publish job postings. We’
 
     > **Hint**: Go to _Structure_ → _Views_ → **Add View**.
 
-    <img src="../.gitbook/assets/Ex-6-10-Workflows-4.png" alt="Image of Add view" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-6-10-Workflows-4.png" alt=""><figcaption></figcaption></figure>
 2. Click **Save and edit**.
 
 ## Add fields
@@ -54,7 +58,11 @@ In the current setup, content editors can create and publish job postings. We’
     * Save content
     * Update URL alias
 
-    <img src="../.gitbook/assets/Ex-6-10-Workflows-5.png" alt="Image of Add fields" data-size="original"> <img src="../.gitbook/assets/Ex-6-10-Workflows-6.png" alt="Image of Configure Bulk operations field" data-size="original">
+    &#x20;
+
+    <figure><img src="../.gitbook/assets/Ex-6-10-Workflows-5.png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/Ex-6-10-Workflows-6.png" alt=""><figcaption></figcaption></figure>
 
 Note that we did not select the “Publish content” and “Unpublish content”. Since we have a moderation workflow in place, these actions won’t work on our site.
 
@@ -101,10 +109,14 @@ Adding a “no results” message will clearly show that the view IS working pro
 1. In the middle column, under **NO RESULTS BEHAVIOR**, click **Add**.
 2.  Select Global: Text area
 
-    <img src="../.gitbook/assets/Ex-6-10-Workflows-16.png" alt="Image of Add text area" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-6-10-Workflows-16.png" alt=""><figcaption></figcaption></figure>
 3.  Then set the message “There are no job postings currently waiting for review!”.
 
-    <img src="../.gitbook/assets/Ex-6-10-Workflows-17.png" alt="Image of No results message" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-6-10-Workflows-17.png" alt=""><figcaption></figcaption></figure>
 4. **Apply** the changes.
 
 ## Change access settings for this view
