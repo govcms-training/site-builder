@@ -63,13 +63,17 @@ Finally, we’re going to add a references field for job postings.
     * **Content type:** Agency
     * **Sort by**: - None -
 
-    <img src="../.gitbook/assets/Ex-8-2-Agency-Logo-5.png" alt="Image of Reference field" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-8-2-Agency-Logo-5.png" alt=""><figcaption></figcaption></figure>
 3. Click **Save settings**.
 4. You’ll also need to configure the form display. Use the **Select list** _widget_ for the **Agency** field. Note: You can also move the **Agency** field on the form so it’s above the **Job description** field.
 5. You’ll also need to configure the display. Set the _Agency_ field to display as a link.
 6.  Your job posting fields will now look something like the screenshot below.
 
-    <img src="../.gitbook/assets/Ex-8-2-Agency-Logo-6.png" alt="Image of Manage fields" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-8-2-Agency-Logo-6.png" alt=""><figcaption></figcaption></figure>
 7. You may rearrange any new fields we’ve added and bring them above the Job description field.
 
 ![Image of Manage form display](../.gitbook/assets/Ex-8-2-Agency-Logo-7.png)
