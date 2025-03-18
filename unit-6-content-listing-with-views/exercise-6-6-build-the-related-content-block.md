@@ -10,7 +10,7 @@ Make sure you have some _Job posting_ content tagged with the _State/Territory_ 
 
 ## Create the View
 
-Follow the process outlines in [Exercise 6.5](exercise-6-5-make-a-list-of-states-territories-block.md) to create a new View called **Related content**.
+Follow the process outlines in [Exercise 6.5](exercise-6-5-make-a-list-of-states-territories-block.md) to create a new View Block called **Related content**.
 
 ![Image of Related content View](../.gitbook/assets/Ex-6-6-Create-View-1.png)
 
