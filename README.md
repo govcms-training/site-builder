@@ -1,41 +1,25 @@
-# GovCMS8 Site Building Training Manual
+# Introduction
 
-[![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)
+<div><figure><img src=".gitbook/assets/govcms-logo.png" alt="" width="80"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/salsa-logo.png" alt="" width="92"><figcaption></figcaption></figure></div>
 
-![GovCMS Logo](.gitbook/assets/govcms-logo.png) ![Salsa Digital Logo](.gitbook/assets/salsa-logo.png)
+### Welcome to the Advanced Content Management training manual for GovCMS
 
-This manual is aimed at developers familiar with Drupal and/or other web content management systems \(CMSs\) who want to build or extend a GovCMS SaaS website. You should have skills in basic HTML, CSS, some Twig and basic PHP.
+This manual provides a clear, practical guide for creating, editing, managing and maintaining content on GovCMS websites. It's written for advanced content editors and site builders working on both GovCMS SaaS and PaaS platforms.
 
-Public URL: [https://salsa-digital.gitbook.io/govcms-site-builder](https://salsa-digital.gitbook.io/govcms-site-builder/)  GitHub URL: [https://github.com/govcms-training/site-builder](https://github.com/govcms-training/site-builder)
+The structure reflects current GovCMS best practice and Drupal 11 functionality. All instructions are theme‑agnostic unless noted otherwise.&#x20;
 
-## What you will learn
+Each section includes practical explanations and, where applicable, exercises to reinforce learning. To get the most out of the practical exercises, make sure you have access to a GovCMS feature environment or a local instance of your website running.
 
-In this training manual, you will learn how to:
+Additional documentation can be found on the [GovCMS Knowledge Base](https://www.govcms.support/support/solutions) articles found on the [GovCMS Service Desk](https://govcms.freshdesk.com/).
 
-1. Extend default functionality in GovCMS8 to meet advanced functional requirements
-2. Show best practices for GovCMS8 site building
-3. Configure both controlled vocabularies and free tagging with Taxonomy
-4. Manage navigation through the GovCMS menu system
-5. Use URL path configuration to improve your site’s search
-6. Configure automatically generated images and thumbnails
-7. Create advanced listings of content
-8. Maintain a secure and well-performing website
+{% hint style="info" %}
+The training manual is intended for use as a companion piece to the remote or in-person GovCMS training, as such there are specific call-outs to the GovCMS training program.
 
-This manual also includes challenge exercises, which are designed for those who have additional time or who want to know more about a particular feature.
+However, the majority of the information in the training manual is applicable outside of the training.
+{% endhint %}
 
-## Contributing & Feedback
+<figure><img src=".gitbook/assets/cc-by-sa.png" alt=""><figcaption><p><a href="https://creativecommons.org/licenses/by-sa/3.0/au/">https://creativecommons.org/licenses/by-sa/3.0/au/</a></p></figcaption></figure>
 
-We’re continually working on improving these documents with community input and we appreciate any feedback, whether it's helping to contribute to further documentation or code, grammar issues, or simply a suggestion or improvement! Please refer to the [Contributing guide](contributing.md) for more guidance on this topic.
+### Jump right in
 
-Alternatively you can also provide any feedback by emailing **govcms.training@salsadigital.com.au.**
-
-## License
-
-[![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Australia License \(CC BY-SA 3.0 AU\)](https://creativecommons.org/licenses/by-sa/3.0/au/).
-
-> This manual has been created for the GovCMS Site Builder course. The manual uses a combination of content from drupal.org, adapted content from drupal.org and content we’ve written specifically for the GovCMS Site Builder course. Re-used and adapted content is in accordance with the [Creative Commons License, Attribution-ShareAlike 2.0 \(CC BY-SA 2.0\)](https://creativecommons.org/licenses/by-sa/2.0/).
-
-[![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/au/)
-
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting started with GovCMS</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/getting-started-with-govcms">Getting started with GovCMS</a></td></tr><tr><td><strong>Functional overview</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/functional-overview">Functional overview</a></td></tr><tr><td><strong>Blocks and menus</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/blocks-and-menus">Blocks and menus</a></td></tr><tr><td><strong>Designing and planning content</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/designing-and-planning-content">Designing and planning content</a></td></tr><tr><td><strong>Manage media</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/manage-media">Manage Media</a></td></tr><tr><td><strong>Taxonomy</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/taxonomy">Taxonomy</a></td></tr><tr><td><strong>Text formats and rich text</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/text-formats-and-rich-text">Text formats and rich text</a></td></tr><tr><td><strong>Content listing with Views</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/content-listing-with-views">Content listing with Views</a></td></tr><tr><td><strong>URL aliases and redirects</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/url-aliases-and-redirects">URL aliases and redirects</a></td></tr><tr><td><strong>Search</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/search">Search</a></td></tr><tr><td><strong>Webforms</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/webforms">Webforms</a></td></tr><tr><td><strong>Site performance</strong></td><td><a href="https://app.gitbook.com/s/rBOc1YYhVbxepyn61EEz/site-performance">Site performance</a></td></tr></tbody></table>

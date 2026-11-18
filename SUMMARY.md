@@ -1,113 +1,109 @@
 # Table of contents
 
-* [GovCMS8 Site Building Training Manual](README.md)
-* [Contributing and Feedback Guide](contributing.md)
-* [Software and module requirements](software-and-module-requirements.md)
+* [Introduction](README.md)
 
-## UNIT 1: FUNCTIONAL ANALYSIS
+## Getting started with GovCMS
 
-* [Overview](unit-1-functional-analysis/functional-analysis.md)
-* [Layout of a GovCMS page](unit-1-functional-analysis/1.2-layout-of-a-govcms-page.md)
-* [Regions in GovCMS](unit-1-functional-analysis/regions-in-govcms.md)
-* [Planning your site](unit-1-functional-analysis/1.3-planning-your-site.md)
-* [About our client](unit-1-functional-analysis/about-our-client.md)
-* [Understanding requirements](unit-1-functional-analysis/untitled-1.md)
-* [Audience analysis](unit-1-functional-analysis/audience-analysis.md)
-* [User \(visitor\) personas](unit-1-functional-analysis/user-visitor-personas.md)
-* [Define user stories](unit-1-functional-analysis/define-user-stories.md)
-* [Roles and Permissions](unit-1-functional-analysis/1.4-roles-and-permissions.md)
-* [Exercise 1: Configure account settings](unit-1-functional-analysis/challenge-exercice-1.4-configure-account-settings.md)
-* [Test permissions](unit-1-functional-analysis/test-permissions.md)
-* [Blocks in GovCMS](unit-1-functional-analysis/1.5-blocks-in-govcms.md)
-* [Site navigation](unit-1-functional-analysis/1.6-site-navigation.md)
-* [Footers](unit-1-functional-analysis/footers.md)
-* [Exercise 2: Build the related links menu](unit-1-functional-analysis/exercice-1.7-build-the-related-links-menu.md)
-* [Exercise 3: Assign the related links menu block to a region](unit-1-functional-analysis/exercice-1.8-assign-the-related-links-menu-block-to-a-region.md)
-* [Exercise 4: Rearrange the main menu](unit-1-functional-analysis/challenge-exercice-1.10-rearrange-the-main-menu.md)
-* [Theme settings](unit-1-functional-analysis/1.6-theme-settings.md)
-* [Exercise 5: Set custom error messages](unit-1-functional-analysis/untitled-2.md)
-* [Unit 1 Summary](unit-1-functional-analysis/unit-1-summary.md)
+* [What is GovCMS](getting-started-with-govcms/what-is-govcms.md)
+* [The features of GovCMS](getting-started-with-govcms/the-features-of-govcms.md)
+* [How training works](getting-started-with-govcms/how-training-works.md)
+* [What this manual covers](getting-started-with-govcms/what-this-manual-covers.md)
+* [What this manual does not cover](getting-started-with-govcms/what-this-manual-does-not-cover.md)
 
-## UNIT 2: DESIGNING AND PLANNING CONTENT
+## Functional overview
 
-* [Designing and planning content](unit-2-designing-and-planning-content/designing-and-planning-content.md)
-* [Planning your site structure](unit-2-designing-and-planning-content/2.2-planning-your-site-structure.md)
-* [Planning data entry and display](unit-2-designing-and-planning-content/planning-data-entry-and-display.md)
-* [Content stragedy](unit-2-designing-and-planning-content/content-stragedy.md)
-* [Discussion](unit-2-designing-and-planning-content/discussion.md)
-* [Add and configure fields](unit-2-designing-and-planning-content/2.4-add-and-configure-fields.md)
-* [Manage form display](unit-2-designing-and-planning-content/2.5-manage-form-display.md)
-* [Testing content types](unit-2-designing-and-planning-content/2.7-testing-content-types.md)
-* [Unit 2 Summary](unit-2-designing-and-planning-content/unit-2-summary.md)
+* [What is a theme](functional-overview/what-is-a-theme.md)
+* [Layout of a Drupal page](functional-overview/layout-of-a-drupal-page.md)
+* [Blocks in GovCMS](functional-overview/blocks-in-govcms.md)
+* [Roles and permissions](functional-overview/roles-and-permissions.md)
+* [Exercises](functional-overview/exercises.md)
 
-## UNIT 3: MANAGE MEDIA
+## Blocks and menus
 
-* [Manage Media](unit-3-manage-media/manage-media.md)
-* [Customise image display with image styles](unit-3-manage-media/3.2-customise-image-display-with-image-styles.md)
-* [Exercise 6: Review configuration of image media display](unit-3-manage-media/exercice-3.10-review-configuration-of-image-media-display.md)
-* [Unit 3 Summary](unit-3-manage-media/unit-3-summary.md)
+* [Block visibility](blocks-and-menus/block-visibility.md)
+* [Creating a new block](blocks-and-menus/creating-a-new-block.md)
+* [Placing a block](blocks-and-menus/placing-a-block.md)
+* [Menus and site navigation](blocks-and-menus/menus-and-site-navigation.md)
+* [Context](blocks-and-menus/context.md)
+* [Exercises](blocks-and-menus/exercises.md)
 
-## UNIT 4: TAXONOMY - CATEGORISING CONTENT
+## Designing and planning content
 
-* [Taxonomy - Categorising content](unit-4-taxonomy-categorising-content/taxonomy-categorising-content.md)
-* [About input options](unit-4-taxonomy-categorising-content/about-input-options.md)
-* [Try out the new vocuabulary](unit-4-taxonomy-categorising-content/try-out-the-new-vocuabulary.md)
-* [Editorial considerations](unit-4-taxonomy-categorising-content/editorial-considerations.md)
-* [Prepare documentation for new staff onboarding](unit-4-taxonomy-categorising-content/prepare-documentation-for-new-staff-onboarding.md)
-* [Content creation forms](unit-4-taxonomy-categorising-content/content-creation-forms.md)
-* [Unit 4 Summary](unit-4-taxonomy-categorising-content/unit-4-summary.md)
+* [Content types](designing-and-planning-content/content-types.md)
+* [Planning your site structure](designing-and-planning-content/planning-your-site-structure.md)
+* [Creating a content type](designing-and-planning-content/creating-a-content-type.md)
+* [Add and configure fields](designing-and-planning-content/add-and-configure-fields.md)
+* [Manage form display](designing-and-planning-content/manage-form-display.md)
+* [Manage display and view modes](designing-and-planning-content/manage-display-and-view-modes.md)
+* [Additional settings for content types](designing-and-planning-content/additional-settings-for-content-types.md)
+* [Paragraphs](designing-and-planning-content/paragraphs.md)
+* [Create a new paragraph type](designing-and-planning-content/create-a-new-paragraph-type.md)
+* [Cross referencing content](designing-and-planning-content/cross-referencing-content.md)
+* [Minisite](designing-and-planning-content/minisite.md)
+* [Exercises](designing-and-planning-content/exercises.md)
 
-## UNIT 5: TEXT FORMATS AND RICH TEXT
+## Manage Media
 
-* [Text formats and rich text](unit-5-text-formats-and-rich-text/text-formats-and-rich-text.md)
-* [About the cross-site scripting](unit-5-text-formats-and-rich-text/about-the-cross-site-scripting.md)
-* [Text formats](unit-5-text-formats-and-rich-text/untitled.md)
-* [Unit 5 Summary](unit-5-text-formats-and-rich-text/unit-5-summary.md)
+* [Media overview](manage-media/media-overview.md)
+* [Media types](manage-media/media-types.md)
+* [Image styles](manage-media/image-styles.md)
+* [Customise view mode for media](manage-media/customise-view-mode-for-media.md)
+* [Exercises](manage-media/exercises.md)
 
-## UNIT 6: CONTENT LISTING WITH VIEWS
+## Taxonomy
 
-* [Content listing with Views](unit-6-content-listing-with-views/content-listing-with-views.md)
-* [Related content by term](unit-6-content-listing-with-views/untitled.md)
-* [Exercise 7: Configure data field and Event content type](unit-6-content-listing-with-views/exercice-6.7-configure-data-field-and-event-content-type.md)
-* [Customize the content administration experience](unit-6-content-listing-with-views/customize-the-content-administration-experience.md)
-* [Unit 6 Summary](unit-6-content-listing-with-views/unit-6-summary.md)
+* [Taxonomy overview](taxonomy/taxonomy-overview.md)
+* [Creating a taxonomy vocabulary](taxonomy/creating-a-taxonomy-vocabulary.md)
+* [Add your taxonomy to a content type](taxonomy/add-your-taxonomy-to-a-content-type.md)
+* [How to use taxonomy terms](taxonomy/how-to-use-taxonomy-terms.md)
+* [Taxonomy input widgets](taxonomy/taxonomy-input-widgets.md)
+* [Exercises](taxonomy/exercises.md)
 
-## UNIT 7: URL ALIASES
+## Text formats and rich text
 
-* [URL Aliases](unit-7-url-aliases/url-aliases.md)
-* [URL Redirects](unit-7-url-aliases/url-redirects.md)
-* [Menu check](unit-7-url-aliases/menu-check.md)
-* [Unit 7 Summary](unit-7-url-aliases/unit-7-summary.md)
+* [Text formats overview](text-formats-and-rich-text/text-formats-overview.md)
+* [Customising your text formats](text-formats-and-rich-text/customising-your-text-formats.md)
+* [Available toolbar buttons](text-formats-and-rich-text/available-toolbar-buttons.md)
+* [Text format considerations](text-formats-and-rich-text/text-format-considerations.md)
+* [Exercises](text-formats-and-rich-text/exercises.md)
 
-## UNIT 8: SITE BUILDING EXERCISES
+## Content listing with Views
 
-* [Site building exercices workshop](unit-8-site-building-exercises/site-building-exercices-workshop.md)
-* [Extend content types with new fields](unit-8-site-building-exercises/extend-content-types-with-new-fields.md)
-* [Agency reference link](unit-8-site-building-exercises/agency-reference-link.md)
-* [Job list dropdown filter](unit-8-site-building-exercises/job-list-dropdown-filter.md)
-* [Discussion](unit-8-site-building-exercises/discussion.md)
-* [Views contextual filters](unit-8-site-building-exercises/views-contextual-filters.md)
-* [How to add About author block to News article](unit-8-site-building-exercises/how-to-add-about-author-block-to-news-article.md)
-* [Further discussion and exercices](unit-8-site-building-exercises/further-discussion-and-exercices.md)
-* [Employee list and custom profiles](unit-8-site-building-exercises/employee-list-and-custom-profiles.md)
-* [Unit Summary](unit-8-site-building-exercises/unit-summary.md)
-* [Discussion](unit-8-site-building-exercises/discussion-1.md)
+* [Views overview](content-listing-with-views/views-overview.md)
+* [Create a View](content-listing-with-views/create-a-view.md)
+* [Configure the view](content-listing-with-views/configure-the-view.md)
+* [Customise your view](content-listing-with-views/customise-your-view.md)
+* [Views display](content-listing-with-views/views-display.md)
+* [Views showing related content](content-listing-with-views/views-showing-related-content.md)
+* [View showing referenced content](content-listing-with-views/view-showing-referenced-content.md)
+* [Customise the content administration experience](content-listing-with-views/customise-the-content-administration-experience.md)
+* [Views data export](content-listing-with-views/views-data-export.md)
+* [Better exposed filters](content-listing-with-views/better-exposed-filters.md)
+* [Exercises](content-listing-with-views/exercises.md)
 
-## UNIT 9: SEARCH AND RELATED CONTENT
+## URL aliases and redirects
 
-* [Search and related content](unit-9-search-and-related-content/search-and-related-content.md)
-* [Exercise 8: Create new search page with Search API](unit-9-search-and-related-content/exercice-9.3-create-new-search-page-with-search-api.md)
-* [Add fields to the index](unit-9-search-and-related-content/add-fields-to-the-index.md)
-* [Unit Summary](unit-9-search-and-related-content/unit-summary.md)
+* [URL aliases](url-aliases-and-redirects/url-aliases.md)
+* [URL redirects](url-aliases-and-redirects/url-redirects.md)
+* [Exercises](url-aliases-and-redirects/exercises.md)
 
-## UNIT 10: SITE PERFORMANCE
+## Search
 
-* [Overview](unit-10-site-performance/unit-10-site-performance.md)
-* [Planning for Peformance](unit-10-site-performance/planning-for-peformance.md)
-* [Define Goals and Requirements](unit-10-site-performance/define-goals-and-requirements.md)
-* [Review current issues and bottlenecks](unit-10-site-performance/review-current-issues-and-bottlenecks.md)
-* [Other performance considerations](unit-10-site-performance/other-performance-considerations.md)
-* [Unit 10 Summary](unit-10-site-performance/unit-10-summary.md)
-* [Glossary of terms](unit-10-site-performance/glossary-of-terms.md)
-* [Appendices](unit-10-site-performance/appendices.md)
+* [Search overview](search/search-overview.md)
+* [Configuring Solr](search/configuring-solr.md)
+* [Adding a Solr search page](search/adding-a-solr-search-page.md)
+* [Facets](search/facets.md)
+* [Exercises](search/exercises.md)
 
+## Webforms
+
+* [Overview](webforms/overview.md)
+* [Create a multipage webform](webforms/create-a-multipage-webform.md)
+* [Advanced settings](webforms/advanced-settings.md)
+* [Exercises](webforms/exercises.md)
+
+## Site performance
+
+* [Overview](site-performance/overview.md)
+* [Performance on GovCMS](site-performance/performance-on-govcms.md)
+* [Caching on GovCMS](site-performance/caching-on-govcms.md)
